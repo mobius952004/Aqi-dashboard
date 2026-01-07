@@ -1,0 +1,306 @@
+[
+  {
+    "uid": 10125,
+    "station_name": "Burari Crossing, Delhi, Delhi, India",
+    "lat": 28.725646,
+    "lon": 77.203384,
+    "aqi": 186,
+    "fetched_at": "2026-01-07T13:52:35.983227"
+  },
+  {
+    "uid": 10120,
+    "station_name": "Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",
+    "lat": 28.572714,
+    "lon": 76.933433,
+    "aqi": 190,
+    "fetched_at": "2026-01-07T13:52:35.983246"
+  },
+  {
+    "uid": 10707,
+    "station_name": "Sri Auribindo Marg, Delhi, Delhi, India",
+    "lat": 28.528344,
+    "lon": 77.189304,
+    "aqi": 191,
+    "fetched_at": "2026-01-07T13:52:35.983250"
+  },
+  {
+    "uid": 10124,
+    "station_name": "Pusa, Delhi, Delhi, India",
+    "lat": 28.636997,
+    "lon": 77.172248,
+    "aqi": 238,
+    "fetched_at": "2026-01-07T13:52:35.983252"
+  },
+  {
+    "uid": 10118,
+    "station_name": "ITI Shahdra, Jhilmil Industrial Area, Delhi, Delhi, India",
+    "lat": 28.672114,
+    "lon": 77.313832,
+    "aqi": 221,
+    "fetched_at": "2026-01-07T13:52:35.983254"
+  },
+  {
+    "uid": 10121,
+    "station_name": "Sonia Vihar Water Treatment Plant DJB, Delhi, Delhi, India",
+    "lat": 28.710066,
+    "lon": 77.24622,
+    "aqi": 197,
+    "fetched_at": "2026-01-07T13:52:35.983256"
+  },
+  {
+    "uid": 10708,
+    "station_name": "Mundka, Delhi, Delhi, India",
+    "lat": 28.68241,
+    "lon": 77.030469,
+    "aqi": 216,
+    "fetched_at": "2026-01-07T13:52:35.983258"
+  },
+  {
+    "uid": 12816,
+    "station_name": "Sector-51, Gurugram, India",
+    "lat": 28.4227,
+    "lon": 77.0667,
+    "aqi": 234,
+    "fetched_at": "2026-01-07T13:52:35.983260"
+  },
+  {
+    "uid": 12466,
+    "station_name": "Sector-1, Noida, India",
+    "lat": 28.5898,
+    "lon": 77.3101,
+    "aqi": 216,
+    "fetched_at": "2026-01-07T13:52:35.983261"
+  },
+  {
+    "uid": 10705,
+    "station_name": "Jawaharlal Nehru Stadium, Delhi, Delhi, India",
+    "lat": 28.582846,
+    "lon": 77.234366,
+    "aqi": 210,
+    "fetched_at": "2026-01-07T13:52:35.983263"
+  },
+  {
+    "uid": 10119,
+    "station_name": "National Institute of Malaria Research, Sector 8, Dwarka, Delhi, Delhi, India",
+    "lat": 28.576909,
+    "lon": 77.075898,
+    "aqi": 198,
+    "fetched_at": "2026-01-07T13:52:35.983265"
+  },
+  {
+    "uid": 10117,
+    "station_name": "Shaheed Sukhdev College of Business Studies, Rohini, Delhi, Delhi, India",
+    "lat": 28.732743,
+    "lon": 77.118788,
+    "aqi": 213,
+    "fetched_at": "2026-01-07T13:52:35.983267"
+  },
+  {
+    "uid": 11863,
+    "station_name": "Sector - 125, Noida, India",
+    "lat": 28.5447608,
+    "lon": 77.3231257,
+    "aqi": 295,
+    "fetched_at": "2026-01-07T13:52:35.983268"
+  },
+  {
+    "uid": 3715,
+    "station_name": "ITO, Delhi, Delhi, India",
+    "lat": 28.628577,
+    "lon": 77.241036,
+    "aqi": 197,
+    "fetched_at": "2026-01-07T13:52:35.983270"
+  },
+  {
+    "uid": 11267,
+    "station_name": "Pooth Khurd, Bawana, Delhi, Delhi, India",
+    "lat": 28.7757959,
+    "lon": 77.0462514,
+    "aqi": 175,
+    "fetched_at": "2026-01-07T13:52:35.983272"
+  },
+  {
+    "uid": 8179,
+    "station_name": "Shadipur, Delhi, Delhi, India",
+    "lat": 28.65155278,
+    "lon": 77.15804167,
+    "aqi": 183,
+    "fetched_at": "2026-01-07T13:52:35.983274"
+  },
+  {
+    "uid": 12452,
+    "station_name": "Loni, Ghaziabad, India",
+    "lat": 28.757294,
+    "lon": 77.278792,
+    "aqi": 248,
+    "fetched_at": "2026-01-07T13:52:35.983275"
+  },
+  {
+    "uid": 9290,
+    "station_name": "DTU, Delhi, Delhi, India",
+    "lat": 28.749722,
+    "lon": 77.116281,
+    "aqi": 207,
+    "fetched_at": "2026-01-07T13:52:35.983277"
+  },
+  {
+    "uid": 10115,
+    "station_name": "Satyawati College, Delhi, Delhi, India",
+    "lat": 28.69572,
+    "lon": 77.181295,
+    "aqi": 197,
+    "fetched_at": "2026-01-07T13:52:35.983279"
+  },
+  {
+    "uid": 11300,
+    "station_name": "NISE Gwal Pahari, Gurugram, India",
+    "lat": 28.422681,
+    "lon": 77.148944,
+    "aqi": 208,
+    "fetched_at": "2026-01-07T13:52:35.983280"
+  },
+  {
+    "uid": 10116,
+    "station_name": "DITE Okhla, Delhi, Delhi, India",
+    "lat": 28.531314,
+    "lon": 77.270686,
+    "aqi": 230,
+    "fetched_at": "2026-01-07T13:52:35.983282"
+  },
+  {
+    "uid": 2553,
+    "station_name": "Anand Vihar, Delhi, Delhi, India",
+    "lat": 28.6508,
+    "lon": 77.3152,
+    "aqi": 258,
+    "fetched_at": "2026-01-07T13:52:35.983285"
+  },
+  {
+    "uid": 10111,
+    "station_name": "Major Dhyan Chand National Stadium, Delhi, Delhi, India",
+    "lat": 28.612498,
+    "lon": 77.237388,
+    "aqi": 187,
+    "fetched_at": "2026-01-07T13:52:35.983288"
+  },
+  {
+    "uid": 10113,
+    "station_name": "ITI Jahangirpuri, Delhi, Delhi, India",
+    "lat": 28.733016,
+    "lon": 77.17197,
+    "aqi": 273,
+    "fetched_at": "2026-01-07T13:52:35.983290"
+  },
+  {
+    "uid": 10123,
+    "station_name": "CRRI Mathura Road, Delhi, Delhi, India",
+    "lat": 28.551729,
+    "lon": 77.275037,
+    "aqi": 192,
+    "fetched_at": "2026-01-07T13:52:35.983291"
+  },
+  {
+    "uid": 2556,
+    "station_name": "R.K. Puram, Delhi, Delhi, India",
+    "lat": 28.5648,
+    "lon": 77.1744,
+    "aqi": 223,
+    "fetched_at": "2026-01-07T13:52:35.983293"
+  },
+  {
+    "uid": 10112,
+    "station_name": "PGDAV College, Sriniwaspuri, Delhi, Delhi, India",
+    "lat": 28.566827,
+    "lon": 77.251418,
+    "aqi": 310,
+    "fetched_at": "2026-01-07T13:52:35.983295"
+  },
+  {
+    "uid": 2554,
+    "station_name": "Mandir Marg, Delhi, Delhi, India",
+    "lat": 28.6341,
+    "lon": 77.2005,
+    "aqi": 179,
+    "fetched_at": "2026-01-07T13:52:35.983296"
+  },
+  {
+    "uid": 8685,
+    "station_name": "Vikas Sadan Gurgaon, Gurgaon, India",
+    "lat": 28.4501238,
+    "lon": 77.0263051,
+    "aqi": 198,
+    "fetched_at": "2026-01-07T13:52:35.983298"
+  },
+  {
+    "uid": 10704,
+    "station_name": "Mother Dairy Plant, Parparganj, Delhi, Delhi, India",
+    "lat": 28.620171,
+    "lon": 77.287705,
+    "aqi": 207,
+    "fetched_at": "2026-01-07T13:52:35.983299"
+  },
+  {
+    "uid": 10122,
+    "station_name": "Lodhi Road, Delhi, Delhi, India",
+    "lat": 28.589701,
+    "lon": 77.221917,
+    "aqi": 171,
+    "fetched_at": "2026-01-07T13:52:35.983301"
+  },
+  {
+    "uid": 10114,
+    "station_name": "Delhi Institute of Tool Engineering, Wazirpur, Delhi, Delhi, India",
+    "lat": 28.700505,
+    "lon": 77.165603,
+    "aqi": 192,
+    "fetched_at": "2026-01-07T13:52:35.983302"
+  },
+  {
+    "uid": 10706,
+    "station_name": "Narela, Delhi, Delhi, India",
+    "lat": 28.820629,
+    "lon": 77.101099,
+    "aqi": 195,
+    "fetched_at": "2026-01-07T13:52:35.983304"
+  },
+  {
+    "uid": 10110,
+    "station_name": "Dr. Karni Singh Shooting Range, Delhi, Delhi, India",
+    "lat": 28.499727,
+    "lon": 77.267095,
+    "aqi": 216,
+    "fetched_at": "2026-01-07T13:52:35.983306"
+  },
+  {
+    "uid": 10126,
+    "station_name": "Aya Nagar, Delhi, Delhi, India",
+    "lat": 28.482888,
+    "lon": 77.126748,
+    "aqi": 195,
+    "fetched_at": "2026-01-07T13:52:35.983307"
+  },
+  {
+    "uid": 2555,
+    "station_name": "Punjabi Bagh, Delhi, Delhi, India",
+    "lat": 28.6683,
+    "lon": 77.1167,
+    "aqi": 193,
+    "fetched_at": "2026-01-07T13:52:35.983309"
+  },
+  {
+    "uid": 11266,
+    "station_name": "Alipur, Delhi, Delhi, India",
+    "lat": 28.815691,
+    "lon": 77.152491,
+    "aqi": 190,
+    "fetched_at": "2026-01-07T13:52:35.983310"
+  },
+  {
+    "uid": 12447,
+    "station_name": "Arya Nagar, Bahadurgarh, India",
+    "lat": 28.6701,
+    "lon": 76.9254,
+    "aqi": 124,
+    "fetched_at": "2026-01-07T13:52:35.983312"
+  }
+]
