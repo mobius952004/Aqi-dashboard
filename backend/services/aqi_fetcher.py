@@ -1,7 +1,7 @@
 import requests
 import json
 
-API_KEY = "189936e866e63209505807b0784c0c1e62c071b2"
+API_KEY = " "
 API_URL = "https://api.waqi.info/map/bounds/"
 
 def fetch_station_aqi():

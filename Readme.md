@@ -73,7 +73,7 @@ Frontend: React 19, Vite, Tailwind CSS v4
 
 Backend: Python, Flask, Flask-CORS
 
-Data: Real-time AQI API integration
+Data: Real-time AQI API integration\\\
 
 📝 Note on .env Files
 Do not share your API keys. Create a .env file in the backend/ directory and add your credentials there:
