@@ -1,3 +1,5 @@
+import Dashboard from "./pages/Dashboard"
+
 
 
 
@@ -6,7 +8,7 @@ function App() {
 
   return (
     <>
-    <div className='bg-emerald-300 h-48 w-full'></div>
+    <Dashboard/>
      </>
   )
 }

@@ -1,7 +1,10 @@
 import requests
 import json
+import os 
+from dotenv import load_dotenv
+load_dotenv()
 
-API_KEY = " "
+API_KEY = os.getenv(API_KEy)
 API_URL = "https://api.waqi.info/map/bounds/"
 
 def fetch_station_aqi():

@@ -1,4 +1,4 @@
-🌬️ AQI Real-Time Dashboard
+<!-- 🌬️ AQI Real-Time Dashboard
 A full-stack application monitoring real-time Air Quality Index data using a Flask backend and a React (Vite) frontend.
 
 🛠️ Prerequisites
@@ -80,4 +80,4 @@ Do not share your API keys. Create a .env file in the backend/ directory and add
 
 Plaintext
 
-AQI_API_KEY=your_key_here
+AQI_API_KEY=your_key_here -->
