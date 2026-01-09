@@ -1,21 +1,70 @@
 from flask import Flask, jsonify
 from flask_cors import CORS
-from services.aqi_fetcher import fetch_station_aqi
-from services.interpolation import compute_ward_aqi
+import os
+import json
+
+from backend.services.aqi_fetcher import fetch_station_aqi
+from backend.services.interpolation import compute_ward_pollution
+from backend.config import DATA_DIR
 
 app = Flask(__name__)
 CORS(app)
 
-@app.route("/update-aqi")
-def update_aqi():
-    stations = fetch_station_aqi()
-    ward_data = compute_ward_aqi(stations)
-    return jsonify(ward_data)
 
-@app.route("/wards")
+# -----------------------------
+# HEALTH CHECK
+# -----------------------------
+@app.route("/api/health")
+def health():
+    return {"status": "ok"}
+
+
+# -----------------------------
+# GET RAW STATION DATA
+# -----------------------------
+@app.route("/api/stations")
+def get_stations():
+    path = os.path.join(DATA_DIR, "stations.json")
+    if not os.path.exists(path):
+        return {"error": "stations.json not found"}, 404
+
+    with open(path, "r", encoding="utf-8") as f:
+        return jsonify(json.load(f))
+
+
+# -----------------------------
+# GET WARD-LEVEL POLLUTION DATA
+# -----------------------------
+@app.route("/api/wards")
 def get_wards():
-    with open("data/ward_aqi.json") as f:
-        return jsonify(f.read())
+    path = os.path.join(DATA_DIR, "ward_pollution.json")
+    if not os.path.exists(path):
+        return {"error": "ward_pollution.json not found"}, 404
 
+    with open(path, "r", encoding="utf-8") as f:
+        return jsonify(json.load(f))
+
+
+# -----------------------------
+# FORCE DATA UPDATE
+# -----------------------------
+@app.route("/api/update", methods=["POST"])
+def update_data():
+    # Step 1: Fetch station AQI + pollutants
+    stations = fetch_station_aqi()
+
+    # Step 2: Interpolate ward pollution
+    ward_data = compute_ward_pollution(stations)
+
+    return {
+        "message": "Pollution data updated successfully",
+        "stations": len(stations),
+        "wards": len(ward_data)
+    }
+
+
+# -----------------------------
+# ENTRY POINT
+# -----------------------------
 if __name__ == "__main__":
     app.run(debug=True)

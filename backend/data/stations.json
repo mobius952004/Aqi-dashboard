@@ -1,306 +1,562 @@
 [
   {
-    "uid": 10125,
-    "station_name": "Burari Crossing, Delhi, Delhi, India",
-    "lat": 28.725646,
-    "lon": 77.203384,
-    "aqi": 186,
-    "fetched_at": "2026-01-07T13:52:35.983227"
-  },
-  {
-    "uid": 10120,
-    "station_name": "Bramprakash Ayurvedic Hospital, Najafgarh, Delhi, Delhi, India",
-    "lat": 28.572714,
-    "lon": 76.933433,
-    "aqi": 190,
-    "fetched_at": "2026-01-07T13:52:35.983246"
-  },
-  {
-    "uid": 10707,
-    "station_name": "Sri Auribindo Marg, Delhi, Delhi, India",
-    "lat": 28.528344,
-    "lon": 77.189304,
-    "aqi": 191,
-    "fetched_at": "2026-01-07T13:52:35.983250"
-  },
-  {
-    "uid": 10124,
-    "station_name": "Pusa, Delhi, Delhi, India",
-    "lat": 28.636997,
-    "lon": 77.172248,
-    "aqi": 238,
-    "fetched_at": "2026-01-07T13:52:35.983252"
-  },
-  {
-    "uid": 10118,
-    "station_name": "ITI Shahdra, Jhilmil Industrial Area, Delhi, Delhi, India",
-    "lat": 28.672114,
-    "lon": 77.313832,
-    "aqi": 221,
-    "fetched_at": "2026-01-07T13:52:35.983254"
-  },
-  {
-    "uid": 10121,
-    "station_name": "Sonia Vihar Water Treatment Plant DJB, Delhi, Delhi, India",
-    "lat": 28.710066,
-    "lon": 77.24622,
-    "aqi": 197,
-    "fetched_at": "2026-01-07T13:52:35.983256"
-  },
-  {
-    "uid": 10708,
-    "station_name": "Mundka, Delhi, Delhi, India",
-    "lat": 28.68241,
-    "lon": 77.030469,
-    "aqi": 216,
-    "fetched_at": "2026-01-07T13:52:35.983258"
-  },
-  {
     "uid": 12816,
-    "station_name": "Sector-51, Gurugram, India",
     "lat": 28.4227,
     "lon": 77.0667,
-    "aqi": 234,
-    "fetched_at": "2026-01-07T13:52:35.983260"
-  },
-  {
-    "uid": 12466,
-    "station_name": "Sector-1, Noida, India",
-    "lat": 28.5898,
-    "lon": 77.3101,
-    "aqi": 216,
-    "fetched_at": "2026-01-07T13:52:35.983261"
-  },
-  {
-    "uid": 10705,
-    "station_name": "Jawaharlal Nehru Stadium, Delhi, Delhi, India",
-    "lat": 28.582846,
-    "lon": 77.234366,
-    "aqi": 210,
-    "fetched_at": "2026-01-07T13:52:35.983263"
-  },
-  {
-    "uid": 10119,
-    "station_name": "National Institute of Malaria Research, Sector 8, Dwarka, Delhi, Delhi, India",
-    "lat": 28.576909,
-    "lon": 77.075898,
-    "aqi": 198,
-    "fetched_at": "2026-01-07T13:52:35.983265"
-  },
-  {
-    "uid": 10117,
-    "station_name": "Shaheed Sukhdev College of Business Studies, Rohini, Delhi, Delhi, India",
-    "lat": 28.732743,
-    "lon": 77.118788,
-    "aqi": 213,
-    "fetched_at": "2026-01-07T13:52:35.983267"
-  },
-  {
-    "uid": 11863,
-    "station_name": "Sector - 125, Noida, India",
-    "lat": 28.5447608,
-    "lon": 77.3231257,
-    "aqi": 295,
-    "fetched_at": "2026-01-07T13:52:35.983268"
-  },
-  {
-    "uid": 3715,
-    "station_name": "ITO, Delhi, Delhi, India",
-    "lat": 28.628577,
-    "lon": 77.241036,
-    "aqi": 197,
-    "fetched_at": "2026-01-07T13:52:35.983270"
-  },
-  {
-    "uid": 11267,
-    "station_name": "Pooth Khurd, Bawana, Delhi, Delhi, India",
-    "lat": 28.7757959,
-    "lon": 77.0462514,
-    "aqi": 175,
-    "fetched_at": "2026-01-07T13:52:35.983272"
-  },
-  {
-    "uid": 8179,
-    "station_name": "Shadipur, Delhi, Delhi, India",
-    "lat": 28.65155278,
-    "lon": 77.15804167,
-    "aqi": 183,
-    "fetched_at": "2026-01-07T13:52:35.983274"
-  },
-  {
-    "uid": 12452,
-    "station_name": "Loni, Ghaziabad, India",
-    "lat": 28.757294,
-    "lon": 77.278792,
-    "aqi": 248,
-    "fetched_at": "2026-01-07T13:52:35.983275"
-  },
-  {
-    "uid": 9290,
-    "station_name": "DTU, Delhi, Delhi, India",
-    "lat": 28.749722,
-    "lon": 77.116281,
-    "aqi": 207,
-    "fetched_at": "2026-01-07T13:52:35.983277"
-  },
-  {
-    "uid": 10115,
-    "station_name": "Satyawati College, Delhi, Delhi, India",
-    "lat": 28.69572,
-    "lon": 77.181295,
-    "aqi": 197,
-    "fetched_at": "2026-01-07T13:52:35.983279"
-  },
-  {
-    "uid": 11300,
-    "station_name": "NISE Gwal Pahari, Gurugram, India",
-    "lat": 28.422681,
-    "lon": 77.148944,
-    "aqi": 208,
-    "fetched_at": "2026-01-07T13:52:35.983280"
-  },
-  {
-    "uid": 10116,
-    "station_name": "DITE Okhla, Delhi, Delhi, India",
-    "lat": 28.531314,
-    "lon": 77.270686,
-    "aqi": 230,
-    "fetched_at": "2026-01-07T13:52:35.983282"
-  },
-  {
-    "uid": 2553,
-    "station_name": "Anand Vihar, Delhi, Delhi, India",
-    "lat": 28.6508,
-    "lon": 77.3152,
-    "aqi": 258,
-    "fetched_at": "2026-01-07T13:52:35.983285"
-  },
-  {
-    "uid": 10111,
-    "station_name": "Major Dhyan Chand National Stadium, Delhi, Delhi, India",
-    "lat": 28.612498,
-    "lon": 77.237388,
-    "aqi": 187,
-    "fetched_at": "2026-01-07T13:52:35.983288"
-  },
-  {
-    "uid": 10113,
-    "station_name": "ITI Jahangirpuri, Delhi, Delhi, India",
-    "lat": 28.733016,
-    "lon": 77.17197,
-    "aqi": 273,
-    "fetched_at": "2026-01-07T13:52:35.983290"
-  },
-  {
-    "uid": 10123,
-    "station_name": "CRRI Mathura Road, Delhi, Delhi, India",
-    "lat": 28.551729,
-    "lon": 77.275037,
-    "aqi": 192,
-    "fetched_at": "2026-01-07T13:52:35.983291"
-  },
-  {
-    "uid": 2556,
-    "station_name": "R.K. Puram, Delhi, Delhi, India",
-    "lat": 28.5648,
-    "lon": 77.1744,
-    "aqi": 223,
-    "fetched_at": "2026-01-07T13:52:35.983293"
-  },
-  {
-    "uid": 10112,
-    "station_name": "PGDAV College, Sriniwaspuri, Delhi, Delhi, India",
-    "lat": 28.566827,
-    "lon": 77.251418,
-    "aqi": 310,
-    "fetched_at": "2026-01-07T13:52:35.983295"
-  },
-  {
-    "uid": 2554,
-    "station_name": "Mandir Marg, Delhi, Delhi, India",
-    "lat": 28.6341,
-    "lon": 77.2005,
-    "aqi": 179,
-    "fetched_at": "2026-01-07T13:52:35.983296"
-  },
-  {
-    "uid": 8685,
-    "station_name": "Vikas Sadan Gurgaon, Gurgaon, India",
-    "lat": 28.4501238,
-    "lon": 77.0263051,
-    "aqi": 198,
-    "fetched_at": "2026-01-07T13:52:35.983298"
-  },
-  {
-    "uid": 10704,
-    "station_name": "Mother Dairy Plant, Parparganj, Delhi, Delhi, India",
-    "lat": 28.620171,
-    "lon": 77.287705,
-    "aqi": 207,
-    "fetched_at": "2026-01-07T13:52:35.983299"
-  },
-  {
-    "uid": 10122,
-    "station_name": "Lodhi Road, Delhi, Delhi, India",
-    "lat": 28.589701,
-    "lon": 77.221917,
-    "aqi": 171,
-    "fetched_at": "2026-01-07T13:52:35.983301"
-  },
-  {
-    "uid": 10114,
-    "station_name": "Delhi Institute of Tool Engineering, Wazirpur, Delhi, Delhi, India",
-    "lat": 28.700505,
-    "lon": 77.165603,
-    "aqi": 192,
-    "fetched_at": "2026-01-07T13:52:35.983302"
-  },
-  {
-    "uid": 10706,
-    "station_name": "Narela, Delhi, Delhi, India",
-    "lat": 28.820629,
-    "lon": 77.101099,
-    "aqi": 195,
-    "fetched_at": "2026-01-07T13:52:35.983304"
-  },
-  {
-    "uid": 10110,
-    "station_name": "Dr. Karni Singh Shooting Range, Delhi, Delhi, India",
-    "lat": 28.499727,
-    "lon": 77.267095,
-    "aqi": 216,
-    "fetched_at": "2026-01-07T13:52:35.983306"
-  },
-  {
-    "uid": 10126,
-    "station_name": "Aya Nagar, Delhi, Delhi, India",
-    "lat": 28.482888,
-    "lon": 77.126748,
-    "aqi": 195,
-    "fetched_at": "2026-01-07T13:52:35.983307"
+    "aqi": 320,
+    "pollutants": {
+      "pm25": 320,
+      "pm10": 269,
+      "no2": 2,
+      "so2": 2,
+      "o3": 6,
+      "co": 13
+    }
   },
   {
     "uid": 2555,
-    "station_name": "Punjabi Bagh, Delhi, Delhi, India",
     "lat": 28.6683,
     "lon": 77.1167,
-    "aqi": 193,
-    "fetched_at": "2026-01-07T13:52:35.983309"
+    "aqi": 291,
+    "pollutants": {
+      "pm25": 291,
+      "pm10": 285,
+      "no2": 29,
+      "so2": 5,
+      "o3": 9,
+      "co": 7
+    }
+  },
+  {
+    "uid": 11300,
+    "lat": 28.422681,
+    "lon": 77.148944,
+    "aqi": 343,
+    "pollutants": {
+      "pm25": 343,
+      "pm10": 307,
+      "no2": 23,
+      "so2": null,
+      "o3": 2,
+      "co": 19
+    }
+  },
+  {
+    "uid": 10110,
+    "lat": 28.499727,
+    "lon": 77.267095,
+    "aqi": 312,
+    "pollutants": {
+      "pm25": 312,
+      "pm10": 193,
+      "no2": 37,
+      "so2": 9,
+      "o3": 12,
+      "co": 2
+    }
+  },
+  {
+    "uid": 10707,
+    "lat": 28.528344,
+    "lon": 77.189304,
+    "aqi": 230,
+    "pollutants": {
+      "pm25": 230,
+      "pm10": 188,
+      "no2": 49,
+      "so2": 4,
+      "o3": 9,
+      "co": 9
+    }
+  },
+  {
+    "uid": 10123,
+    "lat": 28.551729,
+    "lon": 77.275037,
+    "aqi": 238,
+    "pollutants": {
+      "pm25": 238,
+      "pm10": 173,
+      "no2": 6,
+      "so2": null,
+      "o3": 7,
+      "co": 0
+    }
+  },
+  {
+    "uid": 2553,
+    "lat": 28.6508,
+    "lon": 77.3152,
+    "aqi": 391,
+    "pollutants": {
+      "pm25": 391,
+      "pm10": 380,
+      "no2": 19,
+      "so2": 2,
+      "o3": 3,
+      "co": 10
+    }
+  },
+  {
+    "uid": 10117,
+    "lat": 28.732743,
+    "lon": 77.118788,
+    "aqi": 308,
+    "pollutants": {
+      "pm25": 308,
+      "pm10": 229,
+      "no2": 19,
+      "so2": 2,
+      "o3": 12,
+      "co": 10
+    }
+  },
+  {
+    "uid": 10706,
+    "lat": 28.820629,
+    "lon": 77.101099,
+    "aqi": 197,
+    "pollutants": {
+      "pm25": 197,
+      "pm10": 154,
+      "no2": 14,
+      "so2": 2,
+      "o3": 11,
+      "co": 6
+    }
+  },
+  {
+    "uid": 9290,
+    "lat": 28.749722,
+    "lon": 77.116281,
+    "aqi": 215,
+    "pollutants": {
+      "pm25": 215,
+      "pm10": 141,
+      "no2": 17,
+      "so2": 17,
+      "o3": 9,
+      "co": 0
+    }
+  },
+  {
+    "uid": 12814,
+    "lat": 28.4417,
+    "lon": 77.3217,
+    "aqi": 173,
+    "pollutants": {
+      "pm25": 173,
+      "pm10": 120,
+      "no2": 13,
+      "so2": 2,
+      "o3": 7,
+      "co": 10
+    }
+  },
+  {
+    "uid": 10120,
+    "lat": 28.572714,
+    "lon": 76.933433,
+    "aqi": 208,
+    "pollutants": {
+      "pm25": 208,
+      "pm10": 153,
+      "no2": 42,
+      "so2": 3,
+      "o3": 1,
+      "co": 12
+    }
+  },
+  {
+    "uid": 10704,
+    "lat": 28.620171,
+    "lon": 77.287705,
+    "aqi": 334,
+    "pollutants": {
+      "pm25": 334,
+      "pm10": 216,
+      "no2": 49,
+      "so2": 3,
+      "o3": 14,
+      "co": 18
+    }
+  },
+  {
+    "uid": 10705,
+    "lat": 28.582846,
+    "lon": 77.234366,
+    "aqi": 303,
+    "pollutants": {
+      "pm25": 303,
+      "pm10": 191,
+      "no2": 38,
+      "so2": 8,
+      "o3": 13,
+      "co": 11
+    }
+  },
+  {
+    "uid": 10122,
+    "lat": 28.589701,
+    "lon": 77.221917,
+    "aqi": 242,
+    "pollutants": {
+      "pm25": 242,
+      "pm10": 196,
+      "no2": 24,
+      "so2": null,
+      "o3": 19,
+      "co": 0
+    }
+  },
+  {
+    "uid": 3715,
+    "lat": 28.628577,
+    "lon": 77.241036,
+    "aqi": 310,
+    "pollutants": {
+      "pm25": 310,
+      "pm10": 208,
+      "no2": 28,
+      "so2": 9,
+      "o3": 13,
+      "co": 0
+    }
+  },
+  {
+    "uid": 12452,
+    "lat": 28.757294,
+    "lon": 77.278792,
+    "aqi": 173,
+    "pollutants": {
+      "pm25": 173,
+      "pm10": 87,
+      "no2": 11,
+      "so2": 6,
+      "o3": 1,
+      "co": 19
+    }
+  },
+  {
+    "uid": 10708,
+    "lat": 28.68241,
+    "lon": 77.030469,
+    "aqi": 293,
+    "pollutants": {
+      "pm25": 293,
+      "pm10": 186,
+      "no2": 29,
+      "so2": 5,
+      "o3": 8,
+      "co": 8
+    }
+  },
+  {
+    "uid": 12466,
+    "lat": 28.5898,
+    "lon": 77.3101,
+    "aqi": 316,
+    "pollutants": {
+      "pm25": 316,
+      "pm10": 199,
+      "no2": 35,
+      "so2": 7,
+      "o3": 10,
+      "co": 10
+    }
+  },
+  {
+    "uid": 10113,
+    "lat": 28.733016,
+    "lon": 77.17197,
+    "aqi": 268,
+    "pollutants": {
+      "pm25": 268,
+      "pm10": 179,
+      "no2": 30,
+      "so2": 5,
+      "o3": 6,
+      "co": 19
+    }
+  },
+  {
+    "uid": 10111,
+    "lat": 28.612498,
+    "lon": 77.237388,
+    "aqi": 281,
+    "pollutants": {
+      "pm25": 281,
+      "pm10": 200,
+      "no2": 23,
+      "so2": 8,
+      "o3": 2,
+      "co": 0
+    }
+  },
+  {
+    "uid": 12890,
+    "lat": 28.4275,
+    "lon": 77.1465,
+    "aqi": 273,
+    "pollutants": {
+      "pm25": 273,
+      "pm10": 223,
+      "no2": 21,
+      "so2": 8,
+      "o3": 4,
+      "co": 10
+    }
+  },
+  {
+    "uid": 2556,
+    "lat": 28.5648,
+    "lon": 77.1744,
+    "aqi": 293,
+    "pollutants": {
+      "pm25": 293,
+      "pm10": 209,
+      "no2": 18,
+      "so2": 19,
+      "o3": 10,
+      "co": 14
+    }
+  },
+  {
+    "uid": 2554,
+    "lat": 28.6341,
+    "lon": 77.2005,
+    "aqi": 258,
+    "pollutants": {
+      "pm25": 258,
+      "pm10": 252,
+      "no2": 109,
+      "so2": 0,
+      "o3": 12,
+      "co": 10
+    }
+  },
+  {
+    "uid": 10124,
+    "lat": 28.636997,
+    "lon": 77.172248,
+    "aqi": 303,
+    "pollutants": {
+      "pm25": 302,
+      "pm10": 303,
+      "no2": 51,
+      "so2": 2,
+      "o3": 10,
+      "co": 10
+    }
+  },
+  {
+    "uid": 8179,
+    "lat": 28.65155278,
+    "lon": 77.15804167,
+    "aqi": 197,
+    "pollutants": {
+      "pm25": 197,
+      "pm10": 165,
+      "no2": 17,
+      "so2": 4,
+      "o3": 14,
+      "co": 0
+    }
+  },
+  {
+    "uid": 10114,
+    "lat": 28.700505,
+    "lon": 77.165603,
+    "aqi": 307,
+    "pollutants": {
+      "pm25": 307,
+      "pm10": 285,
+      "no2": 47,
+      "so2": 1,
+      "o3": 8,
+      "co": 14
+    }
+  },
+  {
+    "uid": 8685,
+    "lat": 28.4501238,
+    "lon": 77.0263051,
+    "aqi": 278,
+    "pollutants": {
+      "pm25": 278,
+      "pm10": 268,
+      "no2": 7,
+      "so2": 1,
+      "o3": 6,
+      "co": 15
+    }
   },
   {
     "uid": 11266,
-    "station_name": "Alipur, Delhi, Delhi, India",
     "lat": 28.815691,
     "lon": 77.152491,
-    "aqi": 190,
-    "fetched_at": "2026-01-07T13:52:35.983310"
+    "aqi": 170,
+    "pollutants": {
+      "pm25": 170,
+      "pm10": 96,
+      "no2": 17,
+      "so2": 1,
+      "o3": 4,
+      "co": 4
+    }
   },
   {
     "uid": 12447,
-    "station_name": "Arya Nagar, Bahadurgarh, India",
     "lat": 28.6701,
     "lon": 76.9254,
-    "aqi": 124,
-    "fetched_at": "2026-01-07T13:52:35.983312"
+    "aqi": 171,
+    "pollutants": {
+      "pm25": 171,
+      "pm10": 9,
+      "no2": 4,
+      "so2": 2,
+      "o3": 7,
+      "co": 8
+    }
+  },
+  {
+    "uid": 10126,
+    "lat": 28.482888,
+    "lon": 77.126748,
+    "aqi": 251,
+    "pollutants": {
+      "pm25": 251,
+      "pm10": 207,
+      "no2": 21,
+      "so2": null,
+      "o3": 10,
+      "co": 0
+    }
+  },
+  {
+    "uid": 10115,
+    "lat": 28.69572,
+    "lon": 77.181295,
+    "aqi": 271,
+    "pollutants": {
+      "pm25": 271,
+      "pm10": 240,
+      "no2": 27,
+      "so2": 6,
+      "o3": 12,
+      "co": 14
+    }
+  },
+  {
+    "uid": 10118,
+    "lat": 28.672114,
+    "lon": 77.313832,
+    "aqi": 371,
+    "pollutants": {
+      "pm25": 371,
+      "pm10": 335,
+      "no2": 43,
+      "so2": 11,
+      "o3": 11,
+      "co": 20
+    }
+  },
+  {
+    "uid": 10121,
+    "lat": 28.710066,
+    "lon": 77.24622,
+    "aqi": 243,
+    "pollutants": {
+      "pm25": 243,
+      "pm10": 165,
+      "no2": 16,
+      "so2": 6,
+      "o3": 13,
+      "co": 22
+    }
+  },
+  {
+    "uid": 10125,
+    "lat": 28.725646,
+    "lon": 77.203384,
+    "aqi": 229,
+    "pollutants": {
+      "pm25": 229,
+      "pm10": 163,
+      "no2": 45,
+      "so2": null,
+      "o3": 6,
+      "co": 0
+    }
+  },
+  {
+    "uid": 10116,
+    "lat": 28.531314,
+    "lon": 77.270686,
+    "aqi": 348,
+    "pollutants": {
+      "pm25": 348,
+      "pm10": 232,
+      "no2": 100,
+      "so2": 12,
+      "o3": 15,
+      "co": 29
+    }
+  },
+  {
+    "uid": 10112,
+    "lat": 28.566827,
+    "lon": 77.251418,
+    "aqi": 321,
+    "pollutants": {
+      "pm25": 321,
+      "pm10": 278,
+      "no2": 27,
+      "so2": 8,
+      "o3": 20,
+      "co": 29
+    }
+  },
+  {
+    "uid": 10119,
+    "lat": 28.576909,
+    "lon": 77.075898,
+    "aqi": 309,
+    "pollutants": {
+      "pm25": 309,
+      "pm10": 239,
+      "no2": 43,
+      "so2": 12,
+      "o3": 18,
+      "co": 17
+    }
+  },
+  {
+    "uid": 11267,
+    "lat": 28.7757959,
+    "lon": 77.0462514,
+    "aqi": 267,
+    "pollutants": {
+      "pm25": 267,
+      "pm10": 183,
+      "no2": 7,
+      "so2": 1,
+      "o3": 2,
+      "co": 14
+    }
+  },
+  {
+    "uid": 11863,
+    "lat": 28.5447608,
+    "lon": 77.3231257,
+    "aqi": 286,
+    "pollutants": {
+      "pm25": 286,
+      "pm10": 198,
+      "no2": 41,
+      "so2": 5,
+      "o3": 9,
+      "co": 7
+    }
   }
 ]
