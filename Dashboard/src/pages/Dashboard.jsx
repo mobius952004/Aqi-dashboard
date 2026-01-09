@@ -3,6 +3,7 @@ import PollutionMap from "../components/maps/PollutionMap";
 import WardGrid from "../components/cards/WardGrid";
 import AQITrendChart from "../components/charts/AQITrendChart";
 import { useAQIData } from "../hooks/useAQIData";
+import WardTable from "../components/Tables/WardTable";
 
 export default function Dashboard() {
   const { wardsGeoJSON, wardAQIMap, loading } = useAQIData();
@@ -12,9 +13,9 @@ export default function Dashboard() {
       <Navbar />
 
       <main className="pt-16">
-        <section className="h-[80vh]">
+        <section className="h-[80vh] mx-50 my-30 border-black border-4 rounded-4xl">
           {loading ? (
-            <div className="h-full flex items-center justify-center">
+            <div className="h-full flex rounded-4xl items-center justify-center">
               Loading pollution map…
             </div>
           ) : (
@@ -32,6 +33,9 @@ export default function Dashboard() {
         <section className="bg-gray-600 py-12">
           <AQITrendChart />
         </section>
+              <section className="bg-[#161b20]">
+        <WardTable />
+      </section>
       </main>
     </>
   );

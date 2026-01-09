@@ -2,7 +2,7 @@ import { getAQIStyle } from "../../constants/aqiConfig"
 
 export default function WardCard({ ward }) {
   const {
-    name,
+    ward_name,
     aqi,
     components = {}, // pm25, pm10, no2, o3 etc
   } = ward
@@ -19,7 +19,7 @@ export default function WardCard({ ward }) {
     >
       {/* Ward Name */}
       <h1 className="text-xl font-bold mb-2">
-        {name}
+        {ward_name}
       </h1>
 
       {/* AQI Value */}
