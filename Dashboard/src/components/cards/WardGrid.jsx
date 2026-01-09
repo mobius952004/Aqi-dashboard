@@ -1,20 +1,20 @@
 import { useState } from "react"
 import WardCard from "./WardCard"
 import Pagination from "../pagination/Pagination"
-import wardData from "../../data/ward_aqi.json"
+// import wardData from "../../data/ward_aqi.json"
 // import { useEffect } from "react"
-const PAGE_SIZE = 9
+const PAGE_SIZE = 6
 
-export default function WardGrid() {
+export default function WardGrid({wards}) {
   const [page, setPage] = useState(1)
 
   // useEffect(() => window.scrollTo(0, 0), [page])
 
 
-  const totalPages = Math.ceil(wardData.length / PAGE_SIZE)
+  const totalPages = Math.ceil(wards?.length / PAGE_SIZE)
 
   const start = (page - 1) * PAGE_SIZE
-  const current = wardData.slice(start, start + PAGE_SIZE)
+  const current = wards?.slice(start, start + PAGE_SIZE)
 
   return (
     <>
@@ -24,7 +24,7 @@ export default function WardGrid() {
 
       {/* Cards */}
       <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
-        {current.map((ward, i) => (
+        {current?.map((ward, i) => (
           <WardCard key={i} ward={ward} />
         ))}
       </div>

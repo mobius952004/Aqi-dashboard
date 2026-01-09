@@ -65,19 +65,25 @@ export default function WardTableRow({ ward }) {
       </td>
 
       <td className="px-6 py-4">
-        {ward.components?.pm25 ?? "-"}
+        {ward.pollutants?.pm25 ?? "-"}
       </td>
 
       <td className="px-6 py-4">
-        {ward.components?.pm10 ?? "-"}
+        {ward.pollutants?.pm10 ?? "-"}
       </td>
 
       <td className="px-6 py-4">
-        {ward.temperature ?? "-"}
+        {ward.pollutants?.co ?? "-"}
       </td>
 
       <td className="px-6 py-4">
-        {ward.humidity ?? "-"}
+        {ward.pollutants?.no2 ?? "-"}
+      </td>
+      <td className="px-6 py-4">
+        {ward.pollutants?.so2 ?? "-"}
+      </td>
+      <td className="px-6 py-4">
+        {ward.pollutants?.o3 ?? "-"}
       </td>
     </tr>
   )

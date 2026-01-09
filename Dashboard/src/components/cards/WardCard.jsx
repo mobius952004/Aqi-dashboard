@@ -4,7 +4,7 @@ export default function WardCard({ ward }) {
   const {
     ward_name,
     aqi,
-    components = {}, // pm25, pm10, no2, o3 etc
+    pollutants = {}, // pm25, pm10, no2, o3 etc
   } = ward
 
   const aqiStyle = getAQIStyle(aqi)
@@ -26,7 +26,7 @@ export default function WardCard({ ward }) {
       <div className="flex items-center gap-4 mb-4">
         <div className={`text-4xl font-extrabold ${aqiStyle.text}`}>
           {aqi}
-        </div>
+        </div>cd.
 
         <div>
           <p className={`text-sm font-semibold ${aqiStyle.text}`}>
@@ -40,7 +40,7 @@ export default function WardCard({ ward }) {
 
       {/* Pollutant Components */}
       <div className="grid grid-cols-2 gap-3 text-sm">
-        {Object.entries(components).map(([key, value]) => (
+        {Object.entries(pollutants).map(([key, value]) => (
           <div
             key={key}
             className="bg-white/60 rounded-md px-3 py-2"

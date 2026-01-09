@@ -4,9 +4,18 @@ import WardGrid from "../components/cards/WardGrid";
 import AQITrendChart from "../components/charts/AQITrendChart";
 import { useAQIData } from "../hooks/useAQIData";
 import WardTable from "../components/Tables/WardTable";
+import { useState } from "react";
+import { useEffect } from "react";
 
 export default function Dashboard() {
   const { wardsGeoJSON, wardAQIMap, loading } = useAQIData();
+  const [wards,setwards]=useState([])
+
+  useEffect(() => {
+    fetch("http://localhost:5000/api/wards")
+      .then(res => res.json())
+      .then(data => setwards(data))
+  }, [])
 
   return (
     <>
@@ -27,14 +36,14 @@ export default function Dashboard() {
         </section>
 
         <section className="max-w-7xl mx-auto px-6 py-12">
-          <WardGrid />
+          <WardGrid wards={wards} />
         </section>
 
         <section className="bg-gray-600 py-12">
-          <AQITrendChart />
+          <AQITrendChart wards={wards} />
         </section>
               <section className="bg-[#161b20]">
-        <WardTable />
+        <WardTable wards={wards} />
       </section>
       </main>
     </>
