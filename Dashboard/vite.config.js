@@ -8,6 +8,7 @@ export default defineConfig({
     tailwindcss(),
   ],
   server:{
-    open:'/Aqi-dashboard'
+    open:'/Aqi-dashboard',
+    host:true
   }
 })

@@ -55,7 +55,7 @@ export default function PollutionMap({ wardsGeoJSON, wardAQIMap }) {
     <MapContainer
       center={[28.6139, 77.2090]}
       zoom={11}
-      className="h-full w-full"
+      className="h-full w-full z-0 rounded-4xl scroll-offset"
     >
       <TileLayer
         attribution="© OpenStreetMap contributors"
