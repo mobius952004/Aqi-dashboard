@@ -7,7 +7,7 @@ import WardTable from "../components/Tables/WardTable";
 import { useState } from "react";
 import { useEffect } from "react";
 import AQILegend from "../components/layout/AqiLegendUI";
-import { fetchLiveWardAQI } from "../services/api";
+// import { fetchLiveWardAQI } from "../services/api";
 
 
 export default function Dashboard() {
@@ -24,7 +24,7 @@ const [wards, setWards] = useState([])
           method: "POST",
         })
         
-        const res = await fetchLiveWardAQI()
+        const res = await fetch("http://localhost:5000/api/wards");
         const data = await res.json()
 
         if (isMounted) {
