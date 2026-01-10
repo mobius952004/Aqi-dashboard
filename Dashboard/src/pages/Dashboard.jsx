@@ -11,9 +11,9 @@ import { fetchLiveWardAQI } from "../services/api";
 
 
 export default function Dashboard() {
-  const { wardsGeoJSON, wardAQIMap, loading } = useAQIData();
-const [wards, setWards] = useState([])
+  const [wards, setWards] = useState([])
   const [lastUpdated, setLastUpdated] = useState(null)
+  const { wardsGeoJSON, wardAQIMap, loading } = useAQIData(wards);
 
   useEffect(() => {
     let isMounted = true
@@ -24,8 +24,8 @@ const [wards, setWards] = useState([])
           method: "POST",
         })
         
-        const res = await fetchLiveWardAQI()
-        const data = await res.json()
+        const data = await fetchLiveWardAQI()
+        
 
         if (isMounted) {
           setWards(data)
