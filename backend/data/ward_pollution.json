@@ -1,3482 +1,3482 @@
 [
   {
     "ward_name": "DELHI CANTT CHARGE 1",
-    "aqi": 164.79,
+    "aqi": 160.16,
     "pollutants": {
-      "pm25": 164.98,
-      "pm10": 114.66,
-      "no2": 26.87,
-      "so2": 4.38,
-      "o3": 14.77,
-      "co": 6.8
+      "pm25": 158.23,
+      "pm10": 114.18,
+      "no2": 27.61,
+      "so2": 4.56,
+      "o3": 12.86,
+      "co": 6.68
     }
   },
   {
     "ward_name": "DELHI CANTT CHARGE 2",
-    "aqi": 165.38,
+    "aqi": 160.88,
     "pollutants": {
-      "pm25": 165.58,
+      "pm25": 158.44,
       "pm10": 114.62,
-      "no2": 28.48,
-      "so2": 4.68,
-      "o3": 15.42,
-      "co": 7.49
-    }
-  },
-  {
-    "ward_name": "DELHI CANTT CHARGE 4",
-    "aqi": 166.03,
-    "pollutants": {
-      "pm25": 166.31,
-      "pm10": 112.95,
-      "no2": 24.68,
-      "so2": 6.51,
-      "o3": 21.3,
-      "co": 9.35
-    }
-  },
-  {
-    "ward_name": "DELHI CANTT CHARGE 5",
-    "aqi": 164.8,
-    "pollutants": {
-      "pm25": 165.1,
-      "pm10": 110.45,
-      "no2": 26.08,
-      "so2": 5.75,
-      "o3": 18.46,
-      "co": 8.31
-    }
-  },
-  {
-    "ward_name": "DELHI CANTT CHARGE 6",
-    "aqi": 165.18,
-    "pollutants": {
-      "pm25": 165.45,
-      "pm10": 106.83,
-      "no2": 28.05,
-      "so2": 6.44,
-      "o3": 15.9,
-      "co": 8.22
-    }
-  },
-  {
-    "ward_name": "DELHI CANTT CHARGE 7",
-    "aqi": 164.71,
-    "pollutants": {
-      "pm25": 164.96,
-      "pm10": 108.66,
-      "no2": 27.49,
-      "so2": 5.76,
-      "o3": 15.92,
-      "co": 7.78
-    }
-  },
-  {
-    "ward_name": "DELHI CANTT CHARGE 8",
-    "aqi": 164.48,
-    "pollutants": {
-      "pm25": 164.73,
-      "pm10": 111.03,
-      "no2": 26.97,
-      "so2": 5.14,
-      "o3": 16.43,
-      "co": 7.57
-    }
-  },
-  {
-    "ward_name": "DELHI CANTT CHARGE 3",
-    "aqi": 165.21,
-    "pollutants": {
-      "pm25": 165.46,
-      "pm10": 112.82,
-      "no2": 27.2,
-      "so2": 5.49,
-      "o3": 18.14,
-      "co": 8.23
-    }
-  },
-  {
-    "ward_name": "NDMC CHARGE 1",
-    "aqi": 153.91,
-    "pollutants": {
-      "pm25": 153.96,
-      "pm10": 100.51,
-      "no2": 24.29,
-      "so2": 4.97,
-      "o3": 18.23,
-      "co": 3.93
-    }
-  },
-  {
-    "ward_name": "NDMC CHARGE 2",
-    "aqi": 157.69,
-    "pollutants": {
-      "pm25": 157.76,
-      "pm10": 92.56,
-      "no2": 42.88,
-      "so2": 8.37,
-      "o3": 19.93,
-      "co": 5.53
-    }
-  },
-  {
-    "ward_name": "NDMC CHARGE 3",
-    "aqi": 162.31,
-    "pollutants": {
-      "pm25": 162.42,
-      "pm10": 104.74,
-      "no2": 38.83,
-      "so2": 6.5,
-      "o3": 17.26,
-      "co": 7.17
-    }
-  },
-  {
-    "ward_name": "NDMC CHARGE 4",
-    "aqi": 157.99,
-    "pollutants": {
-      "pm25": 158.1,
-      "pm10": 99.34,
-      "no2": 32.8,
-      "so2": 6.5,
-      "o3": 19.89,
-      "co": 5.49
-    }
-  },
-  {
-    "ward_name": "NDMC CHARGE 5",
-    "aqi": 157.26,
-    "pollutants": {
-      "pm25": 157.35,
-      "pm10": 102.22,
-      "no2": 20.9,
-      "so2": 4.94,
-      "o3": 23.61,
-      "co": 4.16
-    }
-  },
-  {
-    "ward_name": "NDMC CHARGE 7",
-    "aqi": 162.65,
-    "pollutants": {
-      "pm25": 162.88,
-      "pm10": 108.22,
-      "no2": 23.46,
-      "so2": 5.0,
-      "o3": 23.34,
-      "co": 7.68
-    }
-  },
-  {
-    "ward_name": "NDMC CHARGE 8",
-    "aqi": 164.02,
-    "pollutants": {
-      "pm25": 164.23,
-      "pm10": 110.67,
-      "no2": 24.03,
-      "so2": 6.03,
-      "o3": 23.31,
-      "co": 8.31
-    }
-  },
-  {
-    "ward_name": "NDMC CHARGE 9",
-    "aqi": 163.42,
-    "pollutants": {
-      "pm25": 163.62,
-      "pm10": 109.71,
-      "no2": 26.05,
-      "so2": 5.89,
-      "o3": 21.7,
-      "co": 7.79
-    }
-  },
-  {
-    "ward_name": "NDMC CHARGE 6",
-    "aqi": 157.52,
-    "pollutants": {
-      "pm25": 157.56,
-      "pm10": 99.91,
-      "no2": 16.25,
-      "so2": 3.77,
-      "o3": 26.13,
-      "co": 2.24
-    }
-  },
-  {
-    "ward_name": "CHANDNI CHOWK",
-    "aqi": 161.54,
-    "pollutants": {
-      "pm25": 161.7,
-      "pm10": 104.14,
-      "no2": 28.73,
-      "so2": 4.72,
-      "o3": 17.69,
-      "co": 6.11
-    }
-  },
-  {
-    "ward_name": "MINTO ROAD",
-    "aqi": 159.57,
-    "pollutants": {
-      "pm25": 159.66,
-      "pm10": 97.15,
-      "no2": 28.36,
-      "so2": 3.89,
-      "o3": 14.86,
-      "co": 3.31
-    }
-  },
-  {
-    "ward_name": "KUCHA PANDIT",
-    "aqi": 160.28,
-    "pollutants": {
-      "pm25": 160.42,
-      "pm10": 101.17,
-      "no2": 31.09,
-      "so2": 5.17,
-      "o3": 17.38,
-      "co": 5.41
-    }
-  },
-  {
-    "ward_name": "BAZAR SITARAM",
-    "aqi": 160.41,
-    "pollutants": {
-      "pm25": 160.54,
-      "pm10": 101.01,
-      "no2": 29.5,
-      "so2": 4.65,
-      "o3": 16.82,
-      "co": 4.99
-    }
-  },
-  {
-    "ward_name": "IDGAH ROAD",
-    "aqi": 160.6,
-    "pollutants": {
-      "pm25": 160.74,
-      "pm10": 102.05,
-      "no2": 33.72,
-      "so2": 5.86,
-      "o3": 17.81,
-      "co": 6.17
-    }
-  },
-  {
-    "ward_name": "KHYALA",
-    "aqi": 158.0,
-    "pollutants": {
-      "pm25": 158.11,
-      "pm10": 106.2,
-      "no2": 19.69,
-      "so2": 3.7,
-      "o3": 17.48,
-      "co": 5.28
-    }
-  },
-  {
-    "ward_name": "JANAK PURI NORTH",
-    "aqi": 162.68,
-    "pollutants": {
-      "pm25": 162.88,
-      "pm10": 108.64,
-      "no2": 24.66,
-      "so2": 4.65,
-      "o3": 16.02,
-      "co": 6.62
-    }
-  },
-  {
-    "ward_name": "MUKHERJEE NAGAR",
-    "aqi": 163.29,
-    "pollutants": {
-      "pm25": 163.37,
-      "pm10": 105.67,
-      "no2": 34.8,
-      "so2": 4.97,
-      "o3": 18.14,
-      "co": 6.46
-    }
-  },
-  {
-    "ward_name": "JANAK PURI WEST",
-    "aqi": 163.66,
-    "pollutants": {
-      "pm25": 163.88,
-      "pm10": 107.44,
-      "no2": 25.7,
-      "so2": 5.19,
-      "o3": 15.75,
-      "co": 7.04
-    }
-  },
-  {
-    "ward_name": "JANAK PURI SOUTH",
-    "aqi": 163.71,
-    "pollutants": {
-      "pm25": 163.93,
-      "pm10": 108.51,
-      "no2": 26.13,
-      "so2": 5.17,
-      "o3": 15.72,
-      "co": 7.13
-    }
-  },
-  {
-    "ward_name": "MILAP NAGAR",
-    "aqi": 164.11,
-    "pollutants": {
-      "pm25": 164.34,
-      "pm10": 106.68,
-      "no2": 25.98,
-      "so2": 5.4,
-      "o3": 15.54,
-      "co": 7.18
-    }
-  },
-  {
-    "ward_name": "SITA PURI",
-    "aqi": 164.8,
-    "pollutants": {
-      "pm25": 165.01,
-      "pm10": 106.85,
-      "no2": 27.63,
-      "so2": 6.03,
-      "o3": 15.13,
-      "co": 7.66
-    }
-  },
-  {
-    "ward_name": "CHHAWLA",
-    "aqi": 155.79,
-    "pollutants": {
-      "pm25": 156.03,
-      "pm10": 82.16,
-      "no2": 28.14,
-      "so2": 1.8,
-      "o3": 8.07,
-      "co": 6.09
-    }
-  },
-  {
-    "ward_name": "NANGLI SAKRAVATI",
-    "aqi": 158.76,
-    "pollutants": {
-      "pm25": 159.06,
-      "pm10": 96.42,
-      "no2": 25.03,
-      "so2": 3.61,
-      "o3": 12.47,
-      "co": 6.95
-    }
-  },
-  {
-    "ward_name": "KAKRAULA",
-    "aqi": 162.58,
-    "pollutants": {
-      "pm25": 162.85,
-      "pm10": 103.8,
-      "no2": 25.54,
-      "so2": 5.06,
-      "o3": 14.62,
-      "co": 7.34
-    }
-  },
-  {
-    "ward_name": "KHERA",
-    "aqi": 152.17,
-    "pollutants": {
-      "pm25": 152.34,
-      "pm10": 77.63,
-      "no2": 28.74,
-      "so2": 1.4,
-      "o3": 6.86,
-      "co": 5.51
-    }
-  },
-  {
-    "ward_name": "DILSHAD GARDEN",
-    "aqi": 185.12,
-    "pollutants": {
-      "pm25": 185.22,
-      "pm10": 142.02,
-      "no2": 27.26,
-      "so2": 5.68,
-      "o3": 26.18,
-      "co": 8.92
-    }
-  },
-  {
-    "ward_name": "NEW SEEMA PURI",
-    "aqi": 181.32,
-    "pollutants": {
-      "pm25": 181.49,
-      "pm10": 138.21,
-      "no2": 26.33,
-      "so2": 5.19,
-      "o3": 24.15,
-      "co": 8.52
-    }
-  },
-  {
-    "ward_name": "NAND NAGRI",
-    "aqi": 177.32,
-    "pollutants": {
-      "pm25": 177.5,
-      "pm10": 131.8,
-      "no2": 25.63,
-      "so2": 4.99,
-      "o3": 23.19,
-      "co": 8.58
-    }
-  },
-  {
-    "ward_name": "SUNDER NAGARI",
-    "aqi": 178.37,
-    "pollutants": {
-      "pm25": 178.56,
-      "pm10": 133.69,
-      "no2": 25.82,
-      "so2": 5.01,
-      "o3": 23.33,
-      "co": 8.49
-    }
-  },
-  {
-    "ward_name": "DURGA PURI",
-    "aqi": 177.18,
-    "pollutants": {
-      "pm25": 177.35,
-      "pm10": 131.63,
-      "no2": 25.63,
-      "so2": 4.98,
-      "o3": 23.1,
-      "co": 8.56
-    }
-  },
-  {
-    "ward_name": "ASHOK NAGAR",
-    "aqi": 173.37,
-    "pollutants": {
-      "pm25": 173.57,
-      "pm10": 125.75,
-      "no2": 24.78,
-      "so2": 4.76,
-      "o3": 22.17,
-      "co": 8.69
-    }
-  },
-  {
-    "ward_name": "RAM NAGAR",
-    "aqi": 176.26,
-    "pollutants": {
-      "pm25": 176.43,
-      "pm10": 131.28,
-      "no2": 25.48,
-      "so2": 4.77,
-      "o3": 22.22,
-      "co": 8.21
-    }
-  },
-  {
-    "ward_name": "WELCOME COLONY",
-    "aqi": 169.88,
-    "pollutants": {
-      "pm25": 170.08,
-      "pm10": 120.64,
-      "no2": 24.71,
-      "so2": 4.52,
-      "o3": 20.77,
-      "co": 8.22
-    }
-  },
-  {
-    "ward_name": "CHAUHAN BANGER",
-    "aqi": 167.16,
-    "pollutants": {
-      "pm25": 167.36,
-      "pm10": 114.86,
-      "no2": 24.07,
-      "so2": 4.68,
-      "o3": 21.05,
-      "co": 8.93
-    }
-  },
-  {
-    "ward_name": "ZAFFRABAD",
-    "aqi": 166.22,
-    "pollutants": {
-      "pm25": 166.43,
-      "pm10": 113.44,
-      "no2": 24.73,
-      "so2": 4.56,
-      "o3": 20.32,
-      "co": 8.3
-    }
-  },
-  {
-    "ward_name": "MAUJPUR",
-    "aqi": 167.76,
-    "pollutants": {
-      "pm25": 167.96,
-      "pm10": 115.53,
-      "no2": 23.38,
-      "so2": 4.79,
-      "o3": 21.76,
-      "co": 9.55
-    }
-  },
-  {
-    "ward_name": "GHONDA",
-    "aqi": 166.13,
-    "pollutants": {
-      "pm25": 166.3,
-      "pm10": 111.43,
-      "no2": 22.2,
-      "so2": 5.05,
-      "o3": 22.66,
-      "co": 10.69
-    }
-  },
-  {
-    "ward_name": "YAMUNA VIHAR",
-    "aqi": 166.51,
-    "pollutants": {
-      "pm25": 166.68,
-      "pm10": 111.84,
-      "no2": 21.35,
-      "so2": 5.09,
-      "o3": 23.29,
-      "co": 11.25
-    }
-  },
-  {
-    "ward_name": "SUBHASH MOHALLA",
-    "aqi": 166.86,
-    "pollutants": {
-      "pm25": 167.05,
-      "pm10": 113.03,
-      "no2": 22.19,
-      "so2": 4.98,
-      "o3": 22.65,
-      "co": 10.57
-    }
-  },
-  {
-    "ward_name": "KARDAM PURI",
-    "aqi": 170.44,
-    "pollutants": {
-      "pm25": 170.64,
-      "pm10": 120.73,
-      "no2": 24.07,
-      "so2": 4.7,
-      "o3": 21.76,
-      "co": 9.02
-    }
-  },
-  {
-    "ward_name": "JANTA COLONY",
-    "aqi": 169.38,
-    "pollutants": {
-      "pm25": 169.58,
-      "pm10": 119.2,
-      "no2": 24.32,
-      "so2": 4.63,
-      "o3": 21.19,
-      "co": 8.69
-    }
-  },
-  {
-    "ward_name": "BABAR PUR",
-    "aqi": 171.33,
-    "pollutants": {
-      "pm25": 171.53,
-      "pm10": 122.56,
-      "no2": 24.54,
-      "so2": 4.68,
-      "o3": 21.58,
-      "co": 8.65
-    }
-  },
-  {
-    "ward_name": "JIWANPUR",
-    "aqi": 166.86,
-    "pollutants": {
-      "pm25": 167.06,
-      "pm10": 114.19,
-      "no2": 22.16,
-      "so2": 4.61,
-      "o3": 21.99,
-      "co": 10.04
-    }
-  },
-  {
-    "ward_name": "GOKALPUR",
-    "aqi": 168.81,
-    "pollutants": {
-      "pm25": 169.02,
-      "pm10": 117.89,
-      "no2": 23.32,
-      "so2": 4.63,
-      "o3": 21.73,
-      "co": 9.37
-    }
-  },
-  {
-    "ward_name": "SABOLI",
-    "aqi": 171.75,
-    "pollutants": {
-      "pm25": 171.98,
-      "pm10": 123.55,
-      "no2": 24.36,
-      "so2": 4.57,
-      "o3": 21.63,
-      "co": 8.63
-    }
-  },
-  {
-    "ward_name": "HARSH VIHAR",
-    "aqi": 173.44,
-    "pollutants": {
-      "pm25": 173.69,
-      "pm10": 126.64,
-      "no2": 24.83,
-      "so2": 4.61,
-      "o3": 21.74,
-      "co": 8.38
-    }
-  },
-  {
-    "ward_name": "SHIV VIHAR",
-    "aqi": 165.34,
-    "pollutants": {
-      "pm25": 165.51,
-      "pm10": 112.44,
-      "no2": 21.08,
-      "so2": 4.2,
-      "o3": 21.63,
-      "co": 9.97
-    }
-  },
-  {
-    "ward_name": "KARAWAL NAGAR EAST",
-    "aqi": 165.57,
-    "pollutants": {
-      "pm25": 165.72,
-      "pm10": 110.63,
-      "no2": 20.43,
-      "so2": 4.85,
-      "o3": 23.24,
-      "co": 11.44
-    }
-  },
-  {
-    "ward_name": "MUSTAFABAD",
-    "aqi": 165.9,
-    "pollutants": {
-      "pm25": 166.05,
-      "pm10": 110.05,
-      "no2": 19.97,
-      "so2": 5.21,
-      "o3": 24.21,
-      "co": 12.25
-    }
-  },
-  {
-    "ward_name": "KHAJOORI KHAS",
-    "aqi": 165.59,
-    "pollutants": {
-      "pm25": 165.67,
-      "pm10": 105.58,
-      "no2": 15.31,
-      "so2": 6.12,
-      "o3": 28.56,
-      "co": 16.22
-    }
-  },
-  {
-    "ward_name": "KARAWAL NAGAR WEST",
-    "aqi": 164.89,
-    "pollutants": {
-      "pm25": 165.02,
-      "pm10": 109.56,
-      "no2": 19.97,
-      "so2": 4.74,
-      "o3": 23.24,
-      "co": 11.58
-    }
-  },
-  {
-    "ward_name": "SONIA VIHAR",
-    "aqi": 164.62,
-    "pollutants": {
-      "pm25": 164.73,
-      "pm10": 107.51,
-      "no2": 20.27,
-      "so2": 5.17,
-      "o3": 23.99,
-      "co": 12.39
-    }
-  },
-  {
-    "ward_name": "NIZAMUDDIN",
-    "aqi": 158.52,
-    "pollutants": {
-      "pm25": 158.67,
-      "pm10": 106.06,
-      "no2": 23.53,
-      "so2": 4.44,
-      "o3": 22.16,
-      "co": 7.09
-    }
-  },
-  {
-    "ward_name": "BHOGAL",
-    "aqi": 166.68,
-    "pollutants": {
-      "pm25": 166.83,
-      "pm10": 111.75,
-      "no2": 24.63,
-      "so2": 3.77,
-      "o3": 24.79,
-      "co": 16.41
-    }
-  },
-  {
-    "ward_name": "KASTURBA NAGAR",
-    "aqi": 161.92,
-    "pollutants": {
-      "pm25": 161.92,
-      "pm10": 107.86,
-      "no2": 23.87,
-      "so2": 2.04,
-      "o3": 27.88,
-      "co": 7.94
-    }
-  },
-  {
-    "ward_name": "AMAR COLONY",
-    "aqi": 168.43,
-    "pollutants": {
-      "pm25": 168.57,
-      "pm10": 112.94,
-      "no2": 25.02,
-      "so2": 3.73,
-      "o3": 25.77,
-      "co": 19.2
-    }
-  },
-  {
-    "ward_name": "MALVIYA NAGAR",
-    "aqi": 163.55,
-    "pollutants": {
-      "pm25": 163.71,
-      "pm10": 103.84,
-      "no2": 26.18,
-      "so2": 3.09,
-      "o3": 20.05,
-      "co": 7.08
-    }
-  },
-  {
-    "ward_name": "HAUZ RANI",
-    "aqi": 163.33,
-    "pollutants": {
-      "pm25": 163.78,
-      "pm10": 106.88,
-      "no2": 26.35,
-      "so2": 3.57,
-      "o3": 20.64,
-      "co": 8.14
-    }
-  },
-  {
-    "ward_name": "ANDREWSGANJ",
-    "aqi": 162.98,
-    "pollutants": {
-      "pm25": 163.17,
-      "pm10": 108.15,
-      "no2": 23.81,
-      "so2": 3.49,
-      "o3": 24.62,
-      "co": 9.88
-    }
-  },
-  {
-    "ward_name": "VASANT VIHAR",
-    "aqi": 169.13,
-    "pollutants": {
-      "pm25": 169.31,
-      "pm10": 118.93,
-      "no2": 23.37,
-      "so2": 8.13,
-      "o3": 25.06,
-      "co": 11.34
-    }
-  },
-  {
-    "ward_name": "MUNIRKA",
-    "aqi": 171.69,
-    "pollutants": {
-      "pm25": 171.79,
-      "pm10": 123.64,
-      "no2": 22.27,
-      "so2": 9.35,
-      "o3": 28.0,
-      "co": 12.95
-    }
-  },
-  {
-    "ward_name": "NANAK PURA",
-    "aqi": 169.5,
-    "pollutants": {
-      "pm25": 169.65,
-      "pm10": 120.09,
-      "no2": 23.71,
-      "so2": 8.37,
-      "o3": 25.37,
-      "co": 11.52
-    }
-  },
-  {
-    "ward_name": "VASANTKUNJ",
-    "aqi": 165.28,
-    "pollutants": {
-      "pm25": 165.57,
-      "pm10": 110.26,
-      "no2": 24.34,
-      "so2": 5.57,
-      "o3": 21.72,
-      "co": 8.86
-    }
-  },
-  {
-    "ward_name": "DAKSHINPURI EXT.",
-    "aqi": 164.15,
-    "pollutants": {
-      "pm25": 164.83,
-      "pm10": 110.44,
-      "no2": 31.11,
-      "so2": 3.12,
-      "o3": 21.19,
-      "co": 9.36
-    }
-  },
-  {
-    "ward_name": "KHANPUR",
-    "aqi": 162.98,
-    "pollutants": {
-      "pm25": 163.9,
-      "pm10": 108.1,
-      "no2": 27.71,
-      "so2": 3.42,
-      "o3": 18.98,
-      "co": 7.76
-    }
-  },
-  {
-    "ward_name": "AMBEDKAR NAGAR",
-    "aqi": 163.65,
-    "pollutants": {
-      "pm25": 164.5,
-      "pm10": 109.66,
-      "no2": 29.55,
-      "so2": 3.3,
-      "o3": 19.51,
-      "co": 8.28
-    }
-  },
-  {
-    "ward_name": "MADANGIR",
-    "aqi": 163.86,
-    "pollutants": {
-      "pm25": 164.64,
-      "pm10": 109.99,
-      "no2": 30.17,
-      "so2": 3.24,
-      "o3": 20.18,
-      "co": 8.69
-    }
-  },
-  {
-    "ward_name": "PUSHP VIHAR",
-    "aqi": 163.42,
-    "pollutants": {
-      "pm25": 164.09,
-      "pm10": 108.53,
-      "no2": 27.87,
-      "so2": 3.46,
-      "o3": 20.41,
-      "co": 8.55
-    }
-  },
-  {
-    "ward_name": "TUGHLAKABAD EXTN",
-    "aqi": 164.9,
-    "pollutants": {
-      "pm25": 165.64,
-      "pm10": 111.89,
-      "no2": 34.32,
-      "so2": 2.88,
-      "o3": 19.18,
-      "co": 8.29
-    }
-  },
-  {
-    "ward_name": "SANGAM VIHAR CENTRAL",
-    "aqi": 164.99,
-    "pollutants": {
-      "pm25": 166.1,
-      "pm10": 112.82,
-      "no2": 30.02,
-      "so2": 3.55,
-      "o3": 10.6,
-      "co": 4.27
-    }
-  },
-  {
-    "ward_name": "SANGAM VIHAR EAST",
-    "aqi": 167.25,
-    "pollutants": {
-      "pm25": 167.52,
-      "pm10": 115.22,
-      "no2": 30.58,
-      "so2": 3.82,
-      "o3": 4.21,
-      "co": 1.43
-    }
-  },
-  {
-    "ward_name": "CHIRAG DELHI",
-    "aqi": 164.13,
-    "pollutants": {
-      "pm25": 164.68,
-      "pm10": 110.1,
-      "no2": 29.19,
-      "so2": 3.33,
-      "o3": 21.98,
-      "co": 10.07
-    }
-  },
-  {
-    "ward_name": "CHITRANJAN PARK",
-    "aqi": 165.03,
-    "pollutants": {
-      "pm25": 165.51,
-      "pm10": 111.76,
-      "no2": 36.33,
-      "so2": 2.43,
-      "o3": 24.26,
-      "co": 11.1
-    }
-  },
-  {
-    "ward_name": "SHAPUR JAT",
-    "aqi": 163.64,
-    "pollutants": {
-      "pm25": 164.08,
-      "pm10": 108.85,
-      "no2": 26.24,
-      "so2": 3.79,
-      "o3": 22.09,
-      "co": 9.54
-    }
-  },
-  {
-    "ward_name": "GREATER KAILASH-I",
-    "aqi": 166.24,
-    "pollutants": {
-      "pm25": 166.52,
-      "pm10": 111.73,
-      "no2": 26.56,
-      "so2": 3.58,
-      "o3": 24.06,
-      "co": 14.83
-    }
-  },
-  {
-    "ward_name": "SRI NIWASPURI",
-    "aqi": 162.41,
-    "pollutants": {
-      "pm25": 162.58,
-      "pm10": 112.07,
-      "no2": 21.81,
-      "so2": 3.4,
-      "o3": 18.15,
-      "co": 7.77
-    }
-  },
-  {
-    "ward_name": "EAST OF KAILASH",
-    "aqi": 164.62,
-    "pollutants": {
-      "pm25": 164.88,
-      "pm10": 112.3,
-      "no2": 27.91,
-      "so2": 3.02,
-      "o3": 22.13,
-      "co": 11.51
-    }
-  },
-  {
-    "ward_name": "GOVIND PURI",
-    "aqi": 166.84,
-    "pollutants": {
-      "pm25": 167.09,
-      "pm10": 113.09,
-      "no2": 51.09,
-      "so2": 1.0,
-      "o3": 31.11,
-      "co": 14.03
-    }
-  },
-  {
-    "ward_name": "KALKAJI",
-    "aqi": 165.49,
-    "pollutants": {
-      "pm25": 165.76,
-      "pm10": 112.62,
-      "no2": 42.31,
-      "so2": 1.51,
-      "o3": 27.34,
-      "co": 12.17
-    }
-  },
-  {
-    "ward_name": "TUGHLAKABAD",
-    "aqi": 165.89,
-    "pollutants": {
-      "pm25": 166.59,
-      "pm10": 113.51,
-      "no2": 38.74,
-      "so2": 2.5,
-      "o3": 18.88,
-      "co": 8.0
-    }
-  },
-  {
-    "ward_name": "PUL PEHLAD",
-    "aqi": 165.53,
-    "pollutants": {
-      "pm25": 166.77,
-      "pm10": 114.23,
-      "no2": 30.78,
-      "so2": 3.54,
-      "o3": 8.93,
-      "co": 3.47
-    }
-  },
-  {
-    "ward_name": "TEKHAND",
-    "aqi": 164.64,
-    "pollutants": {
-      "pm25": 165.64,
-      "pm10": 112.86,
-      "no2": 37.67,
-      "so2": 2.25,
-      "o3": 22.52,
-      "co": 9.16
-    }
-  },
-  {
-    "ward_name": "HARKESH NAGAR",
-    "aqi": 164.14,
-    "pollutants": {
-      "pm25": 164.34,
-      "pm10": 112.72,
-      "no2": 39.47,
-      "so2": 1.1,
-      "o3": 25.34,
-      "co": 9.95
-    }
-  },
-  {
-    "ward_name": "JAITPUR",
-    "aqi": 160.19,
-    "pollutants": {
-      "pm25": 163.81,
-      "pm10": 112.96,
-      "no2": 24.27,
-      "so2": 2.95,
-      "o3": 20.61,
-      "co": 6.44
-    }
-  },
-  {
-    "ward_name": "MEETHEYPUR",
-    "aqi": 158.27,
-    "pollutants": {
-      "pm25": 164.65,
-      "pm10": 112.83,
-      "no2": 25.03,
-      "so2": 3.02,
-      "o3": 18.46,
-      "co": 6.89
-    }
-  },
-  {
-    "ward_name": "BADAR PUR",
-    "aqi": 161.35,
-    "pollutants": {
-      "pm25": 164.8,
-      "pm10": 112.67,
-      "no2": 28.3,
-      "so2": 2.97,
-      "o3": 18.52,
-      "co": 6.88
-    }
-  },
-  {
-    "ward_name": "MOLARBAND",
-    "aqi": 159.08,
-    "pollutants": {
-      "pm25": 164.92,
-      "pm10": 112.76,
-      "no2": 26.43,
-      "so2": 3.03,
-      "o3": 17.76,
-      "co": 6.88
-    }
-  },
-  {
-    "ward_name": "OKHLA",
-    "aqi": 161.16,
-    "pollutants": {
-      "pm25": 161.45,
-      "pm10": 111.44,
-      "no2": 21.89,
-      "so2": 3.35,
-      "o3": 17.5,
-      "co": 5.25
-    }
-  },
-  {
-    "ward_name": "TURKMAN GATE",
-    "aqi": 160.25,
-    "pollutants": {
-      "pm25": 160.36,
-      "pm10": 99.28,
-      "no2": 28.38,
-      "so2": 4.07,
-      "o3": 15.67,
-      "co": 4.08
-    }
-  },
-  {
-    "ward_name": "BALLIMARAN",
-    "aqi": 160.83,
-    "pollutants": {
-      "pm25": 160.98,
-      "pm10": 102.69,
-      "no2": 31.0,
-      "so2": 5.21,
-      "o3": 17.61,
-      "co": 5.94
-    }
-  },
-  {
-    "ward_name": "RAM NAGAR",
-    "aqi": 160.02,
-    "pollutants": {
-      "pm25": 160.14,
-      "pm10": 100.15,
-      "no2": 35.63,
-      "so2": 6.36,
-      "o3": 18.14,
-      "co": 5.98
-    }
-  },
-  {
-    "ward_name": "QASABPURA",
-    "aqi": 160.63,
-    "pollutants": {
-      "pm25": 160.75,
-      "pm10": 101.77,
-      "no2": 36.47,
-      "so2": 6.38,
-      "o3": 17.66,
-      "co": 6.36
-    }
-  },
-  {
-    "ward_name": "PAHAR GANJ",
-    "aqi": 158.49,
-    "pollutants": {
-      "pm25": 158.58,
-      "pm10": 94.78,
-      "no2": 41.42,
-      "so2": 7.88,
-      "o3": 19.33,
-      "co": 5.73
-    }
-  },
-  {
-    "ward_name": "SADH NAGAR",
-    "aqi": 165.98,
-    "pollutants": {
-      "pm25": 166.18,
-      "pm10": 106.93,
-      "no2": 29.52,
-      "so2": 6.83,
-      "o3": 14.81,
-      "co": 8.25
-    }
-  },
-  {
-    "ward_name": "PUSA",
-    "aqi": 171.24,
-    "pollutants": {
-      "pm25": 171.31,
-      "pm10": 126.59,
-      "no2": 38.2,
-      "so2": 3.28,
-      "o3": 8.55,
-      "co": 9.34
-    }
-  },
-  {
-    "ward_name": "INDER PURI",
-    "aqi": 167.62,
-    "pollutants": {
-      "pm25": 167.74,
-      "pm10": 122.23,
-      "no2": 28.45,
-      "so2": 3.85,
-      "o3": 11.87,
-      "co": 6.57
-    }
-  },
-  {
-    "ward_name": "NARAINA",
-    "aqi": 165.92,
-    "pollutants": {
-      "pm25": 166.07,
-      "pm10": 118.31,
-      "no2": 27.14,
-      "so2": 4.08,
-      "o3": 13.41,
-      "co": 6.5
-    }
-  },
-  {
-    "ward_name": "DEOLI",
-    "aqi": 161.78,
-    "pollutants": {
-      "pm25": 162.7,
-      "pm10": 105.13,
-      "no2": 25.5,
-      "so2": 3.41,
-      "o3": 18.51,
-      "co": 7.23
-    }
-  },
-  {
-    "ward_name": "CHHATARPUR",
-    "aqi": 159.33,
-    "pollutants": {
-      "pm25": 159.87,
-      "pm10": 98.66,
-      "no2": 21.09,
-      "so2": 3.66,
-      "o3": 17.97,
-      "co": 5.71
-    }
-  },
-  {
-    "ward_name": "AYA NAGAR",
-    "aqi": 149.9,
-    "pollutants": {
-      "pm25": 150.27,
-      "pm10": 84.75,
-      "no2": 15.13,
-      "so2": 1.52,
-      "o3": 12.97,
-      "co": 5.31
-    }
-  },
-  {
-    "ward_name": "BHATI",
-    "aqi": 156.7,
-    "pollutants": {
-      "pm25": 158.51,
-      "pm10": 99.01,
-      "no2": 21.1,
-      "so2": 3.02,
-      "o3": 15.69,
-      "co": 6.62
-    }
-  },
-  {
-    "ward_name": "MADANPUR KHADAR",
-    "aqi": 161.42,
-    "pollutants": {
-      "pm25": 162.97,
-      "pm10": 113.73,
-      "no2": 23.08,
-      "so2": 2.69,
-      "o3": 23.0,
-      "co": 5.73
-    }
-  },
-  {
-    "ward_name": "SARITA VIHAR",
-    "aqi": 162.45,
-    "pollutants": {
-      "pm25": 163.24,
-      "pm10": 112.74,
-      "no2": 27.01,
-      "so2": 2.65,
-      "o3": 22.57,
-      "co": 6.89
-    }
-  },
-  {
-    "ward_name": "GHONDLI",
-    "aqi": 167.75,
-    "pollutants": {
-      "pm25": 167.95,
-      "pm10": 118.19,
-      "no2": 25.08,
-      "so2": 3.74,
-      "o3": 18.88,
-      "co": 6.49
-    }
-  },
-  {
-    "ward_name": "ANARKALI",
-    "aqi": 169.56,
-    "pollutants": {
-      "pm25": 169.74,
-      "pm10": 124.32,
-      "no2": 24.32,
-      "so2": 3.5,
-      "o3": 18.05,
-      "co": 6.48
-    }
-  },
-  {
-    "ward_name": "GANDHI NAGAR",
-    "aqi": 164.35,
-    "pollutants": {
-      "pm25": 164.55,
-      "pm10": 110.04,
-      "no2": 25.91,
-      "so2": 4.36,
-      "o3": 19.03,
-      "co": 7.02
-    }
-  },
-  {
-    "ward_name": "AZAD NAGAR",
-    "aqi": 168.63,
-    "pollutants": {
-      "pm25": 168.83,
-      "pm10": 119.29,
-      "no2": 25.04,
-      "so2": 4.22,
-      "o3": 19.71,
-      "co": 7.4
-    }
-  },
-  {
-    "ward_name": "RAGHUBAR PURA",
-    "aqi": 166.92,
-    "pollutants": {
-      "pm25": 167.13,
-      "pm10": 115.45,
-      "no2": 25.16,
-      "so2": 4.34,
-      "o3": 19.73,
-      "co": 7.55
-    }
-  },
-  {
-    "ward_name": "SHAHDARA",
-    "aqi": 172.53,
-    "pollutants": {
-      "pm25": 172.71,
-      "pm10": 126.76,
-      "no2": 24.96,
-      "so2": 4.31,
-      "o3": 20.36,
-      "co": 7.62
-    }
-  },
-  {
-    "ward_name": "JHILMIL",
-    "aqi": 185.33,
-    "pollutants": {
-      "pm25": 185.41,
-      "pm10": 144.58,
-      "no2": 26.85,
-      "so2": 5.39,
-      "o3": 25.13,
-      "co": 8.58
-    }
-  },
-  {
-    "ward_name": "VIVEK VIHAR",
-    "aqi": 195.21,
-    "pollutants": {
-      "pm25": 195.22,
-      "pm10": 152.41,
-      "no2": 29.76,
-      "so2": 6.88,
-      "o3": 31.48,
-      "co": 9.89
-    }
-  },
-  {
-    "ward_name": "DILSHAD COLONY",
-    "aqi": 184.14,
-    "pollutants": {
-      "pm25": 184.27,
-      "pm10": 142.25,
-      "no2": 26.79,
-      "so2": 5.4,
-      "o3": 25.09,
-      "co": 8.63
-    }
-  },
-  {
-    "ward_name": "PUNJABI BAGH",
-    "aqi": 154.8,
-    "pollutants": {
-      "pm25": 154.84,
-      "pm10": 104.69,
-      "no2": 16.67,
-      "so2": 3.26,
-      "o3": 18.31,
-      "co": 4.53
-    }
-  },
-  {
-    "ward_name": "NEW RANJIT NAGAR",
-    "aqi": 173.16,
-    "pollutants": {
-      "pm25": 173.17,
-      "pm10": 143.63,
-      "no2": 15.41,
-      "so2": 3.08,
-      "o3": 6.67,
-      "co": 1.51
-    }
-  },
-  {
-    "ward_name": "KIRTI NAGAR",
-    "aqi": 166.28,
-    "pollutants": {
-      "pm25": 166.36,
-      "pm10": 124.16,
-      "no2": 21.53,
-      "so2": 3.54,
-      "o3": 11.78,
-      "co": 4.28
-    }
-  },
-  {
-    "ward_name": "MANSAROWER GARDEN",
-    "aqi": 164.33,
-    "pollutants": {
-      "pm25": 164.45,
-      "pm10": 117.55,
-      "no2": 23.8,
-      "so2": 3.81,
-      "o3": 13.7,
-      "co": 5.5
-    }
-  },
-  {
-    "ward_name": "HASTSAL",
-    "aqi": 166.09,
-    "pollutants": {
-      "pm25": 166.28,
-      "pm10": 109.15,
-      "no2": 22.68,
-      "so2": 4.47,
-      "o3": 17.04,
-      "co": 5.75
-    }
-  },
-  {
-    "ward_name": "SANGAM PARK",
-    "aqi": 150.56,
-    "pollutants": {
-      "pm25": 150.56,
-      "pm10": 100.14,
-      "no2": 27.15,
-      "so2": 4.83,
-      "o3": 12.17,
-      "co": 6.94
-    }
-  },
-  {
-    "ward_name": "MODEL TOWN",
-    "aqi": 156.42,
-    "pollutants": {
-      "pm25": 156.46,
-      "pm10": 104.08,
-      "no2": 30.93,
-      "so2": 4.51,
-      "o3": 13.43,
-      "co": 6.61
-    }
-  },
-  {
-    "ward_name": "KAMLA NAGAR",
-    "aqi": 160.07,
-    "pollutants": {
-      "pm25": 160.17,
-      "pm10": 107.25,
-      "no2": 30.87,
-      "so2": 4.59,
-      "o3": 14.65,
-      "co": 6.81
-    }
-  },
-  {
-    "ward_name": "INDER LOK COLONY",
-    "aqi": 164.61,
-    "pollutants": {
-      "pm25": 164.7,
-      "pm10": 116.94,
-      "no2": 29.7,
-      "so2": 4.05,
-      "o3": 12.34,
-      "co": 6.09
-    }
-  },
-  {
-    "ward_name": "KISHAN GANJ",
-    "aqi": 162.01,
-    "pollutants": {
-      "pm25": 162.13,
-      "pm10": 108.51,
-      "no2": 32.68,
-      "so2": 4.97,
-      "o3": 15.12,
-      "co": 6.76
-    }
-  },
-  {
-    "ward_name": "DEPUTY GANJ",
-    "aqi": 161.44,
-    "pollutants": {
-      "pm25": 161.58,
-      "pm10": 105.23,
-      "no2": 33.13,
-      "so2": 5.49,
-      "o3": 16.87,
-      "co": 6.7
-    }
-  },
-  {
-    "ward_name": "KASHMERE GATE",
-    "aqi": 162.42,
-    "pollutants": {
-      "pm25": 162.58,
-      "pm10": 106.43,
-      "no2": 28.27,
-      "so2": 4.94,
-      "o3": 18.53,
-      "co": 7.61
-    }
-  },
-  {
-    "ward_name": "MAJNU KA TILA",
-    "aqi": 162.17,
-    "pollutants": {
-      "pm25": 162.31,
-      "pm10": 106.73,
-      "no2": 29.07,
-      "so2": 4.93,
-      "o3": 17.93,
-      "co": 7.7
-    }
-  },
-  {
-    "ward_name": "JAMA MASJID",
-    "aqi": 160.87,
-    "pollutants": {
-      "pm25": 161.01,
-      "pm10": 101.9,
-      "no2": 28.52,
-      "so2": 4.41,
-      "o3": 16.81,
-      "co": 5.1
-    }
-  },
-  {
-    "ward_name": "TILAK NAGAR",
-    "aqi": 161.64,
-    "pollutants": {
-      "pm25": 161.82,
-      "pm10": 108.21,
-      "no2": 23.34,
-      "so2": 4.32,
-      "o3": 16.37,
-      "co": 6.21
-    }
-  },
-  {
-    "ward_name": "MAJOR BHUPINDAR SINGH NAGAR",
-    "aqi": 160.12,
-    "pollutants": {
-      "pm25": 160.26,
-      "pm10": 106.88,
-      "no2": 21.47,
-      "so2": 4.0,
-      "o3": 17.03,
-      "co": 5.72
-    }
-  },
-  {
-    "ward_name": "VIKASPURI EAST",
-    "aqi": 162.07,
-    "pollutants": {
-      "pm25": 162.26,
-      "pm10": 107.46,
-      "no2": 22.95,
-      "so2": 4.33,
-      "o3": 16.66,
-      "co": 6.11
-    }
-  },
-  {
-    "ward_name": "MOHAN GARDEN",
-    "aqi": 163.51,
-    "pollutants": {
-      "pm25": 163.76,
-      "pm10": 106.31,
-      "no2": 23.97,
-      "so2": 4.66,
-      "o3": 15.81,
-      "co": 6.59
-    }
-  },
-  {
-    "ward_name": "NAWADA",
-    "aqi": 163.77,
-    "pollutants": {
-      "pm25": 164.02,
-      "pm10": 106.35,
-      "no2": 24.76,
-      "so2": 4.95,
-      "o3": 15.71,
-      "co": 6.84
-    }
-  },
-  {
-    "ward_name": "UTTAM NAGAR",
-    "aqi": 163.73,
-    "pollutants": {
-      "pm25": 163.98,
-      "pm10": 106.0,
-      "no2": 25.3,
-      "so2": 5.14,
-      "o3": 15.46,
-      "co": 7.05
-    }
-  },
-  {
-    "ward_name": "BINDAPUR",
-    "aqi": 164.57,
-    "pollutants": {
-      "pm25": 164.79,
-      "pm10": 106.49,
-      "no2": 27.07,
-      "so2": 5.84,
-      "o3": 15.19,
-      "co": 7.52
-    }
-  },
-  {
-    "ward_name": "DABRI",
-    "aqi": 164.85,
-    "pollutants": {
-      "pm25": 165.06,
-      "pm10": 107.38,
-      "no2": 27.81,
-      "so2": 6.03,
-      "o3": 15.21,
-      "co": 7.71
-    }
-  },
-  {
-    "ward_name": "MATIALA",
-    "aqi": 165.88,
-    "pollutants": {
-      "pm25": 166.08,
-      "pm10": 104.85,
-      "no2": 29.68,
-      "so2": 7.02,
-      "o3": 14.0,
-      "co": 8.39
-    }
-  },
-  {
-    "ward_name": "ROSHANPURA",
-    "aqi": 158.99,
-    "pollutants": {
-      "pm25": 159.26,
-      "pm10": 100.81,
-      "no2": 23.7,
-      "so2": 3.91,
-      "o3": 13.81,
-      "co": 6.74
-    }
-  },
-  {
-    "ward_name": "MAYUR VIHAR PHASE-I",
-    "aqi": 164.12,
-    "pollutants": {
-      "pm25": 164.32,
-      "pm10": 107.05,
-      "no2": 23.78,
-      "so2": 4.62,
-      "o3": 20.66,
-      "co": 6.23
-    }
-  },
-  {
-    "ward_name": "ROHINI",
-    "aqi": 160.33,
-    "pollutants": {
-      "pm25": 160.34,
-      "pm10": 88.42,
-      "no2": 11.99,
-      "so2": 2.32,
-      "o3": 28.08,
-      "co": 3.83
-    }
-  },
-  {
-    "ward_name": "DALLOPURA",
-    "aqi": 164.08,
-    "pollutants": {
-      "pm25": 164.33,
-      "pm10": 109.11,
-      "no2": 23.13,
-      "so2": 4.68,
-      "o3": 20.0,
-      "co": 6.27
-    }
-  },
-  {
-    "ward_name": "TRILOK PURI",
-    "aqi": 163.64,
-    "pollutants": {
-      "pm25": 163.89,
-      "pm10": 107.15,
-      "no2": 24.28,
-      "so2": 4.41,
-      "o3": 20.91,
-      "co": 6.77
-    }
-  },
-  {
-    "ward_name": "NEW ASHOK NAGAR",
-    "aqi": 161.12,
-    "pollutants": {
-      "pm25": 161.23,
-      "pm10": 102.75,
-      "no2": 20.51,
-      "so2": 6.24,
-      "o3": 20.17,
-      "co": 6.21
-    }
-  },
-  {
-    "ward_name": "KALYAN PURI",
-    "aqi": 165.49,
-    "pollutants": {
-      "pm25": 165.77,
-      "pm10": 113.88,
-      "no2": 23.52,
-      "so2": 4.08,
-      "o3": 19.19,
-      "co": 6.26
-    }
-  },
-  {
-    "ward_name": "KHICHRIPUR",
-    "aqi": 164.64,
-    "pollutants": {
-      "pm25": 164.97,
-      "pm10": 112.81,
-      "no2": 22.95,
-      "so2": 4.41,
-      "o3": 19.27,
-      "co": 6.37
-    }
-  },
-  {
-    "ward_name": "KONDLI",
-    "aqi": 164.73,
-    "pollutants": {
-      "pm25": 165.16,
-      "pm10": 114.12,
-      "no2": 22.94,
-      "so2": 4.29,
-      "o3": 19.13,
-      "co": 6.47
-    }
-  },
-  {
-    "ward_name": "GHAROLI",
-    "aqi": 166.01,
-    "pollutants": {
-      "pm25": 166.45,
-      "pm10": 118.37,
-      "no2": 23.1,
-      "so2": 3.88,
-      "o3": 18.37,
-      "co": 6.5
-    }
-  },
-  {
-    "ward_name": "VINOD NAGAR",
-    "aqi": 168.05,
-    "pollutants": {
-      "pm25": 168.12,
-      "pm10": 105.5,
-      "no2": 27.68,
-      "so2": 3.22,
-      "o3": 22.61,
-      "co": 5.38
-    }
-  },
-  {
-    "ward_name": "ASHOK VIHAR",
-    "aqi": 162.3,
-    "pollutants": {
-      "pm25": 162.31,
-      "pm10": 107.74,
-      "no2": 44.76,
-      "so2": 1.41,
-      "o3": 10.41,
-      "co": 6.09
-    }
-  },
-  {
-    "ward_name": "WAJIRPUR",
-    "aqi": 161.24,
-    "pollutants": {
-      "pm25": 161.28,
-      "pm10": 108.64,
-      "no2": 35.87,
-      "so2": 2.86,
-      "o3": 12.17,
-      "co": 6.23
-    }
-  },
-  {
-    "ward_name": "SAWAN PARK",
-    "aqi": 151.48,
-    "pollutants": {
-      "pm25": 151.5,
-      "pm10": 100.89,
-      "no2": 27.79,
-      "so2": 4.7,
-      "o3": 12.21,
-      "co": 6.89
-    }
-  },
-  {
-    "ward_name": "NIMRI COLONY",
-    "aqi": 159.32,
-    "pollutants": {
-      "pm25": 159.38,
-      "pm10": 108.13,
-      "no2": 31.52,
-      "so2": 3.83,
-      "o3": 12.71,
-      "co": 6.44
-    }
-  },
-  {
-    "ward_name": "SHAKUR PUR",
-    "aqi": 161.78,
-    "pollutants": {
-      "pm25": 161.85,
-      "pm10": 109.1,
-      "no2": 31.27,
-      "so2": 3.28,
-      "o3": 13.67,
-      "co": 6.06
-    }
-  },
-  {
-    "ward_name": "KOHAT ENCLAVE",
-    "aqi": 161.07,
-    "pollutants": {
-      "pm25": 161.16,
-      "pm10": 107.3,
-      "no2": 26.71,
-      "so2": 3.62,
-      "o3": 15.45,
-      "co": 5.84
-    }
-  },
-  {
-    "ward_name": "RAMPURA",
-    "aqi": 162.47,
-    "pollutants": {
-      "pm25": 162.55,
-      "pm10": 112.6,
-      "no2": 27.38,
-      "so2": 3.55,
-      "o3": 13.69,
-      "co": 5.64
-    }
-  },
-  {
-    "ward_name": "TRI NAGAR",
-    "aqi": 162.73,
-    "pollutants": {
-      "pm25": 162.8,
-      "pm10": 113.43,
-      "no2": 29.89,
-      "so2": 3.57,
-      "o3": 12.59,
-      "co": 5.87
-    }
-  },
-  {
-    "ward_name": "SARASWATI VIHAR",
-    "aqi": 158.69,
-    "pollutants": {
-      "pm25": 158.78,
-      "pm10": 104.24,
-      "no2": 20.61,
-      "so2": 3.72,
-      "o3": 17.69,
-      "co": 5.29
-    }
-  },
-  {
-    "ward_name": "RANI BAGH",
-    "aqi": 157.86,
-    "pollutants": {
-      "pm25": 157.93,
-      "pm10": 106.04,
-      "no2": 20.6,
-      "so2": 3.52,
-      "o3": 17.15,
-      "co": 5.13
-    }
-  },
-  {
-    "ward_name": "PASCHIM VIHAR NORTH",
-    "aqi": 155.84,
-    "pollutants": {
-      "pm25": 155.9,
-      "pm10": 103.82,
-      "no2": 17.63,
-      "so2": 3.46,
-      "o3": 18.39,
-      "co": 4.83
-    }
-  },
-  {
-    "ward_name": "PASCHIM VIHAR SOUTH",
-    "aqi": 156.34,
-    "pollutants": {
-      "pm25": 156.42,
-      "pm10": 104.49,
-      "no2": 18.03,
-      "so2": 3.52,
-      "o3": 18.18,
-      "co": 4.94
-    }
-  },
-  {
-    "ward_name": "SHALIMAR BAGH SOUTH",
-    "aqi": 162.41,
-    "pollutants": {
-      "pm25": 162.43,
-      "pm10": 108.34,
-      "no2": 41.52,
-      "so2": 2.05,
-      "o3": 11.25,
-      "co": 6.32
-    }
-  },
-  {
-    "ward_name": "SHALIMAR BAGH NORTH",
-    "aqi": 163.62,
-    "pollutants": {
-      "pm25": 163.68,
-      "pm10": 110.27,
-      "no2": 32.92,
-      "so2": 3.82,
-      "o3": 13.6,
-      "co": 6.97
-    }
-  },
-  {
-    "ward_name": "PITAMPUR NORTH",
-    "aqi": 162.37,
-    "pollutants": {
-      "pm25": 162.44,
-      "pm10": 106.01,
-      "no2": 28.47,
-      "so2": 3.9,
-      "o3": 15.7,
-      "co": 6.31
-    }
-  },
-  {
-    "ward_name": "PITAMPURA SOUTH",
-    "aqi": 161.87,
-    "pollutants": {
-      "pm25": 161.94,
-      "pm10": 107.62,
-      "no2": 31.87,
-      "so2": 3.29,
-      "o3": 14.05,
-      "co": 6.2
-    }
-  },
-  {
-    "ward_name": "NAHARPUR",
-    "aqi": 160.66,
-    "pollutants": {
-      "pm25": 160.74,
-      "pm10": 98.99,
-      "no2": 20.21,
-      "so2": 3.74,
-      "o3": 19.97,
-      "co": 5.16
-    }
-  },
-  {
-    "ward_name": "ROHINI EAST",
-    "aqi": 161.06,
-    "pollutants": {
-      "pm25": 161.14,
-      "pm10": 102.1,
-      "no2": 23.28,
-      "so2": 3.79,
-      "o3": 18.13,
-      "co": 5.56
-    }
-  },
-  {
-    "ward_name": "ROHINI CENTRAL",
-    "aqi": 160.68,
-    "pollutants": {
-      "pm25": 160.72,
-      "pm10": 93.59,
-      "no2": 16.36,
-      "so2": 3.04,
-      "o3": 24.04,
-      "co": 4.56
-    }
-  },
-  {
-    "ward_name": "MANGOLPURI  WEST",
-    "aqi": 161.56,
-    "pollutants": {
-      "pm25": 161.7,
-      "pm10": 105.0,
-      "no2": 21.26,
-      "so2": 4.11,
-      "o3": 17.46,
-      "co": 5.59
-    }
-  },
-  {
-    "ward_name": "MANGOLPURI  EAST",
-    "aqi": 160.15,
-    "pollutants": {
-      "pm25": 160.26,
-      "pm10": 104.06,
-      "no2": 20.86,
-      "so2": 3.97,
-      "o3": 17.65,
-      "co": 5.47
-    }
-  },
-  {
-    "ward_name": "ROHINI SOUTH",
-    "aqi": 160.29,
-    "pollutants": {
-      "pm25": 160.39,
-      "pm10": 101.93,
-      "no2": 20.95,
-      "so2": 3.95,
-      "o3": 18.33,
-      "co": 5.37
-    }
-  },
-  {
-    "ward_name": "QUAMMRUDDIN NAGAR",
-    "aqi": 164.35,
-    "pollutants": {
-      "pm25": 164.53,
-      "pm10": 108.21,
-      "no2": 22.73,
-      "so2": 4.41,
-      "o3": 17.15,
-      "co": 5.86
-    }
-  },
-  {
-    "ward_name": "NANGLOI EAST",
-    "aqi": 165.31,
-    "pollutants": {
-      "pm25": 165.46,
-      "pm10": 108.42,
-      "no2": 22.02,
-      "so2": 4.34,
-      "o3": 17.67,
-      "co": 5.5
-    }
-  },
-  {
-    "ward_name": "PERAGHARHI",
-    "aqi": 160.9,
-    "pollutants": {
-      "pm25": 161.03,
-      "pm10": 105.65,
-      "no2": 21.12,
-      "so2": 4.02,
-      "o3": 17.42,
-      "co": 5.56
-    }
-  },
-  {
-    "ward_name": "GURU HARKISHAN NAGAR",
-    "aqi": 160.81,
-    "pollutants": {
-      "pm25": 160.95,
-      "pm10": 106.42,
-      "no2": 21.34,
-      "so2": 4.03,
-      "o3": 17.25,
-      "co": 5.64
-    }
-  },
-  {
-    "ward_name": "SULTANPURI  SOUTH",
-    "aqi": 164.2,
-    "pollutants": {
-      "pm25": 164.34,
-      "pm10": 106.76,
-      "no2": 21.58,
-      "so2": 4.28,
-      "o3": 17.58,
-      "co": 5.53
-    }
-  },
-  {
-    "ward_name": "SULTANPURI  EAST",
-    "aqi": 162.48,
-    "pollutants": {
-      "pm25": 162.62,
-      "pm10": 104.46,
-      "no2": 21.19,
-      "so2": 4.22,
-      "o3": 17.5,
-      "co": 5.6
-    }
-  },
-  {
-    "ward_name": "KIRARI SULEMAN NAGAR",
-    "aqi": 167.58,
-    "pollutants": {
-      "pm25": 167.71,
-      "pm10": 108.98,
-      "no2": 21.41,
-      "so2": 4.41,
-      "o3": 18.12,
-      "co": 5.19
-    }
-  },
-  {
-    "ward_name": "KARALA",
-    "aqi": 160.93,
-    "pollutants": {
-      "pm25": 161.12,
-      "pm10": 102.79,
-      "no2": 18.1,
-      "so2": 3.58,
-      "o3": 14.95,
-      "co": 6.54
-    }
-  },
-  {
-    "ward_name": "BEGUMPUR",
-    "aqi": 159.21,
-    "pollutants": {
-      "pm25": 159.3,
-      "pm10": 93.94,
-      "no2": 11.66,
-      "so2": 2.39,
-      "o3": 11.76,
-      "co": 7.32
-    }
-  },
-  {
-    "ward_name": "POOTH KALAN",
-    "aqi": 161.93,
-    "pollutants": {
-      "pm25": 162.06,
-      "pm10": 101.22,
-      "no2": 20.07,
-      "so2": 4.37,
-      "o3": 17.31,
-      "co": 5.59
-    }
-  },
-  {
-    "ward_name": "VIJAY VIHAR",
-    "aqi": 160.82,
-    "pollutants": {
-      "pm25": 160.92,
-      "pm10": 100.45,
-      "no2": 20.3,
-      "so2": 4.18,
-      "o3": 18.52,
-      "co": 5.32
-    }
-  },
-  {
-    "ward_name": "GEETA COLONY",
-    "aqi": 165.73,
-    "pollutants": {
-      "pm25": 165.94,
-      "pm10": 112.9,
-      "no2": 25.63,
-      "so2": 3.91,
-      "o3": 19.03,
-      "co": 6.35
-    }
-  },
-  {
-    "ward_name": "KRISHNA  NAGAR",
-    "aqi": 166.87,
-    "pollutants": {
-      "pm25": 167.08,
-      "pm10": 115.88,
-      "no2": 25.34,
-      "so2": 4.03,
-      "o3": 19.13,
-      "co": 6.79
-    }
-  },
-  {
-    "ward_name": "PREET VIHAR",
-    "aqi": 168.93,
-    "pollutants": {
-      "pm25": 169.09,
-      "pm10": 123.69,
-      "no2": 24.03,
-      "so2": 3.1,
-      "o3": 17.41,
-      "co": 6.01
-    }
-  },
-  {
-    "ward_name": "I.P EXTENTION",
-    "aqi": 169.5,
-    "pollutants": {
-      "pm25": 169.65,
-      "pm10": 135.54,
-      "no2": 21.29,
-      "so2": 2.27,
-      "o3": 13.11,
-      "co": 5.58
-    }
-  },
-  {
-    "ward_name": "ANAND VIHAR",
-    "aqi": 175.42,
-    "pollutants": {
-      "pm25": 175.48,
-      "pm10": 149.54,
-      "no2": 20.9,
-      "so2": 2.34,
-      "o3": 12.82,
-      "co": 5.96
-    }
-  },
-  {
-    "ward_name": "Unknown",
-    "aqi": 162.82,
-    "pollutants": {
-      "pm25": 163.0,
-      "pm10": 106.3,
-      "no2": 26.32,
-      "so2": 3.98,
-      "o3": 17.95,
-      "co": 5.54
-    }
-  },
-  {
-    "ward_name": "SHAKARPUR",
-    "aqi": 167.92,
-    "pollutants": {
-      "pm25": 167.98,
-      "pm10": 105.13,
-      "no2": 27.85,
-      "so2": 3.22,
-      "o3": 22.63,
-      "co": 5.37
-    }
-  },
-  {
-    "ward_name": "LAXMI NAGAR",
-    "aqi": 166.23,
-    "pollutants": {
-      "pm25": 166.4,
-      "pm10": 110.79,
-      "no2": 26.08,
-      "so2": 3.61,
-      "o3": 20.03,
-      "co": 5.95
-    }
-  },
-  {
-    "ward_name": "RITHALA",
-    "aqi": 160.47,
-    "pollutants": {
-      "pm25": 160.54,
-      "pm10": 96.01,
-      "no2": 18.15,
-      "so2": 3.81,
-      "o3": 21.29,
-      "co": 4.79
-    }
-  },
-  {
-    "ward_name": "MAYUR VIHAR PHASE II",
-    "aqi": 166.46,
-    "pollutants": {
-      "pm25": 166.67,
-      "pm10": 111.99,
-      "no2": 24.95,
-      "so2": 3.7,
-      "o3": 20.1,
-      "co": 6.01
-    }
-  },
-  {
-    "ward_name": "MANDAWALI",
-    "aqi": 167.86,
-    "pollutants": {
-      "pm25": 167.98,
-      "pm10": 109.79,
-      "no2": 26.66,
-      "so2": 3.26,
-      "o3": 21.22,
-      "co": 5.61
-    }
-  },
-  {
-    "ward_name": "KARAM PURA",
-    "aqi": 167.55,
-    "pollutants": {
-      "pm25": 167.61,
-      "pm10": 126.9,
-      "no2": 22.36,
-      "so2": 3.49,
-      "o3": 10.58,
-      "co": 4.01
-    }
-  },
-  {
-    "ward_name": "MAHAVIR ENCLAVE",
-    "aqi": 166.78,
-    "pollutants": {
-      "pm25": 166.94,
-      "pm10": 105.77,
-      "no2": 30.73,
-      "so2": 7.44,
-      "o3": 14.03,
-      "co": 8.53
-    }
-  },
-  {
-    "ward_name": "SAGARPUR",
-    "aqi": 164.71,
-    "pollutants": {
-      "pm25": 164.95,
-      "pm10": 108.22,
-      "no2": 27.6,
-      "so2": 5.82,
-      "o3": 15.54,
-      "co": 7.69
-    }
-  },
-  {
-    "ward_name": "SAGARPUR WEST",
-    "aqi": 164.76,
-    "pollutants": {
-      "pm25": 164.98,
-      "pm10": 107.86,
-      "no2": 27.69,
-      "so2": 5.9,
-      "o3": 15.38,
-      "co": 7.69
-    }
-  },
-  {
-    "ward_name": "MUNDAKA",
-    "aqi": 164.01,
-    "pollutants": {
-      "pm25": 164.17,
-      "pm10": 109.85,
-      "no2": 20.44,
-      "so2": 4.14,
-      "o3": 16.91,
-      "co": 5.52
-    }
-  },
-  {
-    "ward_name": "EAST PATEL NAGAR",
-    "aqi": 169.86,
-    "pollutants": {
-      "pm25": 169.92,
-      "pm10": 126.91,
-      "no2": 32.34,
-      "so2": 3.57,
-      "o3": 9.24,
-      "co": 6.95
-    }
-  },
-  {
-    "ward_name": "WEST PATEL NAGAR",
-    "aqi": 171.19,
-    "pollutants": {
-      "pm25": 171.23,
-      "pm10": 137.58,
-      "no2": 18.18,
-      "so2": 3.27,
-      "o3": 8.08,
-      "co": 2.45
-    }
-  },
-  {
-    "ward_name": "DEV NAGAR",
-    "aqi": 167.1,
-    "pollutants": {
-      "pm25": 167.18,
-      "pm10": 118.87,
-      "no2": 35.17,
-      "so2": 4.3,
-      "o3": 11.55,
-      "co": 7.41
-    }
-  },
-  {
-    "ward_name": "KAROL BAGH",
-    "aqi": 162.94,
-    "pollutants": {
-      "pm25": 163.04,
-      "pm10": 108.07,
-      "no2": 36.7,
-      "so2": 5.66,
-      "o3": 15.21,
-      "co": 6.87
-    }
-  },
-  {
-    "ward_name": "MODEL BASTI",
-    "aqi": 160.38,
-    "pollutants": {
-      "pm25": 160.48,
-      "pm10": 100.31,
-      "no2": 39.41,
-      "so2": 6.99,
-      "o3": 17.77,
-      "co": 6.35
-    }
-  },
-  {
-    "ward_name": "RANA PRATAP BAGH",
-    "aqi": 157.78,
-    "pollutants": {
-      "pm25": 157.85,
-      "pm10": 105.28,
-      "no2": 30.24,
-      "so2": 4.54,
-      "o3": 14.08,
-      "co": 6.82
-    }
-  },
-  {
-    "ward_name": "BAKHTAWAR PUR",
-    "aqi": 145.31,
-    "pollutants": {
-      "pm25": 145.41,
-      "pm10": 87.87,
-      "no2": 18.47,
-      "so2": 2.38,
-      "o3": 13.48,
-      "co": 20.77
-    }
-  },
-  {
-    "ward_name": "ALIPUR",
-    "aqi": 171.95,
-    "pollutants": {
-      "pm25": 172.03,
-      "pm10": 107.3,
-      "no2": 16.14,
-      "so2": 3.37,
-      "o3": 14.87,
-      "co": 6.87
-    }
-  },
-  {
-    "ward_name": "SAHIBABAD DAULAT PUR",
-    "aqi": 158.73,
-    "pollutants": {
-      "pm25": 158.79,
-      "pm10": 91.75,
-      "no2": 18.83,
-      "so2": 6.69,
-      "o3": 16.75,
-      "co": 3.93
-    }
-  },
-  {
-    "ward_name": "BANKNER",
-    "aqi": 172.86,
-    "pollutants": {
-      "pm25": 173.0,
-      "pm10": 109.71,
-      "no2": 15.93,
-      "so2": 2.64,
-      "o3": 14.73,
-      "co": 7.26
-    }
-  },
-  {
-    "ward_name": "MALKAGANJ",
-    "aqi": 161.45,
-    "pollutants": {
-      "pm25": 161.58,
-      "pm10": 106.8,
-      "no2": 31.06,
-      "so2": 4.94,
-      "o3": 16.37,
-      "co": 7.0
-    }
-  },
-  {
-    "ward_name": "JHARODA",
-    "aqi": 163.7,
-    "pollutants": {
-      "pm25": 163.8,
-      "pm10": 106.55,
-      "no2": 35.03,
-      "so2": 4.7,
-      "o3": 17.54,
-      "co": 6.18
-    }
-  },
-  {
-    "ward_name": "MUKUND PUR",
-    "aqi": 165.94,
-    "pollutants": {
-      "pm25": 166.01,
-      "pm10": 113.59,
-      "no2": 34.23,
-      "so2": 4.96,
-      "o3": 14.25,
-      "co": 7.43
-    }
-  },
-  {
-    "ward_name": "BAWANA",
-    "aqi": 161.25,
-    "pollutants": {
-      "pm25": 161.42,
-      "pm10": 99.08,
-      "no2": 15.3,
-      "so2": 2.9,
-      "o3": 13.36,
-      "co": 7.36
-    }
-  },
-  {
-    "ward_name": "BHALSWA",
-    "aqi": 167.18,
-    "pollutants": {
-      "pm25": 167.23,
-      "pm10": 116.62,
-      "no2": 30.77,
-      "so2": 5.21,
-      "o3": 13.34,
-      "co": 8.56
-    }
-  },
-  {
-    "ward_name": "SAMAYPUR BADLI",
-    "aqi": 162.79,
-    "pollutants": {
-      "pm25": 162.85,
-      "pm10": 104.67,
-      "no2": 25.56,
-      "so2": 4.94,
-      "o3": 16.33,
-      "co": 6.46
-    }
-  },
-  {
-    "ward_name": "JAHANGIRPURI-I",
-    "aqi": 171.6,
-    "pollutants": {
-      "pm25": 171.62,
-      "pm10": 126.97,
-      "no2": 34.43,
-      "so2": 5.52,
-      "o3": 11.15,
-      "co": 9.81
-    }
-  },
-  {
-    "ward_name": "SARAI PIPAL THALA",
-    "aqi": 167.74,
-    "pollutants": {
-      "pm25": 167.78,
-      "pm10": 118.82,
-      "no2": 33.27,
-      "so2": 4.86,
-      "o3": 12.49,
-      "co": 8.49
-    }
-  },
-  {
-    "ward_name": "MAHIPALPUR",
-    "aqi": 162.64,
-    "pollutants": {
-      "pm25": 163.04,
-      "pm10": 105.08,
-      "no2": 23.62,
-      "so2": 5.14,
-      "o3": 18.49,
-      "co": 7.42
-    }
-  },
-  {
-    "ward_name": "KAPASHERA",
-    "aqi": 163.79,
-    "pollutants": {
-      "pm25": 164.12,
-      "pm10": 103.52,
-      "no2": 26.25,
-      "so2": 6.05,
-      "o3": 15.3,
-      "co": 7.94
-    }
-  },
-  {
-    "ward_name": "BIJWASAN",
-    "aqi": 163.41,
-    "pollutants": {
-      "pm25": 163.73,
-      "pm10": 102.6,
-      "no2": 25.95,
-      "so2": 5.65,
-      "o3": 14.17,
-      "co": 8.2
-    }
-  },
-  {
-    "ward_name": "ADARASH  NAGAR",
-    "aqi": 163.46,
-    "pollutants": {
-      "pm25": 163.5,
-      "pm10": 112.05,
-      "no2": 35.24,
-      "so2": 3.98,
-      "o3": 12.57,
-      "co": 7.25
-    }
-  },
-  {
-    "ward_name": "DHIR PUR",
-    "aqi": 163.56,
-    "pollutants": {
-      "pm25": 163.6,
-      "pm10": 106.56,
-      "no2": 41.9,
-      "so2": 4.6,
-      "o3": 15.15,
-      "co": 3.85
-    }
-  },
-  {
-    "ward_name": "G.T.B. NAGAR",
-    "aqi": 160.78,
-    "pollutants": {
-      "pm25": 160.86,
-      "pm10": 106.08,
-      "no2": 32.67,
-      "so2": 4.6,
-      "o3": 15.72,
-      "co": 6.54
-    }
-  },
-  {
-    "ward_name": "TIMAR PUR",
-    "aqi": 162.76,
-    "pollutants": {
-      "pm25": 162.87,
-      "pm10": 106.47,
-      "no2": 29.06,
-      "so2": 5.0,
-      "o3": 18.95,
-      "co": 8.44
-    }
-  },
-  {
-    "ward_name": "RAJA GARDEN",
-    "aqi": 157.87,
-    "pollutants": {
-      "pm25": 157.94,
-      "pm10": 108.2,
-      "no2": 19.16,
-      "so2": 3.5,
-      "o3": 16.97,
-      "co": 4.93
-    }
-  },
-  {
-    "ward_name": "RAGHUBIR NAGAR",
-    "aqi": 154.76,
-    "pollutants": {
-      "pm25": 154.81,
-      "pm10": 104.19,
-      "no2": 16.6,
-      "so2": 3.33,
-      "o3": 18.52,
-      "co": 4.63
-    }
-  },
-  {
-    "ward_name": "RAJOURI GARDEN",
-    "aqi": 160.77,
-    "pollutants": {
-      "pm25": 160.9,
-      "pm10": 110.38,
-      "no2": 22.16,
-      "so2": 3.87,
-      "o3": 16.02,
-      "co": 5.63
-    }
-  },
-  {
-    "ward_name": "NANGAL RAYA",
-    "aqi": 163.71,
-    "pollutants": {
-      "pm25": 163.94,
-      "pm10": 110.08,
-      "no2": 26.07,
-      "so2": 4.88,
-      "o3": 15.76,
-      "co": 7.03
-    }
-  },
-  {
-    "ward_name": "HARI NAGAR",
-    "aqi": 163.4,
-    "pollutants": {
-      "pm25": 163.58,
-      "pm10": 112.4,
-      "no2": 25.2,
-      "so2": 4.31,
-      "o3": 15.29,
-      "co": 6.44
-    }
-  },
-  {
-    "ward_name": "SUBHASH NAGAR",
-    "aqi": 162.13,
-    "pollutants": {
-      "pm25": 162.29,
-      "pm10": 110.91,
-      "no2": 23.79,
-      "so2": 4.14,
-      "o3": 15.73,
-      "co": 6.1
-    }
-  },
-  {
-    "ward_name": "MADHU VIHAR",
-    "aqi": 164.66,
-    "pollutants": {
-      "pm25": 164.88,
-      "pm10": 105.92,
-      "no2": 27.3,
-      "so2": 5.96,
-      "o3": 14.96,
-      "co": 7.64
-    }
-  },
-  {
-    "ward_name": "BUDH VIHAR",
-    "aqi": 161.13,
-    "pollutants": {
-      "pm25": 161.24,
-      "pm10": 99.88,
-      "no2": 20.01,
-      "so2": 4.38,
-      "o3": 18.15,
-      "co": 5.35
-    }
-  },
-  {
-    "ward_name": "NANGLOI JAT WEST",
-    "aqi": 174.19,
-    "pollutants": {
-      "pm25": 174.26,
-      "pm10": 114.93,
-      "no2": 21.87,
-      "so2": 4.69,
-      "o3": 19.81,
-      "co": 4.24
-    }
-  },
-  {
-    "ward_name": "NITHARI",
-    "aqi": 171.13,
-    "pollutants": {
-      "pm25": 171.23,
-      "pm10": 111.93,
-      "no2": 21.13,
-      "so2": 4.49,
-      "o3": 18.77,
-      "co": 4.75
-    }
-  },
-  {
-    "ward_name": "SULTANPUR MAJRA",
-    "aqi": 163.46,
-    "pollutants": {
-      "pm25": 163.6,
-      "pm10": 105.31,
-      "no2": 21.26,
-      "so2": 4.27,
-      "o3": 17.5,
-      "co": 5.58
-    }
-  },
-  {
-    "ward_name": "ROHINI NORTH",
-    "aqi": 160.35,
-    "pollutants": {
-      "pm25": 160.39,
-      "pm10": 94.5,
-      "no2": 18.85,
-      "so2": 4.48,
-      "o3": 20.97,
-      "co": 4.62
-    }
-  },
-  {
-    "ward_name": "LIBAS PUR",
-    "aqi": 160.55,
-    "pollutants": {
-      "pm25": 160.63,
-      "pm10": 99.84,
-      "no2": 23.45,
-      "so2": 5.69,
-      "o3": 15.77,
-      "co": 6.58
-    }
-  },
-  {
-    "ward_name": "BRAHAM PURI",
-    "aqi": 165.25,
-    "pollutants": {
-      "pm25": 165.41,
-      "pm10": 109.27,
-      "no2": 21.96,
-      "so2": 5.19,
-      "o3": 22.95,
-      "co": 11.1
-    }
-  },
-  {
-    "ward_name": "DICHAON KALAN",
-    "aqi": 147.95,
-    "pollutants": {
-      "pm25": 148.17,
-      "pm10": 100.12,
-      "no2": 19.14,
-      "so2": 3.2,
-      "o3": 12.39,
-      "co": 6.73
-    }
-  },
-  {
-    "ward_name": "MOTI NAGAR",
-    "aqi": 164.01,
-    "pollutants": {
-      "pm25": 164.09,
-      "pm10": 117.69,
-      "no2": 24.22,
-      "so2": 3.59,
-      "o3": 13.01,
-      "co": 4.99
-    }
-  },
-  {
-    "ward_name": "MANGOLPURI",
-    "aqi": 160.91,
-    "pollutants": {
-      "pm25": 161.03,
-      "pm10": 103.49,
-      "no2": 21.02,
-      "so2": 4.09,
-      "o3": 17.69,
-      "co": 5.53
-    }
-  },
-  {
-    "ward_name": "LAJPAT NAGAR",
-    "aqi": 169.4,
-    "pollutants": {
-      "pm25": 169.48,
-      "pm10": 113.59,
-      "no2": 24.73,
-      "so2": 3.75,
-      "o3": 26.44,
-      "co": 21.09
-    }
-  },
-  {
-    "ward_name": "PALAM",
-    "aqi": 170.01,
-    "pollutants": {
-      "pm25": 170.05,
-      "pm10": 105.16,
-      "no2": 35.54,
-      "so2": 9.44,
-      "o3": 12.5,
-      "co": 9.68
-    }
-  },
-  {
-    "ward_name": "KISHANGARH",
-    "aqi": 160.11,
-    "pollutants": {
-      "pm25": 160.51,
-      "pm10": 99.11,
-      "no2": 20.85,
-      "so2": 4.39,
-      "o3": 18.24,
-      "co": 5.5
-    }
-  },
-  {
-    "ward_name": "VISHWASH NAGAR",
-    "aqi": 175.03,
-    "pollutants": {
-      "pm25": 175.18,
-      "pm10": 134.05,
-      "no2": 24.49,
-      "so2": 4.0,
-      "o3": 19.49,
+      "no2": 28.98,
+      "so2": 4.81,
+      "o3": 13.29,
       "co": 7.27
     }
   },
   {
-    "ward_name": "MADIPUR",
-    "aqi": 151.46,
+    "ward_name": "DELHI CANTT CHARGE 4",
+    "aqi": 167.17,
     "pollutants": {
-      "pm25": 151.47,
-      "pm10": 101.35,
-      "no2": 13.46,
-      "so2": 3.04,
-      "o3": 19.82,
-      "co": 4.08
+      "pm25": 166.51,
+      "pm10": 114.43,
+      "no2": 28.39,
+      "so2": 6.61,
+      "o3": 14.8,
+      "co": 9.58
     }
   },
   {
-    "ward_name": "RAJENDER NAGAR",
-    "aqi": 169.11,
-    "pollutants": {
-      "pm25": 169.16,
-      "pm10": 118.86,
-      "no2": 44.39,
-      "so2": 4.39,
-      "o3": 10.19,
-      "co": 9.81
-    }
-  },
-  {
-    "ward_name": "R. K. PURAM",
-    "aqi": 173.79,
-    "pollutants": {
-      "pm25": 173.83,
-      "pm10": 127.78,
-      "no2": 21.48,
-      "so2": 10.46,
-      "o3": 29.91,
-      "co": 14.26
-    }
-  },
-  {
-    "ward_name": "SAFDARJANG ENCLAVE",
-    "aqi": 165.52,
-    "pollutants": {
-      "pm25": 165.78,
-      "pm10": 112.08,
-      "no2": 24.32,
-      "so2": 5.9,
-      "o3": 23.29,
-      "co": 9.33
-    }
-  },
-  {
-    "ward_name": "HAUZ KHAS",
-    "aqi": 163.49,
-    "pollutants": {
-      "pm25": 163.81,
-      "pm10": 108.67,
-      "no2": 24.86,
-      "so2": 4.45,
-      "o3": 22.42,
-      "co": 8.64
-    }
-  },
-  {
-    "ward_name": "KOTLA MUBARAKPUR",
-    "aqi": 160.73,
-    "pollutants": {
-      "pm25": 160.87,
-      "pm10": 105.26,
-      "no2": 21.57,
-      "so2": 3.74,
-      "o3": 24.76,
-      "co": 6.48
-    }
-  },
-  {
-    "ward_name": "MANGLAPURI",
-    "aqi": 166.8,
-    "pollutants": {
-      "pm25": 166.96,
-      "pm10": 106.21,
-      "no2": 30.76,
-      "so2": 7.42,
-      "o3": 14.18,
-      "co": 8.53
-    }
-  },
-  {
-    "ward_name": "MANGOL PURI  NORTH",
-    "aqi": 161.35,
-    "pollutants": {
-      "pm25": 161.48,
-      "pm10": 103.14,
-      "no2": 20.98,
-      "so2": 4.17,
-      "o3": 17.7,
-      "co": 5.54
-    }
-  },
-  {
-    "ward_name": "TAGORE GARDEN",
-    "aqi": 159.9,
-    "pollutants": {
-      "pm25": 160.04,
-      "pm10": 107.86,
-      "no2": 21.59,
-      "so2": 3.94,
-      "o3": 16.76,
-      "co": 5.69
-    }
-  },
-  {
-    "ward_name": "LADOSARAI",
-    "aqi": 163.02,
-    "pollutants": {
-      "pm25": 163.06,
-      "pm10": 100.58,
-      "no2": 26.83,
-      "so2": 2.16,
-      "o3": 19.1,
-      "co": 6.16
-    }
-  },
-  {
-    "ward_name": "NARELA",
-    "aqi": 175.76,
-    "pollutants": {
-      "pm25": 175.85,
-      "pm10": 111.85,
-      "no2": 15.03,
-      "so2": 2.19,
-      "o3": 14.71,
-      "co": 8.66
-    }
-  },
-  {
-    "ward_name": "BHALASWA JAHAGIR PUR",
-    "aqi": 160.7,
-    "pollutants": {
-      "pm25": 160.81,
-      "pm10": 104.08,
-      "no2": 25.54,
-      "so2": 4.59,
-      "o3": 14.96,
-      "co": 9.37
-    }
-  },
-  {
-    "ward_name": "BURARI",
-    "aqi": 162.4,
+    "ward_name": "DELHI CANTT CHARGE 5",
+    "aqi": 163.5,
     "pollutants": {
       "pm25": 162.54,
-      "pm10": 107.24,
-      "no2": 28.95,
-      "so2": 4.33,
-      "o3": 16.1,
-      "co": 8.45
+      "pm10": 111.32,
+      "no2": 28.37,
+      "so2": 5.87,
+      "o3": 14.29,
+      "co": 8.38
     }
   },
   {
-    "ward_name": "PATPARGANJ",
-    "aqi": 166.52,
+    "ward_name": "DELHI CANTT CHARGE 6",
+    "aqi": 163.8,
     "pollutants": {
-      "pm25": 166.66,
-      "pm10": 105.62,
-      "no2": 26.7,
-      "so2": 3.59,
-      "o3": 22.13,
-      "co": 5.79
+      "pm25": 163.35,
+      "pm10": 107.4,
+      "no2": 29.48,
+      "so2": 6.55,
+      "o3": 13.47,
+      "co": 8.26
     }
   },
   {
-    "ward_name": "PANDAV NAGAR",
-    "aqi": 167.08,
+    "ward_name": "DELHI CANTT CHARGE 7",
+    "aqi": 161.93,
     "pollutants": {
-      "pm25": 167.17,
-      "pm10": 104.75,
-      "no2": 27.6,
-      "so2": 3.33,
-      "o3": 22.4,
-      "co": 5.48
+      "pm25": 161.07,
+      "pm10": 108.63,
+      "no2": 28.92,
+      "so2": 5.89,
+      "o3": 13.43,
+      "co": 7.8
     }
   },
   {
-    "ward_name": "KISHAN KUNJ",
-    "aqi": 164.57,
+    "ward_name": "DELHI CANTT CHARGE 8",
+    "aqi": 161.09,
     "pollutants": {
-      "pm25": 164.75,
-      "pm10": 108.33,
-      "no2": 26.13,
-      "so2": 3.77,
-      "o3": 19.54,
-      "co": 5.8
+      "pm25": 159.67,
+      "pm10": 111.09,
+      "no2": 28.37,
+      "so2": 5.29,
+      "o3": 13.64,
+      "co": 7.53
     }
   },
   {
-    "ward_name": "DHARAMPURA",
-    "aqi": 164.63,
+    "ward_name": "DELHI CANTT CHARGE 3",
+    "aqi": 162.53,
     "pollutants": {
-      "pm25": 164.83,
-      "pm10": 110.42,
-      "no2": 25.54,
-      "so2": 4.52,
-      "o3": 19.57,
-      "co": 7.68
+      "pm25": 160.68,
+      "pm10": 113.4,
+      "no2": 29.02,
+      "so2": 5.6,
+      "o3": 14.22,
+      "co": 8.19
     }
   },
   {
-    "ward_name": "NEW USMANPUR",
-    "aqi": 165.09,
+    "ward_name": "NDMC CHARGE 1",
+    "aqi": 153.69,
     "pollutants": {
-      "pm25": 165.28,
-      "pm10": 110.52,
-      "no2": 24.22,
-      "so2": 4.8,
-      "o3": 20.92,
-      "co": 9.11
+      "pm25": 152.37,
+      "pm10": 98.51,
+      "no2": 24.72,
+      "so2": 4.99,
+      "o3": 16.71,
+      "co": 3.44
     }
   },
   {
-    "ward_name": "BHAJANPURA",
-    "aqi": 165.46,
+    "ward_name": "NDMC CHARGE 2",
+    "aqi": 118.78,
     "pollutants": {
-      "pm25": 165.57,
-      "pm10": 106.94,
-      "no2": 17.87,
-      "so2": 5.79,
-      "o3": 26.45,
-      "co": 14.32
+      "pm25": 104.76,
+      "pm10": 92.94,
+      "no2": 43.48,
+      "so2": 8.4,
+      "o3": 19.02,
+      "co": 4.87
     }
   },
   {
-    "ward_name": "NEHRU VIHAR",
-    "aqi": 165.63,
+    "ward_name": "NDMC CHARGE 3",
+    "aqi": 139.49,
     "pollutants": {
-      "pm25": 165.75,
-      "pm10": 107.57,
-      "no2": 17.73,
-      "so2": 5.69,
-      "o3": 26.35,
-      "co": 14.23
-    }
-  },
-  {
-    "ward_name": "SAID UL AJAIB",
-    "aqi": 160.77,
-    "pollutants": {
-      "pm25": 162.84,
-      "pm10": 106.73,
-      "no2": 25.72,
-      "so2": 3.39,
-      "o3": 16.4,
-      "co": 6.78
-    }
-  },
-  {
-    "ward_name": "SANGAM VIHAR",
-    "aqi": 161.62,
-    "pollutants": {
-      "pm25": 163.24,
-      "pm10": 107.3,
-      "no2": 26.45,
-      "so2": 3.42,
-      "o3": 16.91,
-      "co": 6.92
-    }
-  },
-  {
-    "ward_name": "MEHRAULI",
-    "aqi": 162.87,
-    "pollutants": {
-      "pm25": 163.08,
-      "pm10": 102.18,
-      "no2": 26.19,
-      "so2": 2.68,
-      "o3": 19.26,
-      "co": 6.61
-    }
-  },
-  {
-    "ward_name": "SANGAM VIHAR WEST",
-    "aqi": 164.25,
-    "pollutants": {
-      "pm25": 165.49,
-      "pm10": 111.72,
-      "no2": 29.74,
-      "so2": 3.46,
-      "o3": 13.13,
-      "co": 5.38
-    }
-  },
-  {
-    "ward_name": "TIGRI",
-    "aqi": 162.87,
-    "pollutants": {
-      "pm25": 164.11,
-      "pm10": 108.9,
-      "no2": 28.08,
-      "so2": 3.41,
-      "o3": 17.28,
-      "co": 7.11
-    }
-  },
-  {
-    "ward_name": "ZAKIR NAGAR",
-    "aqi": 162.87,
-    "pollutants": {
-      "pm25": 163.19,
-      "pm10": 110.57,
-      "no2": 23.65,
-      "so2": 3.82,
-      "o3": 20.13,
-      "co": 8.33
-    }
-  },
-  {
-    "ward_name": "NAJAFGARH",
-    "aqi": 155.55,
-    "pollutants": {
-      "pm25": 155.81,
-      "pm10": 96.53,
-      "no2": 23.5,
-      "so2": 3.28,
-      "o3": 12.35,
-      "co": 6.56
-    }
-  },
-  {
-    "ward_name": "JAHANGIR PURI -II",
-    "aqi": 173.84,
-    "pollutants": {
-      "pm25": 173.85,
-      "pm10": 131.54,
-      "no2": 34.67,
-      "so2": 5.86,
-      "o3": 10.45,
-      "co": 10.6
-    }
-  },
-  {
-    "ward_name": "KUNWAR SINGH NAGAR",
-    "aqi": 166.16,
-    "pollutants": {
-      "pm25": 166.35,
-      "pm10": 109.08,
-      "no2": 23.14,
-      "so2": 4.59,
-      "o3": 17.13,
-      "co": 5.88
-    }
-  },
-  {
-    "ward_name": "VIKAS NAGAR",
-    "aqi": 163.47,
-    "pollutants": {
-      "pm25": 163.68,
-      "pm10": 107.57,
-      "no2": 23.98,
-      "so2": 4.66,
-      "o3": 16.39,
-      "co": 6.44
-    }
-  },
-  {
-    "ward_name": "VIKAS PURI",
-    "aqi": 163.93,
-    "pollutants": {
-      "pm25": 164.16,
-      "pm10": 107.02,
-      "no2": 24.93,
-      "so2": 5.01,
-      "o3": 15.93,
-      "co": 6.82
-    }
-  },
-  {
-    "ward_name": "MAHAVIR NAGAR",
-    "aqi": 163.15,
-    "pollutants": {
-      "pm25": 163.36,
-      "pm10": 107.55,
-      "no2": 24.49,
-      "so2": 4.78,
-      "o3": 16.15,
-      "co": 6.63
-    }
-  },
-  {
-    "ward_name": "DARYAGANJ",
-    "aqi": 160.26,
-    "pollutants": {
-      "pm25": 160.33,
-      "pm10": 95.84,
-      "no2": 27.11,
-      "so2": 3.1,
-      "o3": 13.37,
-      "co": 2.43
-    }
-  },
-  {
-    "ward_name": "BALJIT NAGAR",
-    "aqi": 172.98,
-    "pollutants": {
-      "pm25": 172.99,
-      "pm10": 144.05,
-      "no2": 13.85,
-      "so2": 3.1,
-      "o3": 6.78,
-      "co": 0.99
-    }
-  },
-  {
-    "ward_name": "NILOTHI",
-    "aqi": 169.6,
-    "pollutants": {
-      "pm25": 169.72,
-      "pm10": 111.67,
-      "no2": 22.18,
-      "so2": 4.54,
-      "o3": 18.55,
-      "co": 5.0
-    }
-  },
-  {
-    "ward_name": "PRATAP VIHAR",
-    "aqi": 172.55,
-    "pollutants": {
-      "pm25": 172.64,
-      "pm10": 113.46,
-      "no2": 21.72,
-      "so2": 4.62,
-      "o3": 19.37,
-      "co": 4.49
-    }
-  },
-  {
-    "ward_name": "PREM NAGAR",
-    "aqi": 166.01,
-    "pollutants": {
-      "pm25": 166.14,
-      "pm10": 106.98,
-      "no2": 20.94,
-      "so2": 4.33,
-      "o3": 17.63,
-      "co": 5.42
-    }
-  },
-  {
-    "ward_name": "SHASTRI NAGAR",
-    "aqi": 161.35,
-    "pollutants": {
-      "pm25": 161.43,
-      "pm10": 110.7,
-      "no2": 30.64,
-      "so2": 4.23,
-      "o3": 13.32,
+      "pm25": 129.96,
+      "pm10": 104.65,
+      "no2": 38.16,
+      "so2": 6.56,
+      "o3": 16.28,
       "co": 6.49
     }
   },
   {
-    "ward_name": "VISHNU GARDEN",
-    "aqi": 160.24,
+    "ward_name": "NDMC CHARGE 4",
+    "aqi": 140.23,
     "pollutants": {
-      "pm25": 160.39,
-      "pm10": 107.33,
-      "no2": 21.78,
+      "pm25": 133.1,
+      "pm10": 98.98,
+      "no2": 33.47,
+      "so2": 6.55,
+      "o3": 17.98,
+      "co": 5.0
+    }
+  },
+  {
+    "ward_name": "NDMC CHARGE 5",
+    "aqi": 158.45,
+    "pollutants": {
+      "pm25": 156.85,
+      "pm10": 100.74,
+      "no2": 21.89,
+      "so2": 5.0,
+      "o3": 18.82,
+      "co": 3.87
+    }
+  },
+  {
+    "ward_name": "NDMC CHARGE 7",
+    "aqi": 164.0,
+    "pollutants": {
+      "pm25": 163.1,
+      "pm10": 108.79,
+      "no2": 25.8,
+      "so2": 5.14,
+      "o3": 18.01,
+      "co": 7.63
+    }
+  },
+  {
+    "ward_name": "NDMC CHARGE 8",
+    "aqi": 165.02,
+    "pollutants": {
+      "pm25": 163.8,
+      "pm10": 111.46,
+      "no2": 27.08,
+      "so2": 6.13,
+      "o3": 16.95,
+      "co": 8.36
+    }
+  },
+  {
+    "ward_name": "NDMC CHARGE 9",
+    "aqi": 161.08,
+    "pollutants": {
+      "pm25": 158.78,
+      "pm10": 110.21,
+      "no2": 28.27,
+      "so2": 5.98,
+      "o3": 16.53,
+      "co": 7.71
+    }
+  },
+  {
+    "ward_name": "NDMC CHARGE 6",
+    "aqi": 163.2,
+    "pollutants": {
+      "pm25": 162.23,
+      "pm10": 97.89,
+      "no2": 17.29,
+      "so2": 3.85,
+      "o3": 18.86,
+      "co": 2.11
+    }
+  },
+  {
+    "ward_name": "CHANDNI CHOWK",
+    "aqi": 154.08,
+    "pollutants": {
+      "pm25": 151.22,
+      "pm10": 104.13,
+      "no2": 29.49,
+      "so2": 4.78,
+      "o3": 15.77,
+      "co": 5.9
+    }
+  },
+  {
+    "ward_name": "MINTO ROAD",
+    "aqi": 154.69,
+    "pollutants": {
+      "pm25": 152.15,
+      "pm10": 96.88,
+      "no2": 28.4,
+      "so2": 3.92,
+      "o3": 13.36,
+      "co": 3.09
+    }
+  },
+  {
+    "ward_name": "KUCHA PANDIT",
+    "aqi": 148.41,
+    "pollutants": {
+      "pm25": 143.74,
+      "pm10": 101.22,
+      "no2": 31.62,
+      "so2": 5.22,
+      "o3": 15.76,
+      "co": 5.1
+    }
+  },
+  {
+    "ward_name": "BAZAR SITARAM",
+    "aqi": 152.06,
+    "pollutants": {
+      "pm25": 148.59,
+      "pm10": 100.97,
+      "no2": 29.97,
+      "so2": 4.7,
+      "o3": 15.13,
+      "co": 4.74
+    }
+  },
+  {
+    "ward_name": "IDGAH ROAD",
+    "aqi": 143.52,
+    "pollutants": {
+      "pm25": 137.15,
+      "pm10": 102.37,
+      "no2": 34.32,
+      "so2": 5.92,
+      "o3": 16.39,
+      "co": 5.8
+    }
+  },
+  {
+    "ward_name": "KHYALA",
+    "aqi": 151.7,
+    "pollutants": {
+      "pm25": 151.23,
+      "pm10": 100.24,
+      "no2": 22.93,
+      "so2": 4.27,
+      "o3": 13.03,
+      "co": 5.78
+    }
+  },
+  {
+    "ward_name": "JANAK PURI NORTH",
+    "aqi": 157.69,
+    "pollutants": {
+      "pm25": 156.91,
+      "pm10": 106.53,
+      "no2": 26.6,
+      "so2": 4.9,
+      "o3": 13.15,
+      "co": 6.77
+    }
+  },
+  {
+    "ward_name": "MUKHERJEE NAGAR",
+    "aqi": 160.47,
+    "pollutants": {
+      "pm25": 161.14,
+      "pm10": 106.39,
+      "no2": 35.81,
+      "so2": 5.04,
+      "o3": 16.03,
+      "co": 6.45
+    }
+  },
+  {
+    "ward_name": "JANAK PURI WEST",
+    "aqi": 158.97,
+    "pollutants": {
+      "pm25": 158.44,
+      "pm10": 105.53,
+      "no2": 27.53,
+      "so2": 5.36,
+      "o3": 13.09,
+      "co": 7.18
+    }
+  },
+  {
+    "ward_name": "JANAK PURI SOUTH",
+    "aqi": 159.59,
+    "pollutants": {
+      "pm25": 158.8,
+      "pm10": 107.31,
+      "no2": 27.76,
+      "so2": 5.36,
+      "o3": 13.18,
+      "co": 7.21
+    }
+  },
+  {
+    "ward_name": "MILAP NAGAR",
+    "aqi": 159.29,
+    "pollutants": {
+      "pm25": 158.96,
+      "pm10": 104.53,
+      "no2": 27.8,
+      "so2": 5.51,
+      "o3": 12.95,
+      "co": 7.32
+    }
+  },
+  {
+    "ward_name": "SITA PURI",
+    "aqi": 161.33,
+    "pollutants": {
+      "pm25": 160.89,
+      "pm10": 105.78,
+      "no2": 29.09,
+      "so2": 6.15,
+      "o3": 12.96,
+      "co": 7.74
+    }
+  },
+  {
+    "ward_name": "CHHAWLA",
+    "aqi": 158.12,
+    "pollutants": {
+      "pm25": 158.39,
+      "pm10": 85.81,
+      "no2": 29.42,
+      "so2": 2.37,
+      "o3": 6.99,
+      "co": 6.12
+    }
+  },
+  {
+    "ward_name": "NANGLI SAKRAVATI",
+    "aqi": 156.9,
+    "pollutants": {
+      "pm25": 157.13,
+      "pm10": 97.11,
+      "no2": 26.61,
+      "so2": 3.88,
+      "o3": 10.54,
+      "co": 7.02
+    }
+  },
+  {
+    "ward_name": "KAKRAULA",
+    "aqi": 158.75,
+    "pollutants": {
+      "pm25": 158.74,
+      "pm10": 102.59,
+      "no2": 27.23,
+      "so2": 5.17,
+      "o3": 12.31,
+      "co": 7.45
+    }
+  },
+  {
+    "ward_name": "KHERA",
+    "aqi": 154.21,
+    "pollutants": {
+      "pm25": 154.67,
+      "pm10": 81.46,
+      "no2": 30.02,
+      "so2": 2.04,
+      "o3": 6.01,
+      "co": 5.53
+    }
+  },
+  {
+    "ward_name": "DILSHAD GARDEN",
+    "aqi": 184.4,
+    "pollutants": {
+      "pm25": 184.32,
+      "pm10": 142.43,
+      "no2": 27.79,
+      "so2": 5.69,
+      "o3": 25.43,
+      "co": 8.84
+    }
+  },
+  {
+    "ward_name": "NEW SEEMA PURI",
+    "aqi": 180.45,
+    "pollutants": {
+      "pm25": 180.4,
+      "pm10": 138.88,
+      "no2": 27.08,
+      "so2": 5.21,
+      "o3": 23.13,
+      "co": 8.42
+    }
+  },
+  {
+    "ward_name": "NAND NAGRI",
+    "aqi": 175.91,
+    "pollutants": {
+      "pm25": 175.76,
+      "pm10": 132.15,
+      "no2": 26.52,
+      "so2": 5.02,
+      "o3": 21.79,
+      "co": 8.49
+    }
+  },
+  {
+    "ward_name": "SUNDER NAGARI",
+    "aqi": 177.18,
+    "pollutants": {
+      "pm25": 177.08,
+      "pm10": 134.23,
+      "no2": 26.69,
+      "so2": 5.04,
+      "o3": 22.04,
+      "co": 8.4
+    }
+  },
+  {
+    "ward_name": "DURGA PURI",
+    "aqi": 175.68,
+    "pollutants": {
+      "pm25": 175.49,
+      "pm10": 131.91,
+      "no2": 26.51,
+      "so2": 5.01,
+      "o3": 21.67,
+      "co": 8.46
+    }
+  },
+  {
+    "ward_name": "ASHOK NAGAR",
+    "aqi": 171.4,
+    "pollutants": {
+      "pm25": 171.16,
+      "pm10": 125.71,
+      "no2": 25.83,
+      "so2": 4.8,
+      "o3": 20.34,
+      "co": 8.6
+    }
+  },
+  {
+    "ward_name": "RAM NAGAR",
+    "aqi": 174.76,
+    "pollutants": {
+      "pm25": 174.51,
+      "pm10": 131.73,
+      "no2": 26.39,
+      "so2": 4.8,
+      "o3": 20.79,
+      "co": 8.09
+    }
+  },
+  {
+    "ward_name": "WELCOME COLONY",
+    "aqi": 167.4,
+    "pollutants": {
+      "pm25": 166.91,
+      "pm10": 120.58,
+      "no2": 25.86,
+      "so2": 4.56,
+      "o3": 18.67,
+      "co": 8.11
+    }
+  },
+  {
+    "ward_name": "CHAUHAN BANGER",
+    "aqi": 163.82,
+    "pollutants": {
+      "pm25": 163.18,
+      "pm10": 113.89,
+      "no2": 25.32,
+      "so2": 4.73,
+      "o3": 18.41,
+      "co": 8.84
+    }
+  },
+  {
+    "ward_name": "ZAFFRABAD",
+    "aqi": 162.79,
+    "pollutants": {
+      "pm25": 161.97,
+      "pm10": 112.86,
+      "no2": 25.95,
+      "so2": 4.62,
+      "o3": 17.82,
+      "co": 8.2
+    }
+  },
+  {
+    "ward_name": "MAUJPUR",
+    "aqi": 164.45,
+    "pollutants": {
+      "pm25": 163.95,
+      "pm10": 114.12,
+      "no2": 24.66,
+      "so2": 4.83,
+      "o3": 18.98,
+      "co": 9.47
+    }
+  },
+  {
+    "ward_name": "GHONDA",
+    "aqi": 162.02,
+    "pollutants": {
+      "pm25": 161.46,
+      "pm10": 108.73,
+      "no2": 23.57,
+      "so2": 5.1,
+      "o3": 19.25,
+      "co": 10.62
+    }
+  },
+  {
+    "ward_name": "YAMUNA VIHAR",
+    "aqi": 162.53,
+    "pollutants": {
+      "pm25": 162.13,
+      "pm10": 108.73,
+      "no2": 22.74,
+      "so2": 5.13,
+      "o3": 19.73,
+      "co": 11.19
+    }
+  },
+  {
+    "ward_name": "SUBHASH MOHALLA",
+    "aqi": 163.1,
+    "pollutants": {
+      "pm25": 162.65,
+      "pm10": 110.58,
+      "no2": 23.54,
+      "so2": 5.02,
+      "o3": 19.38,
+      "co": 10.5
+    }
+  },
+  {
+    "ward_name": "KARDAM PURI",
+    "aqi": 167.89,
+    "pollutants": {
+      "pm25": 167.55,
+      "pm10": 120.14,
+      "no2": 25.23,
+      "so2": 4.75,
+      "o3": 19.5,
+      "co": 8.93
+    }
+  },
+  {
+    "ward_name": "JANTA COLONY",
+    "aqi": 166.64,
+    "pollutants": {
+      "pm25": 166.16,
+      "pm10": 118.71,
+      "no2": 25.51,
+      "so2": 4.67,
+      "o3": 18.88,
+      "co": 8.59
+    }
+  },
+  {
+    "ward_name": "BABAR PUR",
+    "aqi": 168.97,
+    "pollutants": {
+      "pm25": 168.6,
+      "pm10": 122.31,
+      "no2": 25.66,
+      "so2": 4.72,
+      "o3": 19.5,
+      "co": 8.56
+    }
+  },
+  {
+    "ward_name": "JIWANPUR",
+    "aqi": 163.75,
+    "pollutants": {
+      "pm25": 163.47,
+      "pm10": 112.47,
+      "no2": 23.4,
+      "so2": 4.66,
+      "o3": 19.21,
+      "co": 9.97
+    }
+  },
+  {
+    "ward_name": "GOKALPUR",
+    "aqi": 166.07,
+    "pollutants": {
+      "pm25": 165.77,
+      "pm10": 116.93,
+      "no2": 24.53,
+      "so2": 4.68,
+      "o3": 19.28,
+      "co": 9.3
+    }
+  },
+  {
+    "ward_name": "SABOLI",
+    "aqi": 169.79,
+    "pollutants": {
+      "pm25": 169.59,
+      "pm10": 123.61,
+      "no2": 25.46,
+      "so2": 4.62,
+      "o3": 19.75,
+      "co": 8.55
+    }
+  },
+  {
+    "ward_name": "HARSH VIHAR",
+    "aqi": 171.82,
+    "pollutants": {
+      "pm25": 171.7,
+      "pm10": 127.1,
+      "no2": 25.9,
+      "so2": 4.65,
+      "o3": 20.06,
+      "co": 8.3
+    }
+  },
+  {
+    "ward_name": "SHIV VIHAR",
+    "aqi": 162.51,
+    "pollutants": {
+      "pm25": 162.3,
+      "pm10": 110.74,
+      "no2": 22.17,
+      "so2": 4.25,
+      "o3": 19.12,
+      "co": 9.92
+    }
+  },
+  {
+    "ward_name": "KARAWAL NAGAR EAST",
+    "aqi": 161.82,
+    "pollutants": {
+      "pm25": 161.58,
+      "pm10": 107.38,
+      "no2": 21.75,
+      "so2": 4.9,
+      "o3": 19.79,
+      "co": 11.39
+    }
+  },
+  {
+    "ward_name": "MUSTAFABAD",
+    "aqi": 161.68,
+    "pollutants": {
+      "pm25": 161.39,
+      "pm10": 105.95,
+      "no2": 21.4,
+      "so2": 5.25,
+      "o3": 20.26,
+      "co": 12.2
+    }
+  },
+  {
+    "ward_name": "KHAJOORI KHAS",
+    "aqi": 159.93,
+    "pollutants": {
+      "pm25": 159.74,
+      "pm10": 97.39,
+      "no2": 17.01,
+      "so2": 6.14,
+      "o3": 22.72,
+      "co": 16.19
+    }
+  },
+  {
+    "ward_name": "KARAWAL NAGAR WEST",
+    "aqi": 161.2,
+    "pollutants": {
+      "pm25": 161.02,
+      "pm10": 106.15,
+      "no2": 21.23,
+      "so2": 4.78,
+      "o3": 19.84,
+      "co": 11.53
+    }
+  },
+  {
+    "ward_name": "SONIA VIHAR",
+    "aqi": 160.38,
+    "pollutants": {
+      "pm25": 160.28,
+      "pm10": 103.2,
+      "no2": 21.65,
+      "so2": 5.21,
+      "o3": 20.03,
+      "co": 12.35
+    }
+  },
+  {
+    "ward_name": "NIZAMUDDIN",
+    "aqi": 159.56,
+    "pollutants": {
+      "pm25": 159.0,
+      "pm10": 105.73,
+      "no2": 24.68,
+      "so2": 4.5,
+      "o3": 19.63,
+      "co": 6.74
+    }
+  },
+  {
+    "ward_name": "BHOGAL",
+    "aqi": 167.8,
+    "pollutants": {
+      "pm25": 167.77,
+      "pm10": 112.9,
+      "no2": 25.82,
+      "so2": 3.88,
+      "o3": 22.69,
+      "co": 16.31
+    }
+  },
+  {
+    "ward_name": "KASTURBA NAGAR",
+    "aqi": 162.99,
+    "pollutants": {
+      "pm25": 162.96,
+      "pm10": 108.79,
+      "no2": 23.91,
+      "so2": 2.04,
+      "o3": 26.73,
+      "co": 6.97
+    }
+  },
+  {
+    "ward_name": "AMAR COLONY",
+    "aqi": 169.39,
+    "pollutants": {
+      "pm25": 169.37,
+      "pm10": 113.88,
+      "no2": 26.12,
+      "so2": 3.86,
+      "o3": 23.95,
+      "co": 19.12
+    }
+  },
+  {
+    "ward_name": "MALVIYA NAGAR",
+    "aqi": 164.21,
+    "pollutants": {
+      "pm25": 164.15,
+      "pm10": 104.52,
+      "no2": 27.45,
+      "so2": 3.15,
+      "o3": 17.97,
+      "co": 7.15
+    }
+  },
+  {
+    "ward_name": "HAUZ RANI",
+    "aqi": 164.44,
+    "pollutants": {
+      "pm25": 164.54,
+      "pm10": 108.66,
+      "no2": 28.81,
+      "so2": 3.82,
+      "o3": 17.2,
+      "co": 8.21
+    }
+  },
+  {
+    "ward_name": "ANDREWSGANJ",
+    "aqi": 164.48,
+    "pollutants": {
+      "pm25": 164.14,
+      "pm10": 108.94,
+      "no2": 25.26,
+      "so2": 3.64,
+      "o3": 21.26,
+      "co": 9.61
+    }
+  },
+  {
+    "ward_name": "VASANT VIHAR",
+    "aqi": 173.51,
+    "pollutants": {
+      "pm25": 173.07,
+      "pm10": 120.96,
+      "no2": 29.32,
+      "so2": 8.19,
+      "o3": 14.8,
+      "co": 11.84
+    }
+  },
+  {
+    "ward_name": "MUNIRKA",
+    "aqi": 178.8,
+    "pollutants": {
+      "pm25": 178.61,
+      "pm10": 126.09,
+      "no2": 30.03,
+      "so2": 9.38,
+      "o3": 14.74,
+      "co": 13.67
+    }
+  },
+  {
+    "ward_name": "NANAK PURA",
+    "aqi": 173.52,
+    "pollutants": {
+      "pm25": 172.73,
+      "pm10": 122.01,
+      "no2": 29.74,
+      "so2": 8.42,
+      "o3": 14.77,
+      "co": 12.0
+    }
+  },
+  {
+    "ward_name": "VASANTKUNJ",
+    "aqi": 167.3,
+    "pollutants": {
+      "pm25": 167.12,
+      "pm10": 111.83,
+      "no2": 27.76,
+      "so2": 5.66,
+      "o3": 15.91,
+      "co": 9.1
+    }
+  },
+  {
+    "ward_name": "DAKSHINPURI EXT.",
+    "aqi": 166.83,
+    "pollutants": {
+      "pm25": 167.42,
+      "pm10": 114.77,
+      "no2": 36.51,
+      "so2": 4.0,
+      "o3": 15.91,
+      "co": 9.57
+    }
+  },
+  {
+    "ward_name": "KHANPUR",
+    "aqi": 164.78,
+    "pollutants": {
+      "pm25": 165.52,
+      "pm10": 111.33,
+      "no2": 31.21,
+      "so2": 3.88,
+      "o3": 15.13,
+      "co": 7.9
+    }
+  },
+  {
+    "ward_name": "AMBEDKAR NAGAR",
+    "aqi": 165.99,
+    "pollutants": {
+      "pm25": 166.7,
+      "pm10": 113.61,
+      "no2": 34.03,
+      "so2": 3.96,
+      "o3": 15.0,
+      "co": 8.45
+    }
+  },
+  {
+    "ward_name": "MADANGIR",
+    "aqi": 166.33,
+    "pollutants": {
+      "pm25": 166.98,
+      "pm10": 114.09,
+      "no2": 35.01,
+      "so2": 3.98,
+      "o3": 15.36,
+      "co": 8.88
+    }
+  },
+  {
+    "ward_name": "PUSHP VIHAR",
+    "aqi": 165.16,
+    "pollutants": {
+      "pm25": 165.59,
+      "pm10": 111.47,
+      "no2": 31.45,
+      "so2": 3.95,
+      "o3": 16.29,
+      "co": 8.67
+    }
+  },
+  {
+    "ward_name": "TUGHLAKABAD EXTN",
+    "aqi": 168.41,
+    "pollutants": {
+      "pm25": 169.18,
+      "pm10": 117.65,
+      "no2": 41.07,
+      "so2": 3.98,
+      "o3": 13.5,
+      "co": 8.57
+    }
+  },
+  {
+    "ward_name": "SANGAM VIHAR CENTRAL",
+    "aqi": 168.67,
+    "pollutants": {
+      "pm25": 169.8,
+      "pm10": 118.54,
+      "no2": 33.72,
+      "so2": 3.94,
+      "o3": 7.99,
+      "co": 4.41
+    }
+  },
+  {
+    "ward_name": "SANGAM VIHAR EAST",
+    "aqi": 171.94,
+    "pollutants": {
+      "pm25": 172.23,
+      "pm10": 121.98,
+      "no2": 33.38,
+      "so2": 3.99,
+      "o3": 3.21,
+      "co": 1.49
+    }
+  },
+  {
+    "ward_name": "CHIRAG DELHI",
+    "aqi": 166.41,
+    "pollutants": {
+      "pm25": 166.8,
+      "pm10": 113.59,
+      "no2": 33.61,
       "so2": 4.03,
+      "o3": 17.17,
+      "co": 10.22
+    }
+  },
+  {
+    "ward_name": "CHITRANJAN PARK",
+    "aqi": 168.78,
+    "pollutants": {
+      "pm25": 169.36,
+      "pm10": 117.55,
+      "no2": 44.63,
+      "so2": 4.0,
+      "o3": 16.9,
+      "co": 11.45
+    }
+  },
+  {
+    "ward_name": "SHAPUR JAT",
+    "aqi": 165.1,
+    "pollutants": {
+      "pm25": 165.09,
+      "pm10": 110.88,
+      "no2": 29.08,
+      "so2": 4.13,
+      "o3": 18.03,
+      "co": 9.56
+    }
+  },
+  {
+    "ward_name": "GREATER KAILASH-I",
+    "aqi": 168.09,
+    "pollutants": {
+      "pm25": 168.25,
+      "pm10": 113.97,
+      "no2": 29.19,
+      "so2": 3.96,
+      "o3": 20.72,
+      "co": 14.85
+    }
+  },
+  {
+    "ward_name": "SRI NIWASPURI",
+    "aqi": 169.59,
+    "pollutants": {
+      "pm25": 170.74,
+      "pm10": 117.61,
+      "no2": 24.45,
+      "so2": 4.0,
+      "o3": 13.5,
+      "co": 7.88
+    }
+  },
+  {
+    "ward_name": "EAST OF KAILASH",
+    "aqi": 169.47,
+    "pollutants": {
+      "pm25": 170.2,
+      "pm10": 117.16,
+      "no2": 32.5,
+      "so2": 3.99,
+      "o3": 16.88,
+      "co": 11.69
+    }
+  },
+  {
+    "ward_name": "GOVIND PURI",
+    "aqi": 171.64,
+    "pollutants": {
+      "pm25": 172.04,
+      "pm10": 121.85,
+      "no2": 66.87,
+      "so2": 3.99,
+      "o3": 18.8,
+      "co": 14.72
+    }
+  },
+  {
+    "ward_name": "KALKAJI",
+    "aqi": 170.68,
+    "pollutants": {
+      "pm25": 171.28,
+      "pm10": 120.22,
+      "no2": 54.08,
+      "so2": 3.99,
+      "o3": 17.41,
+      "co": 12.68
+    }
+  },
+  {
+    "ward_name": "TUGHLAKABAD",
+    "aqi": 170.26,
+    "pollutants": {
+      "pm25": 171.13,
+      "pm10": 120.81,
+      "no2": 47.58,
+      "so2": 3.94,
+      "o3": 12.13,
+      "co": 8.41
+    }
+  },
+  {
+    "ward_name": "PUL PEHLAD",
+    "aqi": 169.7,
+    "pollutants": {
+      "pm25": 171.03,
+      "pm10": 120.61,
+      "no2": 34.67,
+      "so2": 3.92,
+      "o3": 6.47,
+      "co": 3.63
+    }
+  },
+  {
+    "ward_name": "TEKHAND",
+    "aqi": 168.85,
+    "pollutants": {
+      "pm25": 170.23,
+      "pm10": 120.03,
+      "no2": 47.08,
+      "so2": 3.86,
+      "o3": 14.62,
+      "co": 9.69
+    }
+  },
+  {
+    "ward_name": "HARKESH NAGAR",
+    "aqi": 171.16,
+    "pollutants": {
+      "pm25": 172.08,
+      "pm10": 121.14,
+      "no2": 50.67,
+      "so2": 3.97,
+      "o3": 15.29,
+      "co": 10.46
+    }
+  },
+  {
+    "ward_name": "JAITPUR",
+    "aqi": 162.32,
+    "pollutants": {
+      "pm25": 167.05,
+      "pm10": 118.59,
+      "no2": 29.31,
+      "so2": 3.32,
+      "o3": 14.9,
+      "co": 7.19
+    }
+  },
+  {
+    "ward_name": "MEETHEYPUR",
+    "aqi": 160.33,
+    "pollutants": {
+      "pm25": 167.34,
+      "pm10": 117.64,
+      "no2": 29.5,
+      "so2": 3.43,
+      "o3": 13.66,
+      "co": 7.4
+    }
+  },
+  {
+    "ward_name": "BADAR PUR",
+    "aqi": 164.22,
+    "pollutants": {
+      "pm25": 168.23,
+      "pm10": 118.27,
+      "no2": 33.72,
+      "so2": 3.62,
+      "o3": 13.25,
+      "co": 7.37
+    }
+  },
+  {
+    "ward_name": "MOLARBAND",
+    "aqi": 161.46,
+    "pollutants": {
+      "pm25": 167.81,
+      "pm10": 117.71,
+      "no2": 31.09,
+      "so2": 3.53,
+      "o3": 13.06,
+      "co": 7.32
+    }
+  },
+  {
+    "ward_name": "OKHLA",
+    "aqi": 168.57,
+    "pollutants": {
+      "pm25": 170.01,
+      "pm10": 118.01,
+      "no2": 25.38,
+      "so2": 4.0,
+      "o3": 11.94,
+      "co": 5.55
+    }
+  },
+  {
+    "ward_name": "TURKMAN GATE",
+    "aqi": 154.87,
+    "pollutants": {
+      "pm25": 152.32,
+      "pm10": 99.15,
+      "no2": 28.64,
+      "so2": 4.11,
+      "o3": 14.04,
+      "co": 3.87
+    }
+  },
+  {
+    "ward_name": "BALLIMARAN",
+    "aqi": 149.15,
+    "pollutants": {
+      "pm25": 144.68,
+      "pm10": 102.83,
+      "no2": 31.64,
+      "so2": 5.27,
+      "o3": 15.93,
+      "co": 5.65
+    }
+  },
+  {
+    "ward_name": "RAM NAGAR",
+    "aqi": 138.58,
+    "pollutants": {
+      "pm25": 130.63,
+      "pm10": 100.46,
+      "no2": 36.16,
+      "so2": 6.41,
       "o3": 16.85,
+      "co": 5.55
+    }
+  },
+  {
+    "ward_name": "QASABPURA",
+    "aqi": 138.55,
+    "pollutants": {
+      "pm25": 130.38,
+      "pm10": 102.29,
+      "no2": 36.9,
+      "so2": 6.44,
+      "o3": 16.57,
+      "co": 5.91
+    }
+  },
+  {
+    "ward_name": "PAHAR GANJ",
+    "aqi": 123.53,
+    "pollutants": {
+      "pm25": 110.88,
+      "pm10": 95.18,
+      "no2": 41.96,
+      "so2": 7.92,
+      "o3": 18.39,
+      "co": 5.12
+    }
+  },
+  {
+    "ward_name": "SADH NAGAR",
+    "aqi": 163.82,
+    "pollutants": {
+      "pm25": 163.34,
+      "pm10": 106.78,
+      "no2": 30.63,
+      "so2": 6.93,
+      "o3": 12.99,
+      "co": 8.29
+    }
+  },
+  {
+    "ward_name": "PUSA",
+    "aqi": 167.15,
+    "pollutants": {
+      "pm25": 161.84,
+      "pm10": 125.29,
+      "no2": 33.37,
+      "so2": 3.32,
+      "o3": 10.03,
+      "co": 8.29
+    }
+  },
+  {
+    "ward_name": "INDER PURI",
+    "aqi": 163.09,
+    "pollutants": {
+      "pm25": 160.34,
+      "pm10": 122.2,
+      "no2": 27.61,
+      "so2": 3.96,
+      "o3": 11.54,
+      "co": 6.18
+    }
+  },
+  {
+    "ward_name": "NARAINA",
+    "aqi": 161.23,
+    "pollutants": {
+      "pm25": 158.99,
+      "pm10": 118.01,
+      "no2": 27.27,
+      "so2": 4.23,
+      "o3": 12.23,
+      "co": 6.28
+    }
+  },
+  {
+    "ward_name": "DEOLI",
+    "aqi": 163.01,
+    "pollutants": {
+      "pm25": 163.81,
+      "pm10": 107.57,
+      "no2": 27.97,
+      "so2": 3.69,
+      "o3": 15.41,
+      "co": 7.32
+    }
+  },
+  {
+    "ward_name": "CHHATARPUR",
+    "aqi": 160.28,
+    "pollutants": {
+      "pm25": 161.02,
+      "pm10": 100.91,
+      "no2": 22.61,
+      "so2": 3.82,
+      "o3": 15.46,
+      "co": 5.77
+    }
+  },
+  {
+    "ward_name": "AYA NAGAR",
+    "aqi": 152.77,
+    "pollutants": {
+      "pm25": 154.63,
+      "pm10": 87.63,
+      "no2": 15.96,
+      "so2": 1.6,
+      "o3": 11.53,
+      "co": 5.33
+    }
+  },
+  {
+    "ward_name": "BHATI",
+    "aqi": 158.66,
+    "pollutants": {
+      "pm25": 160.97,
+      "pm10": 102.12,
+      "no2": 23.15,
+      "so2": 3.26,
+      "o3": 13.06,
+      "co": 6.71
+    }
+  },
+  {
+    "ward_name": "MADANPUR KHADAR",
+    "aqi": 163.86,
+    "pollutants": {
+      "pm25": 167.25,
+      "pm10": 120.53,
+      "no2": 28.99,
+      "so2": 3.04,
+      "o3": 16.12,
+      "co": 6.81
+    }
+  },
+  {
+    "ward_name": "SARITA VIHAR",
+    "aqi": 166.36,
+    "pollutants": {
+      "pm25": 168.45,
+      "pm10": 119.65,
+      "no2": 33.58,
+      "so2": 3.44,
+      "o3": 15.39,
+      "co": 7.7
+    }
+  },
+  {
+    "ward_name": "GHONDLI",
+    "aqi": 166.3,
+    "pollutants": {
+      "pm25": 165.87,
+      "pm10": 119.23,
+      "no2": 26.21,
+      "so2": 3.77,
+      "o3": 17.12,
+      "co": 6.38
+    }
+  },
+  {
+    "ward_name": "ANARKALI",
+    "aqi": 168.36,
+    "pollutants": {
+      "pm25": 168.09,
+      "pm10": 125.64,
+      "no2": 25.46,
+      "so2": 3.52,
+      "o3": 16.5,
+      "co": 6.3
+    }
+  },
+  {
+    "ward_name": "GANDHI NAGAR",
+    "aqi": 160.81,
+    "pollutants": {
+      "pm25": 159.63,
+      "pm10": 110.03,
+      "no2": 26.98,
+      "so2": 4.41,
+      "o3": 16.8,
+      "co": 6.89
+    }
+  },
+  {
+    "ward_name": "AZAD NAGAR",
+    "aqi": 166.37,
+    "pollutants": {
+      "pm25": 165.8,
+      "pm10": 119.75,
+      "no2": 26.19,
+      "so2": 4.26,
+      "o3": 17.73,
+      "co": 7.28
+    }
+  },
+  {
+    "ward_name": "RAGHUBAR PURA",
+    "aqi": 164.11,
+    "pollutants": {
+      "pm25": 163.35,
+      "pm10": 115.55,
+      "no2": 26.32,
+      "so2": 4.38,
+      "o3": 17.54,
+      "co": 7.44
+    }
+  },
+  {
+    "ward_name": "SHAHDARA",
+    "aqi": 170.81,
+    "pollutants": {
+      "pm25": 170.46,
+      "pm10": 127.42,
+      "no2": 26.01,
+      "so2": 4.34,
+      "o3": 18.73,
+      "co": 7.48
+    }
+  },
+  {
+    "ward_name": "JHILMIL",
+    "aqi": 184.74,
+    "pollutants": {
+      "pm25": 184.67,
+      "pm10": 145.2,
+      "no2": 27.35,
+      "so2": 5.4,
+      "o3": 24.54,
+      "co": 8.44
+    }
+  },
+  {
+    "ward_name": "VIVEK VIHAR",
+    "aqi": 195.17,
+    "pollutants": {
+      "pm25": 195.17,
+      "pm10": 152.46,
+      "no2": 29.8,
+      "so2": 6.88,
+      "o3": 31.44,
+      "co": 9.88
+    }
+  },
+  {
+    "ward_name": "DILSHAD COLONY",
+    "aqi": 183.51,
+    "pollutants": {
+      "pm25": 183.48,
+      "pm10": 142.92,
+      "no2": 27.41,
+      "so2": 5.42,
+      "o3": 24.32,
+      "co": 8.53
+    }
+  },
+  {
+    "ward_name": "PUNJABI BAGH",
+    "aqi": 148.31,
+    "pollutants": {
+      "pm25": 148.03,
+      "pm10": 96.29,
+      "no2": 20.7,
+      "so2": 4.04,
+      "o3": 12.88,
+      "co": 5.26
+    }
+  },
+  {
+    "ward_name": "NEW RANJIT NAGAR",
+    "aqi": 172.28,
+    "pollutants": {
+      "pm25": 172.29,
+      "pm10": 146.78,
+      "no2": 15.63,
+      "so2": 3.09,
+      "o3": 8.48,
+      "co": 1.36
+    }
+  },
+  {
+    "ward_name": "KIRTI NAGAR",
+    "aqi": 162.4,
+    "pollutants": {
+      "pm25": 161.46,
+      "pm10": 124.23,
+      "no2": 22.59,
+      "so2": 3.74,
+      "o3": 11.09,
+      "co": 4.29
+    }
+  },
+  {
+    "ward_name": "MANSAROWER GARDEN",
+    "aqi": 159.56,
+    "pollutants": {
+      "pm25": 158.16,
+      "pm10": 116.35,
+      "no2": 24.91,
+      "so2": 4.07,
+      "o3": 12.05,
+      "co": 5.51
+    }
+  },
+  {
+    "ward_name": "HASTSAL",
+    "aqi": 154.36,
+    "pollutants": {
+      "pm25": 154.4,
+      "pm10": 99.95,
+      "no2": 25.81,
+      "so2": 4.29,
+      "o3": 12.9,
+      "co": 6.13
+    }
+  },
+  {
+    "ward_name": "SANGAM PARK",
+    "aqi": 153.52,
+    "pollutants": {
+      "pm25": 153.48,
+      "pm10": 106.79,
+      "no2": 28.37,
+      "so2": 4.84,
+      "o3": 11.28,
+      "co": 6.97
+    }
+  },
+  {
+    "ward_name": "MODEL TOWN",
+    "aqi": 156.04,
+    "pollutants": {
+      "pm25": 155.93,
+      "pm10": 108.86,
+      "no2": 32.46,
+      "so2": 4.55,
+      "o3": 12.55,
+      "co": 6.68
+    }
+  },
+  {
+    "ward_name": "KAMLA NAGAR",
+    "aqi": 154.56,
+    "pollutants": {
+      "pm25": 152.57,
+      "pm10": 109.85,
+      "no2": 32.02,
+      "so2": 4.67,
+      "o3": 13.64,
+      "co": 6.73
+    }
+  },
+  {
+    "ward_name": "INDER LOK COLONY",
+    "aqi": 158.44,
+    "pollutants": {
+      "pm25": 155.85,
+      "pm10": 118.74,
+      "no2": 29.98,
+      "so2": 4.13,
+      "o3": 12.25,
+      "co": 5.88
+    }
+  },
+  {
+    "ward_name": "KISHAN GANJ",
+    "aqi": 151.2,
+    "pollutants": {
+      "pm25": 147.03,
+      "pm10": 109.88,
+      "no2": 33.16,
+      "so2": 5.05,
+      "o3": 14.28,
+      "co": 6.49
+    }
+  },
+  {
+    "ward_name": "DEPUTY GANJ",
+    "aqi": 147.42,
+    "pollutants": {
+      "pm25": 142.22,
+      "pm10": 105.96,
+      "no2": 33.75,
+      "so2": 5.56,
+      "o3": 15.6,
+      "co": 6.39
+    }
+  },
+  {
+    "ward_name": "KASHMERE GATE",
+    "aqi": 155.22,
+    "pollutants": {
+      "pm25": 152.9,
+      "pm10": 106.2,
+      "no2": 29.31,
+      "so2": 5.01,
+      "o3": 16.34,
+      "co": 7.45
+    }
+  },
+  {
+    "ward_name": "MAJNU KA TILA",
+    "aqi": 155.33,
+    "pollutants": {
+      "pm25": 153.28,
+      "pm10": 106.94,
+      "no2": 30.18,
+      "so2": 5.01,
+      "o3": 15.9,
+      "co": 7.57
+    }
+  },
+  {
+    "ward_name": "JAMA MASJID",
+    "aqi": 154.48,
+    "pollutants": {
+      "pm25": 151.76,
+      "pm10": 101.86,
+      "no2": 29.05,
+      "so2": 4.46,
+      "o3": 15.02,
+      "co": 4.88
+    }
+  },
+  {
+    "ward_name": "TILAK NAGAR",
+    "aqi": 156.03,
+    "pollutants": {
+      "pm25": 155.33,
+      "pm10": 105.1,
+      "no2": 25.62,
+      "so2": 4.64,
+      "o3": 13.12,
+      "co": 6.44
+    }
+  },
+  {
+    "ward_name": "MAJOR BHUPINDAR SINGH NAGAR",
+    "aqi": 153.69,
+    "pollutants": {
+      "pm25": 153.2,
+      "pm10": 102.2,
+      "no2": 24.32,
+      "so2": 4.42,
+      "o3": 13.12,
+      "co": 6.1
+    }
+  },
+  {
+    "ward_name": "VIKASPURI EAST",
+    "aqi": 155.46,
+    "pollutants": {
+      "pm25": 154.98,
+      "pm10": 103.48,
+      "no2": 25.49,
+      "so2": 4.6,
+      "o3": 13.16,
+      "co": 6.4
+    }
+  },
+  {
+    "ward_name": "MOHAN GARDEN",
+    "aqi": 156.3,
+    "pollutants": {
+      "pm25": 156.25,
+      "pm10": 101.93,
+      "no2": 26.29,
+      "so2": 4.67,
+      "o3": 12.68,
+      "co": 6.81
+    }
+  },
+  {
+    "ward_name": "NAWADA",
+    "aqi": 157.59,
+    "pollutants": {
+      "pm25": 157.45,
+      "pm10": 102.97,
+      "no2": 26.88,
+      "so2": 5.0,
+      "o3": 12.8,
+      "co": 7.03
+    }
+  },
+  {
+    "ward_name": "UTTAM NAGAR",
+    "aqi": 158.35,
+    "pollutants": {
+      "pm25": 158.19,
+      "pm10": 103.34,
+      "no2": 27.25,
+      "so2": 5.21,
+      "o3": 12.76,
+      "co": 7.21
+    }
+  },
+  {
+    "ward_name": "BINDAPUR",
+    "aqi": 160.63,
+    "pollutants": {
+      "pm25": 160.3,
+      "pm10": 105.01,
+      "no2": 28.65,
+      "so2": 5.95,
+      "o3": 12.9,
+      "co": 7.63
+    }
+  },
+  {
+    "ward_name": "DABRI",
+    "aqi": 161.65,
+    "pollutants": {
+      "pm25": 161.08,
+      "pm10": 106.64,
+      "no2": 29.2,
+      "so2": 6.16,
+      "o3": 13.05,
+      "co": 7.77
+    }
+  },
+  {
+    "ward_name": "MATIALA",
+    "aqi": 163.89,
+    "pollutants": {
+      "pm25": 163.78,
+      "pm10": 104.55,
+      "no2": 30.72,
+      "so2": 7.1,
+      "o3": 12.49,
+      "co": 8.44
+    }
+  },
+  {
+    "ward_name": "ROSHANPURA",
+    "aqi": 154.26,
+    "pollutants": {
+      "pm25": 154.54,
+      "pm10": 99.09,
+      "no2": 25.63,
+      "so2": 4.05,
+      "o3": 11.38,
+      "co": 6.88
+    }
+  },
+  {
+    "ward_name": "MAYUR VIHAR PHASE-I",
+    "aqi": 165.49,
+    "pollutants": {
+      "pm25": 166.23,
+      "pm10": 112.98,
+      "no2": 27.36,
+      "so2": 4.33,
+      "o3": 15.73,
+      "co": 7.23
+    }
+  },
+  {
+    "ward_name": "ROHINI",
+    "aqi": 151.0,
+    "pollutants": {
+      "pm25": 151.63,
+      "pm10": 88.88,
+      "no2": 20.43,
+      "so2": 4.03,
+      "o3": 16.74,
+      "co": 5.51
+    }
+  },
+  {
+    "ward_name": "DALLOPURA",
+    "aqi": 165.46,
+    "pollutants": {
+      "pm25": 166.3,
+      "pm10": 115.56,
+      "no2": 27.0,
+      "so2": 4.37,
+      "o3": 14.72,
+      "co": 7.33
+    }
+  },
+  {
+    "ward_name": "TRILOK PURI",
+    "aqi": 164.99,
+    "pollutants": {
+      "pm25": 165.55,
+      "pm10": 111.95,
+      "no2": 27.45,
+      "so2": 4.26,
+      "o3": 16.44,
+      "co": 7.48
+    }
+  },
+  {
+    "ward_name": "NEW ASHOK NAGAR",
+    "aqi": 164.34,
+    "pollutants": {
+      "pm25": 165.96,
+      "pm10": 114.75,
+      "no2": 27.14,
+      "so2": 5.49,
+      "o3": 11.08,
+      "co": 8.52
+    }
+  },
+  {
+    "ward_name": "KALYAN PURI",
+    "aqi": 166.15,
+    "pollutants": {
+      "pm25": 166.72,
+      "pm10": 118.58,
+      "no2": 26.48,
+      "so2": 3.91,
+      "o3": 15.23,
+      "co": 6.87
+    }
+  },
+  {
+    "ward_name": "KHICHRIPUR",
+    "aqi": 165.68,
+    "pollutants": {
+      "pm25": 166.49,
+      "pm10": 118.65,
+      "no2": 26.58,
+      "so2": 4.17,
+      "o3": 14.4,
+      "co": 7.23
+    }
+  },
+  {
+    "ward_name": "KONDLI",
+    "aqi": 165.63,
+    "pollutants": {
+      "pm25": 166.5,
+      "pm10": 119.68,
+      "no2": 26.51,
+      "so2": 4.11,
+      "o3": 14.38,
+      "co": 7.25
+    }
+  },
+  {
+    "ward_name": "GHAROLI",
+    "aqi": 166.35,
+    "pollutants": {
+      "pm25": 167.01,
+      "pm10": 122.7,
+      "no2": 26.0,
+      "so2": 3.79,
+      "o3": 14.59,
+      "co": 6.95
+    }
+  },
+  {
+    "ward_name": "VINOD NAGAR",
+    "aqi": 168.03,
+    "pollutants": {
+      "pm25": 168.05,
+      "pm10": 106.32,
+      "no2": 28.27,
+      "so2": 3.2,
+      "o3": 21.79,
+      "co": 5.45
+    }
+  },
+  {
+    "ward_name": "ASHOK VIHAR",
+    "aqi": 155.14,
+    "pollutants": {
+      "pm25": 155.09,
+      "pm10": 116.12,
+      "no2": 51.09,
+      "so2": 1.42,
+      "o3": 12.91,
+      "co": 6.98
+    }
+  },
+  {
+    "ward_name": "WAJIRPUR",
+    "aqi": 156.12,
+    "pollutants": {
+      "pm25": 155.66,
+      "pm10": 113.88,
+      "no2": 39.67,
+      "so2": 2.94,
+      "o3": 12.7,
+      "co": 6.68
+    }
+  },
+  {
+    "ward_name": "SAWAN PARK",
+    "aqi": 153.7,
+    "pollutants": {
+      "pm25": 153.57,
+      "pm10": 107.37,
+      "no2": 29.18,
+      "so2": 4.71,
+      "o3": 11.42,
+      "co": 6.95
+    }
+  },
+  {
+    "ward_name": "NIMRI COLONY",
+    "aqi": 156.04,
+    "pollutants": {
+      "pm25": 155.19,
+      "pm10": 112.5,
+      "no2": 33.66,
+      "so2": 3.9,
+      "o3": 12.44,
+      "co": 6.59
+    }
+  },
+  {
+    "ward_name": "SHAKUR PUR",
+    "aqi": 156.24,
+    "pollutants": {
+      "pm25": 155.76,
+      "pm10": 111.77,
+      "no2": 34.55,
+      "so2": 3.49,
+      "o3": 12.86,
+      "co": 6.44
+    }
+  },
+  {
+    "ward_name": "KOHAT ENCLAVE",
+    "aqi": 155.09,
+    "pollutants": {
+      "pm25": 154.74,
+      "pm10": 107.56,
+      "no2": 29.87,
+      "so2": 3.99,
+      "o3": 13.09,
+      "co": 6.24
+    }
+  },
+  {
+    "ward_name": "RAMPURA",
+    "aqi": 157.31,
+    "pollutants": {
+      "pm25": 156.52,
+      "pm10": 113.66,
+      "no2": 29.74,
+      "so2": 3.78,
+      "o3": 12.49,
+      "co": 5.87
+    }
+  },
+  {
+    "ward_name": "TRI NAGAR",
+    "aqi": 158.09,
+    "pollutants": {
+      "pm25": 157.05,
+      "pm10": 116.35,
+      "no2": 31.91,
+      "so2": 3.69,
+      "o3": 12.32,
+      "co": 6.0
+    }
+  },
+  {
+    "ward_name": "SARASWATI VIHAR",
+    "aqi": 151.85,
+    "pollutants": {
+      "pm25": 151.68,
+      "pm10": 100.22,
+      "no2": 24.15,
+      "so2": 4.31,
+      "o3": 13.26,
+      "co": 5.83
+    }
+  },
+  {
+    "ward_name": "RANI BAGH",
+    "aqi": 151.55,
+    "pollutants": {
+      "pm25": 151.2,
+      "pm10": 101.31,
+      "no2": 24.07,
+      "so2": 4.11,
+      "o3": 12.99,
+      "co": 5.67
+    }
+  },
+  {
+    "ward_name": "PASCHIM VIHAR NORTH",
+    "aqi": 149.03,
+    "pollutants": {
+      "pm25": 148.83,
+      "pm10": 96.27,
+      "no2": 21.56,
+      "so2": 4.17,
+      "o3": 13.08,
+      "co": 5.51
+    }
+  },
+  {
+    "ward_name": "PASCHIM VIHAR SOUTH",
+    "aqi": 149.64,
+    "pollutants": {
+      "pm25": 149.36,
+      "pm10": 97.1,
+      "no2": 21.79,
+      "so2": 4.19,
+      "o3": 13.06,
+      "co": 5.58
+    }
+  },
+  {
+    "ward_name": "SHALIMAR BAGH SOUTH",
+    "aqi": 156.08,
+    "pollutants": {
+      "pm25": 156.01,
+      "pm10": 115.31,
+      "no2": 46.86,
+      "so2": 2.09,
+      "o3": 12.86,
+      "co": 7.04
+    }
+  },
+  {
+    "ward_name": "SHALIMAR BAGH NORTH",
+    "aqi": 158.77,
+    "pollutants": {
+      "pm25": 158.79,
+      "pm10": 113.25,
+      "no2": 35.99,
+      "so2": 4.01,
+      "o3": 12.73,
+      "co": 7.34
+    }
+  },
+  {
+    "ward_name": "PITAMPUR NORTH",
+    "aqi": 156.34,
+    "pollutants": {
+      "pm25": 156.48,
+      "pm10": 107.86,
+      "no2": 31.89,
+      "so2": 4.29,
+      "o3": 13.24,
+      "co": 6.77
+    }
+  },
+  {
+    "ward_name": "PITAMPURA SOUTH",
+    "aqi": 156.06,
+    "pollutants": {
+      "pm25": 155.84,
+      "pm10": 110.6,
+      "no2": 35.5,
+      "so2": 3.53,
+      "o3": 13.04,
+      "co": 6.66
+    }
+  },
+  {
+    "ward_name": "NAHARPUR",
+    "aqi": 152.73,
+    "pollutants": {
+      "pm25": 153.08,
+      "pm10": 98.49,
+      "no2": 24.79,
+      "so2": 4.56,
+      "o3": 14.22,
+      "co": 5.91
+    }
+  },
+  {
+    "ward_name": "ROHINI EAST",
+    "aqi": 153.94,
+    "pollutants": {
+      "pm25": 154.1,
+      "pm10": 102.26,
+      "no2": 27.26,
+      "so2": 4.42,
+      "o3": 13.79,
+      "co": 6.16
+    }
+  },
+  {
+    "ward_name": "ROHINI CENTRAL",
+    "aqi": 152.1,
+    "pollutants": {
+      "pm25": 152.63,
+      "pm10": 93.9,
+      "no2": 22.89,
+      "so2": 4.31,
+      "o3": 15.52,
+      "co": 5.78
+    }
+  },
+  {
+    "ward_name": "MANGOLPURI  WEST",
+    "aqi": 153.34,
+    "pollutants": {
+      "pm25": 153.25,
+      "pm10": 100.55,
+      "no2": 24.42,
+      "so2": 4.46,
+      "o3": 13.3,
+      "co": 6.0
+    }
+  },
+  {
+    "ward_name": "MANGOLPURI  EAST",
+    "aqi": 152.66,
+    "pollutants": {
+      "pm25": 152.57,
+      "pm10": 100.23,
+      "no2": 24.17,
+      "so2": 4.45,
+      "o3": 13.33,
+      "co": 5.94
+    }
+  },
+  {
+    "ward_name": "ROHINI SOUTH",
+    "aqi": 152.72,
+    "pollutants": {
+      "pm25": 152.84,
+      "pm10": 99.9,
+      "no2": 24.65,
+      "so2": 4.56,
+      "o3": 13.63,
+      "co": 5.93
+    }
+  },
+  {
+    "ward_name": "QUAMMRUDDIN NAGAR",
+    "aqi": 155.13,
+    "pollutants": {
+      "pm25": 154.86,
+      "pm10": 101.9,
+      "no2": 25.64,
+      "so2": 4.48,
+      "o3": 13.22,
+      "co": 6.2
+    }
+  },
+  {
+    "ward_name": "NANGLOI EAST",
+    "aqi": 154.33,
+    "pollutants": {
+      "pm25": 154.17,
+      "pm10": 100.51,
+      "no2": 25.3,
+      "so2": 4.36,
+      "o3": 13.3,
+      "co": 5.92
+    }
+  },
+  {
+    "ward_name": "PERAGHARHI",
+    "aqi": 153.12,
+    "pollutants": {
+      "pm25": 152.9,
+      "pm10": 100.7,
+      "no2": 24.27,
+      "so2": 4.39,
+      "o3": 13.24,
+      "co": 5.99
+    }
+  },
+  {
+    "ward_name": "GURU HARKISHAN NAGAR",
+    "aqi": 153.43,
+    "pollutants": {
+      "pm25": 153.1,
+      "pm10": 101.29,
+      "no2": 24.37,
+      "so2": 4.39,
+      "o3": 13.18,
+      "co": 6.05
+    }
+  },
+  {
+    "ward_name": "SULTANPURI  SOUTH",
+    "aqi": 153.95,
+    "pollutants": {
+      "pm25": 153.88,
+      "pm10": 100.21,
+      "no2": 24.8,
+      "so2": 4.4,
+      "o3": 13.3,
+      "co": 5.94
+    }
+  },
+  {
+    "ward_name": "SULTANPURI  EAST",
+    "aqi": 153.53,
+    "pollutants": {
+      "pm25": 153.57,
+      "pm10": 100.03,
+      "no2": 24.34,
+      "so2": 4.51,
+      "o3": 13.31,
+      "co": 6.0
+    }
+  },
+  {
+    "ward_name": "KIRARI SULEMAN NAGAR",
+    "aqi": 154.04,
+    "pollutants": {
+      "pm25": 154.04,
+      "pm10": 98.78,
+      "no2": 25.0,
+      "so2": 4.28,
+      "o3": 13.33,
+      "co": 5.67
+    }
+  },
+  {
+    "ward_name": "KARALA",
+    "aqi": 152.94,
+    "pollutants": {
+      "pm25": 153.05,
+      "pm10": 98.45,
+      "no2": 20.26,
+      "so2": 3.58,
+      "o3": 12.22,
+      "co": 6.68
+    }
+  },
+  {
+    "ward_name": "BEGUMPUR",
+    "aqi": 155.7,
+    "pollutants": {
+      "pm25": 155.58,
+      "pm10": 92.91,
+      "no2": 12.66,
+      "so2": 2.45,
+      "o3": 10.54,
+      "co": 7.33
+    }
+  },
+  {
+    "ward_name": "POOTH KALAN",
+    "aqi": 152.98,
+    "pollutants": {
+      "pm25": 153.34,
+      "pm10": 98.22,
+      "no2": 23.08,
+      "so2": 4.72,
+      "o3": 13.19,
+      "co": 5.96
+    }
+  },
+  {
+    "ward_name": "VIJAY VIHAR",
+    "aqi": 152.49,
+    "pollutants": {
+      "pm25": 152.84,
+      "pm10": 98.5,
+      "no2": 23.95,
+      "so2": 4.77,
+      "o3": 13.64,
+      "co": 5.86
+    }
+  },
+  {
+    "ward_name": "GEETA COLONY",
+    "aqi": 163.9,
+    "pollutants": {
+      "pm25": 163.23,
+      "pm10": 113.64,
+      "no2": 26.72,
+      "so2": 3.95,
+      "o3": 17.1,
+      "co": 6.25
+    }
+  },
+  {
+    "ward_name": "KRISHNA  NAGAR",
+    "aqi": 164.77,
+    "pollutants": {
+      "pm25": 164.12,
+      "pm10": 116.54,
+      "no2": 26.47,
+      "so2": 4.07,
+      "o3": 17.17,
+      "co": 6.68
+    }
+  },
+  {
+    "ward_name": "PREET VIHAR",
+    "aqi": 168.15,
+    "pollutants": {
+      "pm25": 168.03,
+      "pm10": 125.34,
+      "no2": 25.2,
+      "so2": 3.1,
+      "o3": 15.97,
+      "co": 5.84
+    }
+  },
+  {
+    "ward_name": "I.P EXTENTION",
+    "aqi": 168.87,
+    "pollutants": {
+      "pm25": 168.93,
+      "pm10": 138.09,
+      "no2": 22.69,
+      "so2": 2.25,
+      "o3": 11.76,
+      "co": 5.24
+    }
+  },
+  {
+    "ward_name": "ANAND VIHAR",
+    "aqi": 174.6,
+    "pollutants": {
+      "pm25": 174.57,
+      "pm10": 151.57,
+      "no2": 21.78,
+      "so2": 2.35,
+      "o3": 12.37,
+      "co": 5.38
+    }
+  },
+  {
+    "ward_name": "Unknown",
+    "aqi": 160.43,
+    "pollutants": {
+      "pm25": 159.29,
+      "pm10": 106.59,
+      "no2": 27.14,
+      "so2": 4.02,
+      "o3": 15.99,
+      "co": 5.42
+    }
+  },
+  {
+    "ward_name": "SHAKARPUR",
+    "aqi": 167.74,
+    "pollutants": {
+      "pm25": 167.68,
+      "pm10": 105.65,
+      "no2": 28.3,
+      "so2": 3.22,
+      "o3": 21.93,
+      "co": 5.39
+    }
+  },
+  {
+    "ward_name": "LAXMI NAGAR",
+    "aqi": 165.31,
+    "pollutants": {
+      "pm25": 164.95,
+      "pm10": 111.73,
+      "no2": 27.08,
+      "so2": 3.63,
+      "o3": 18.41,
+      "co": 5.91
+    }
+  },
+  {
+    "ward_name": "RITHALA",
+    "aqi": 151.66,
+    "pollutants": {
+      "pm25": 152.28,
+      "pm10": 95.39,
+      "no2": 23.2,
+      "so2": 4.76,
+      "o3": 14.52,
+      "co": 5.67
+    }
+  },
+  {
+    "ward_name": "MAYUR VIHAR PHASE II",
+    "aqi": 166.72,
+    "pollutants": {
+      "pm25": 167.01,
+      "pm10": 115.03,
+      "no2": 26.94,
+      "so2": 3.61,
+      "o3": 17.41,
+      "co": 6.34
+    }
+  },
+  {
+    "ward_name": "MANDAWALI",
+    "aqi": 167.64,
+    "pollutants": {
+      "pm25": 167.62,
+      "pm10": 110.91,
+      "no2": 27.5,
+      "so2": 3.25,
+      "o3": 20.08,
+      "co": 5.64
+    }
+  },
+  {
+    "ward_name": "KARAM PURA",
+    "aqi": 164.05,
+    "pollutants": {
+      "pm25": 163.18,
+      "pm10": 128.71,
+      "no2": 23.27,
+      "so2": 3.6,
+      "o3": 10.76,
+      "co": 3.96
+    }
+  },
+  {
+    "ward_name": "MAHAVIR ENCLAVE",
+    "aqi": 164.77,
+    "pollutants": {
+      "pm25": 164.55,
+      "pm10": 105.32,
+      "no2": 31.67,
+      "so2": 7.51,
+      "o3": 12.61,
+      "co": 8.57
+    }
+  },
+  {
+    "ward_name": "SAGARPUR",
+    "aqi": 161.67,
+    "pollutants": {
+      "pm25": 160.91,
+      "pm10": 107.87,
+      "no2": 28.99,
+      "so2": 5.96,
+      "o3": 13.24,
+      "co": 7.73
+    }
+  },
+  {
+    "ward_name": "SAGARPUR WEST",
+    "aqi": 161.63,
+    "pollutants": {
+      "pm25": 160.95,
+      "pm10": 107.33,
+      "no2": 29.07,
+      "so2": 6.04,
+      "o3": 13.15,
+      "co": 7.73
+    }
+  },
+  {
+    "ward_name": "MUNDAKA",
+    "aqi": 150.11,
+    "pollutants": {
+      "pm25": 150.49,
+      "pm10": 98.31,
+      "no2": 23.78,
+      "so2": 3.87,
+      "o3": 12.61,
+      "co": 5.93
+    }
+  },
+  {
+    "ward_name": "EAST PATEL NAGAR",
+    "aqi": 164.28,
+    "pollutants": {
+      "pm25": 160.13,
+      "pm10": 127.18,
+      "no2": 29.67,
+      "so2": 3.62,
+      "o3": 10.49,
+      "co": 6.25
+    }
+  },
+  {
+    "ward_name": "WEST PATEL NAGAR",
+    "aqi": 169.16,
+    "pollutants": {
+      "pm25": 168.7,
+      "pm10": 140.3,
+      "no2": 18.56,
+      "so2": 3.31,
+      "o3": 9.36,
+      "co": 2.32
+    }
+  },
+  {
+    "ward_name": "DEV NAGAR",
+    "aqi": 157.04,
+    "pollutants": {
+      "pm25": 151.54,
+      "pm10": 119.04,
+      "no2": 33.08,
+      "so2": 4.35,
+      "o3": 12.15,
+      "co": 6.74
+    }
+  },
+  {
+    "ward_name": "KAROL BAGH",
+    "aqi": 144.55,
+    "pollutants": {
+      "pm25": 137.11,
+      "pm10": 108.64,
+      "no2": 36.22,
+      "so2": 5.73,
+      "o3": 14.84,
+      "co": 6.34
+    }
+  },
+  {
+    "ward_name": "MODEL BASTI",
+    "aqi": 132.37,
+    "pollutants": {
+      "pm25": 122.01,
+      "pm10": 100.84,
+      "no2": 39.63,
+      "so2": 7.04,
+      "o3": 16.99,
       "co": 5.79
     }
   },
   {
-    "ward_name": "TUKHMIR PUR",
-    "aqi": 165.47,
+    "ward_name": "RANA PRATAP BAGH",
+    "aqi": 155.39,
     "pollutants": {
-      "pm25": 165.56,
-      "pm10": 106.47,
-      "no2": 16.55,
-      "so2": 5.85,
-      "o3": 27.32,
+      "pm25": 154.51,
+      "pm10": 109.07,
+      "no2": 31.65,
+      "so2": 4.59,
+      "o3": 13.07,
+      "co": 6.84
+    }
+  },
+  {
+    "ward_name": "BAKHTAWAR PUR",
+    "aqi": 144.88,
+    "pollutants": {
+      "pm25": 144.5,
+      "pm10": 89.95,
+      "no2": 19.13,
+      "so2": 2.46,
+      "o3": 12.29,
+      "co": 18.06
+    }
+  },
+  {
+    "ward_name": "ALIPUR",
+    "aqi": 167.45,
+    "pollutants": {
+      "pm25": 164.56,
+      "pm10": 109.62,
+      "no2": 16.81,
+      "so2": 3.53,
+      "o3": 15.58,
+      "co": 6.21
+    }
+  },
+  {
+    "ward_name": "SAHIBABAD DAULAT PUR",
+    "aqi": 145.97,
+    "pollutants": {
+      "pm25": 148.34,
+      "pm10": 90.29,
+      "no2": 21.24,
+      "so2": 7.18,
+      "o3": 12.22,
+      "co": 4.3
+    }
+  },
+  {
+    "ward_name": "BANKNER",
+    "aqi": 170.08,
+    "pollutants": {
+      "pm25": 166.62,
+      "pm10": 112.3,
+      "no2": 16.51,
+      "so2": 2.74,
+      "o3": 15.87,
+      "co": 6.59
+    }
+  },
+  {
+    "ward_name": "MALKAGANJ",
+    "aqi": 152.99,
+    "pollutants": {
+      "pm25": 150.05,
+      "pm10": 107.99,
+      "no2": 32.0,
+      "so2": 5.02,
+      "o3": 14.95,
+      "co": 6.83
+    }
+  },
+  {
+    "ward_name": "JHARODA",
+    "aqi": 161.25,
+    "pollutants": {
+      "pm25": 162.11,
+      "pm10": 107.58,
+      "no2": 35.97,
+      "so2": 4.79,
+      "o3": 15.65,
+      "co": 6.14
+    }
+  },
+  {
+    "ward_name": "MUKUND PUR",
+    "aqi": 163.69,
+    "pollutants": {
+      "pm25": 164.16,
+      "pm10": 114.99,
+      "no2": 35.21,
+      "so2": 5.07,
+      "o3": 13.09,
+      "co": 7.4
+    }
+  },
+  {
+    "ward_name": "BAWANA",
+    "aqi": 157.27,
+    "pollutants": {
+      "pm25": 156.74,
+      "pm10": 98.83,
+      "no2": 16.49,
+      "so2": 3.01,
+      "o3": 12.14,
+      "co": 7.24
+    }
+  },
+  {
+    "ward_name": "BHALSWA",
+    "aqi": 163.91,
+    "pollutants": {
+      "pm25": 164.17,
+      "pm10": 117.37,
+      "no2": 32.08,
+      "so2": 5.38,
+      "o3": 11.98,
+      "co": 8.61
+    }
+  },
+  {
+    "ward_name": "SAMAYPUR BADLI",
+    "aqi": 155.98,
+    "pollutants": {
+      "pm25": 156.71,
+      "pm10": 105.24,
+      "no2": 28.33,
+      "so2": 5.39,
+      "o3": 12.97,
+      "co": 6.8
+    }
+  },
+  {
+    "ward_name": "JAHANGIRPURI-I",
+    "aqi": 170.48,
+    "pollutants": {
+      "pm25": 170.52,
+      "pm10": 127.75,
+      "no2": 35.09,
+      "so2": 5.56,
+      "o3": 10.86,
+      "co": 9.87
+    }
+  },
+  {
+    "ward_name": "SARAI PIPAL THALA",
+    "aqi": 164.96,
+    "pollutants": {
+      "pm25": 165.03,
+      "pm10": 120.43,
+      "no2": 34.88,
+      "so2": 4.97,
+      "o3": 11.79,
+      "co": 8.65
+    }
+  },
+  {
+    "ward_name": "MAHIPALPUR",
+    "aqi": 162.86,
+    "pollutants": {
+      "pm25": 162.81,
+      "pm10": 106.76,
+      "no2": 25.75,
+      "so2": 5.27,
+      "o3": 14.84,
+      "co": 7.51
+    }
+  },
+  {
+    "ward_name": "KAPASHERA",
+    "aqi": 163.24,
+    "pollutants": {
+      "pm25": 163.24,
+      "pm10": 104.77,
+      "no2": 27.51,
+      "so2": 6.15,
+      "o3": 13.24,
+      "co": 7.98
+    }
+  },
+  {
+    "ward_name": "BIJWASAN",
+    "aqi": 162.54,
+    "pollutants": {
+      "pm25": 162.61,
+      "pm10": 103.72,
+      "no2": 27.15,
+      "so2": 5.77,
+      "o3": 12.37,
+      "co": 8.24
+    }
+  },
+  {
+    "ward_name": "ADARASH  NAGAR",
+    "aqi": 160.43,
+    "pollutants": {
+      "pm25": 160.44,
+      "pm10": 115.82,
+      "no2": 37.69,
+      "so2": 4.06,
+      "o3": 12.42,
+      "co": 7.52
+    }
+  },
+  {
+    "ward_name": "DHIR PUR",
+    "aqi": 162.24,
+    "pollutants": {
+      "pm25": 163.67,
+      "pm10": 109.66,
+      "no2": 42.68,
+      "so2": 4.68,
+      "o3": 14.11,
+      "co": 3.89
+    }
+  },
+  {
+    "ward_name": "G.T.B. NAGAR",
+    "aqi": 157.98,
+    "pollutants": {
+      "pm25": 157.79,
+      "pm10": 108.51,
+      "no2": 33.97,
+      "so2": 4.67,
+      "o3": 14.29,
+      "co": 6.55
+    }
+  },
+  {
+    "ward_name": "TIMAR PUR",
+    "aqi": 158.47,
+    "pollutants": {
+      "pm25": 158.02,
+      "pm10": 106.13,
+      "no2": 30.35,
+      "so2": 5.07,
+      "o3": 16.46,
+      "co": 8.41
+    }
+  },
+  {
+    "ward_name": "RAJA GARDEN",
+    "aqi": 151.87,
+    "pollutants": {
+      "pm25": 151.27,
+      "pm10": 102.24,
+      "no2": 22.29,
+      "so2": 4.1,
+      "o3": 12.73,
+      "co": 5.43
+    }
+  },
+  {
+    "ward_name": "RAGHUBIR NAGAR",
+    "aqi": 148.2,
+    "pollutants": {
+      "pm25": 147.92,
+      "pm10": 95.55,
+      "no2": 20.62,
+      "so2": 4.1,
+      "o3": 12.96,
+      "co": 5.35
+    }
+  },
+  {
+    "ward_name": "RAJOURI GARDEN",
+    "aqi": 155.23,
+    "pollutants": {
+      "pm25": 154.29,
+      "pm10": 106.84,
+      "no2": 24.43,
+      "so2": 4.28,
+      "o3": 12.79,
+      "co": 5.89
+    }
+  },
+  {
+    "ward_name": "NANGAL RAYA",
+    "aqi": 159.52,
+    "pollutants": {
+      "pm25": 158.42,
+      "pm10": 109.18,
+      "no2": 27.57,
+      "so2": 5.08,
+      "o3": 13.24,
+      "co": 7.06
+    }
+  },
+  {
+    "ward_name": "HARI NAGAR",
+    "aqi": 158.56,
+    "pollutants": {
+      "pm25": 157.18,
+      "pm10": 111.05,
+      "no2": 26.59,
+      "so2": 4.55,
+      "o3": 12.92,
+      "co": 6.47
+    }
+  },
+  {
+    "ward_name": "SUBHASH NAGAR",
+    "aqi": 156.91,
+    "pollutants": {
+      "pm25": 155.82,
+      "pm10": 108.54,
+      "no2": 25.66,
+      "so2": 4.46,
+      "o3": 12.91,
+      "co": 6.25
+    }
+  },
+  {
+    "ward_name": "MADHU VIHAR",
+    "aqi": 160.93,
+    "pollutants": {
+      "pm25": 160.69,
+      "pm10": 104.55,
+      "no2": 28.83,
+      "so2": 6.06,
+      "o3": 12.78,
+      "co": 7.74
+    }
+  },
+  {
+    "ward_name": "BUDH VIHAR",
+    "aqi": 152.33,
+    "pollutants": {
+      "pm25": 152.82,
+      "pm10": 97.78,
+      "no2": 23.42,
+      "so2": 4.9,
+      "o3": 13.47,
+      "co": 5.83
+    }
+  },
+  {
+    "ward_name": "NANGLOI JAT WEST",
+    "aqi": 154.1,
+    "pollutants": {
+      "pm25": 154.08,
+      "pm10": 96.82,
+      "no2": 26.53,
+      "so2": 4.13,
+      "o3": 13.61,
+      "co": 4.95
+    }
+  },
+  {
+    "ward_name": "NITHARI",
+    "aqi": 153.91,
+    "pollutants": {
+      "pm25": 153.94,
+      "pm10": 97.21,
+      "no2": 25.23,
+      "so2": 4.08,
+      "o3": 13.34,
+      "co": 5.33
+    }
+  },
+  {
+    "ward_name": "SULTANPUR MAJRA",
+    "aqi": 153.74,
+    "pollutants": {
+      "pm25": 153.76,
+      "pm10": 99.89,
+      "no2": 24.42,
+      "so2": 4.46,
+      "o3": 13.29,
+      "co": 5.98
+    }
+  },
+  {
+    "ward_name": "ROHINI NORTH",
+    "aqi": 150.66,
+    "pollutants": {
+      "pm25": 151.88,
+      "pm10": 94.52,
+      "no2": 23.72,
+      "so2": 5.44,
+      "o3": 14.22,
+      "co": 5.49
+    }
+  },
+  {
+    "ward_name": "LIBAS PUR",
+    "aqi": 152.17,
+    "pollutants": {
+      "pm25": 153.4,
+      "pm10": 99.86,
+      "no2": 25.46,
+      "so2": 6.06,
+      "o3": 12.65,
+      "co": 6.61
+    }
+  },
+  {
+    "ward_name": "BRAHAM PURI",
+    "aqi": 160.63,
+    "pollutants": {
+      "pm25": 159.94,
+      "pm10": 106.04,
+      "no2": 23.36,
+      "so2": 5.24,
+      "o3": 19.27,
+      "co": 11.03
+    }
+  },
+  {
+    "ward_name": "DICHAON KALAN",
+    "aqi": 140.95,
+    "pollutants": {
+      "pm25": 142.23,
+      "pm10": 97.46,
+      "no2": 21.03,
+      "so2": 3.3,
+      "o3": 10.33,
+      "co": 6.85
+    }
+  },
+  {
+    "ward_name": "MOTI NAGAR",
+    "aqi": 159.34,
+    "pollutants": {
+      "pm25": 158.43,
+      "pm10": 117.96,
+      "no2": 25.94,
+      "so2": 3.82,
+      "o3": 11.89,
+      "co": 5.11
+    }
+  },
+  {
+    "ward_name": "MANGOLPURI",
+    "aqi": 153.0,
+    "pollutants": {
+      "pm25": 153.02,
+      "pm10": 100.13,
+      "no2": 24.3,
+      "so2": 4.54,
+      "o3": 13.38,
+      "co": 5.97
+    }
+  },
+  {
+    "ward_name": "LAJPAT NAGAR",
+    "aqi": 170.07,
+    "pollutants": {
+      "pm25": 170.03,
+      "pm10": 114.18,
+      "no2": 25.37,
+      "so2": 3.81,
+      "o3": 25.2,
+      "co": 20.97
+    }
+  },
+  {
+    "ward_name": "PALAM",
+    "aqi": 169.65,
+    "pollutants": {
+      "pm25": 169.59,
+      "pm10": 105.16,
+      "no2": 35.75,
+      "so2": 9.46,
+      "o3": 12.17,
+      "co": 9.69
+    }
+  },
+  {
+    "ward_name": "KISHANGARH",
+    "aqi": 160.66,
+    "pollutants": {
+      "pm25": 161.13,
+      "pm10": 101.24,
+      "no2": 22.31,
+      "so2": 4.53,
+      "o3": 15.59,
+      "co": 5.56
+    }
+  },
+  {
+    "ward_name": "VISHWASH NAGAR",
+    "aqi": 173.87,
+    "pollutants": {
+      "pm25": 173.68,
+      "pm10": 135.17,
+      "no2": 25.44,
+      "so2": 4.02,
+      "o3": 18.27,
+      "co": 7.05
+    }
+  },
+  {
+    "ward_name": "MADIPUR",
+    "aqi": 144.51,
+    "pollutants": {
+      "pm25": 144.48,
+      "pm10": 89.79,
+      "no2": 18.35,
+      "so2": 4.01,
+      "o3": 13.0,
+      "co": 5.04
+    }
+  },
+  {
+    "ward_name": "RAJENDER NAGAR",
+    "aqi": 155.34,
+    "pollutants": {
+      "pm25": 146.41,
+      "pm10": 117.33,
+      "no2": 39.26,
+      "so2": 4.42,
+      "o3": 11.78,
+      "co": 8.58
+    }
+  },
+  {
+    "ward_name": "R. K. PURAM",
+    "aqi": 182.66,
+    "pollutants": {
+      "pm25": 182.54,
+      "pm10": 130.57,
+      "no2": 30.67,
+      "so2": 10.47,
+      "o3": 14.24,
       "co": 15.15
     }
   },
   {
-    "ward_name": "RAJ NAGAR",
-    "aqi": 170.14,
+    "ward_name": "SAFDARJANG ENCLAVE",
+    "aqi": 167.86,
     "pollutants": {
-      "pm25": 170.17,
-      "pm10": 105.09,
-      "no2": 35.73,
-      "so2": 9.53,
-      "o3": 12.44,
-      "co": 9.73
+      "pm25": 167.38,
+      "pm10": 113.53,
+      "no2": 28.06,
+      "so2": 6.02,
+      "o3": 16.64,
+      "co": 9.54
+    }
+  },
+  {
+    "ward_name": "HAUZ KHAS",
+    "aqi": 164.79,
+    "pollutants": {
+      "pm25": 164.39,
+      "pm10": 109.96,
+      "no2": 27.4,
+      "so2": 4.64,
+      "o3": 17.84,
+      "co": 8.65
+    }
+  },
+  {
+    "ward_name": "KOTLA MUBARAKPUR",
+    "aqi": 163.09,
+    "pollutants": {
+      "pm25": 162.36,
+      "pm10": 105.1,
+      "no2": 22.9,
+      "so2": 3.85,
+      "o3": 20.11,
+      "co": 6.22
+    }
+  },
+  {
+    "ward_name": "MANGLAPURI",
+    "aqi": 164.9,
+    "pollutants": {
+      "pm25": 164.59,
+      "pm10": 105.93,
+      "no2": 31.69,
+      "so2": 7.5,
+      "o3": 12.72,
+      "co": 8.57
+    }
+  },
+  {
+    "ward_name": "MANGOL PURI  NORTH",
+    "aqi": 153.12,
+    "pollutants": {
+      "pm25": 153.21,
+      "pm10": 99.87,
+      "no2": 24.23,
+      "so2": 4.59,
+      "o3": 13.39,
+      "co": 5.98
+    }
+  },
+  {
+    "ward_name": "TAGORE GARDEN",
+    "aqi": 154.01,
+    "pollutants": {
+      "pm25": 153.34,
+      "pm10": 103.53,
+      "no2": 24.26,
+      "so2": 4.39,
+      "o3": 13.02,
+      "co": 6.04
+    }
+  },
+  {
+    "ward_name": "LADOSARAI",
+    "aqi": 163.12,
+    "pollutants": {
+      "pm25": 163.13,
+      "pm10": 100.73,
+      "no2": 27.05,
+      "so2": 2.18,
+      "o3": 18.77,
+      "co": 6.17
+    }
+  },
+  {
+    "ward_name": "NARELA",
+    "aqi": 174.1,
+    "pollutants": {
+      "pm25": 169.35,
+      "pm10": 115.67,
+      "no2": 15.19,
+      "so2": 2.27,
+      "o3": 17.06,
+      "co": 7.48
+    }
+  },
+  {
+    "ward_name": "BHALASWA JAHAGIR PUR",
+    "aqi": 156.09,
+    "pollutants": {
+      "pm25": 156.36,
+      "pm10": 104.96,
+      "no2": 27.04,
+      "so2": 4.81,
+      "o3": 13.0,
+      "co": 8.94
+    }
+  },
+  {
+    "ward_name": "BURARI",
+    "aqi": 159.32,
+    "pollutants": {
+      "pm25": 159.48,
+      "pm10": 108.24,
+      "no2": 30.18,
+      "so2": 4.47,
+      "o3": 14.38,
+      "co": 8.18
+    }
+  },
+  {
+    "ward_name": "PATPARGANJ",
+    "aqi": 166.85,
+    "pollutants": {
+      "pm25": 167.0,
+      "pm10": 107.55,
+      "no2": 28.05,
+      "so2": 3.54,
+      "o3": 20.2,
+      "co": 6.04
+    }
+  },
+  {
+    "ward_name": "PANDAV NAGAR",
+    "aqi": 166.91,
+    "pollutants": {
+      "pm25": 166.8,
+      "pm10": 105.35,
+      "no2": 28.19,
+      "so2": 3.33,
+      "o3": 21.46,
+      "co": 5.5
+    }
+  },
+  {
+    "ward_name": "KISHAN KUNJ",
+    "aqi": 163.39,
+    "pollutants": {
+      "pm25": 162.8,
+      "pm10": 109.05,
+      "no2": 27.1,
+      "so2": 3.8,
+      "o3": 17.73,
+      "co": 5.74
+    }
+  },
+  {
+    "ward_name": "DHARAMPURA",
+    "aqi": 160.74,
+    "pollutants": {
+      "pm25": 159.6,
+      "pm10": 110.02,
+      "no2": 26.68,
+      "so2": 4.57,
+      "o3": 17.16,
+      "co": 7.57
+    }
+  },
+  {
+    "ward_name": "NEW USMANPUR",
+    "aqi": 160.88,
+    "pollutants": {
+      "pm25": 159.95,
+      "pm10": 109.07,
+      "no2": 25.48,
+      "so2": 4.86,
+      "o3": 18.03,
+      "co": 9.02
+    }
+  },
+  {
+    "ward_name": "BHAJANPURA",
+    "aqi": 160.17,
+    "pollutants": {
+      "pm25": 159.81,
+      "pm10": 100.61,
+      "no2": 19.47,
+      "so2": 5.83,
+      "o3": 21.41,
+      "co": 14.27
+    }
+  },
+  {
+    "ward_name": "NEHRU VIHAR",
+    "aqi": 160.64,
+    "pollutants": {
+      "pm25": 160.39,
+      "pm10": 101.41,
+      "no2": 19.3,
+      "so2": 5.72,
+      "o3": 21.44,
+      "co": 14.19
+    }
+  },
+  {
+    "ward_name": "SAID UL AJAIB",
+    "aqi": 162.71,
+    "pollutants": {
+      "pm25": 164.82,
+      "pm10": 110.34,
+      "no2": 28.8,
+      "so2": 3.76,
+      "o3": 13.11,
+      "co": 6.92
+    }
+  },
+  {
+    "ward_name": "SANGAM VIHAR",
+    "aqi": 163.56,
+    "pollutants": {
+      "pm25": 165.15,
+      "pm10": 110.89,
+      "no2": 29.67,
+      "so2": 3.82,
+      "o3": 13.48,
+      "co": 7.06
+    }
+  },
+  {
+    "ward_name": "MEHRAULI",
+    "aqi": 163.26,
+    "pollutants": {
+      "pm25": 163.36,
+      "pm10": 102.88,
+      "no2": 27.09,
+      "so2": 2.74,
+      "o3": 17.9,
+      "co": 6.65
+    }
+  },
+  {
+    "ward_name": "SANGAM VIHAR WEST",
+    "aqi": 167.5,
+    "pollutants": {
+      "pm25": 168.75,
+      "pm10": 116.97,
+      "no2": 33.71,
+      "so2": 3.93,
+      "o3": 9.93,
+      "co": 5.54
+    }
+  },
+  {
+    "ward_name": "TIGRI",
+    "aqi": 165.08,
+    "pollutants": {
+      "pm25": 166.24,
+      "pm10": 112.81,
+      "no2": 31.82,
+      "so2": 3.89,
+      "o3": 13.52,
+      "co": 7.26
+    }
+  },
+  {
+    "ward_name": "ZAKIR NAGAR",
+    "aqi": 167.03,
+    "pollutants": {
+      "pm25": 167.88,
+      "pm10": 115.39,
+      "no2": 26.8,
+      "so2": 4.11,
+      "o3": 15.46,
+      "co": 8.65
+    }
+  },
+  {
+    "ward_name": "NAJAFGARH",
+    "aqi": 151.66,
+    "pollutants": {
+      "pm25": 152.18,
+      "pm10": 95.83,
+      "no2": 25.3,
+      "so2": 3.51,
+      "o3": 10.28,
+      "co": 6.67
+    }
+  },
+  {
+    "ward_name": "JAHANGIR PURI -II",
+    "aqi": 173.44,
+    "pollutants": {
+      "pm25": 173.46,
+      "pm10": 131.74,
+      "no2": 34.87,
+      "so2": 5.88,
+      "o3": 10.31,
+      "co": 10.61
+    }
+  },
+  {
+    "ward_name": "KUNWAR SINGH NAGAR",
+    "aqi": 155.46,
+    "pollutants": {
+      "pm25": 155.33,
+      "pm10": 101.08,
+      "no2": 26.14,
+      "so2": 4.48,
+      "o3": 13.1,
+      "co": 6.23
+    }
+  },
+  {
+    "ward_name": "VIKAS NAGAR",
+    "aqi": 156.74,
+    "pollutants": {
+      "pm25": 156.35,
+      "pm10": 103.74,
+      "no2": 26.33,
+      "so2": 4.8,
+      "o3": 13.13,
+      "co": 6.67
+    }
+  },
+  {
+    "ward_name": "VIKAS PURI",
+    "aqi": 157.94,
+    "pollutants": {
+      "pm25": 157.64,
+      "pm10": 103.85,
+      "no2": 27.04,
+      "so2": 5.11,
+      "o3": 13.0,
+      "co": 7.0
+    }
+  },
+  {
+    "ward_name": "MAHAVIR NAGAR",
+    "aqi": 157.42,
+    "pollutants": {
+      "pm25": 156.93,
+      "pm10": 104.68,
+      "no2": 26.63,
+      "so2": 4.96,
+      "o3": 13.12,
+      "co": 6.82
+    }
+  },
+  {
+    "ward_name": "DARYAGANJ",
+    "aqi": 159.1,
+    "pollutants": {
+      "pm25": 157.85,
+      "pm10": 95.67,
+      "no2": 26.93,
+      "so2": 3.11,
+      "o3": 11.93,
+      "co": 2.31
+    }
+  },
+  {
+    "ward_name": "BALJIT NAGAR",
+    "aqi": 172.2,
+    "pollutants": {
+      "pm25": 172.61,
+      "pm10": 147.51,
+      "no2": 14.56,
+      "so2": 3.11,
+      "o3": 8.5,
+      "co": 0.93
+    }
+  },
+  {
+    "ward_name": "NILOTHI",
+    "aqi": 154.44,
+    "pollutants": {
+      "pm25": 154.34,
+      "pm10": 99.0,
+      "no2": 26.03,
+      "so2": 4.26,
+      "o3": 13.41,
+      "co": 5.53
+    }
+  },
+  {
+    "ward_name": "PRATAP VIHAR",
+    "aqi": 154.07,
+    "pollutants": {
+      "pm25": 154.06,
+      "pm10": 97.28,
+      "no2": 26.11,
+      "so2": 4.15,
+      "o3": 13.53,
+      "co": 5.13
+    }
+  },
+  {
+    "ward_name": "PREM NAGAR",
+    "aqi": 153.95,
+    "pollutants": {
+      "pm25": 154.0,
+      "pm10": 98.78,
+      "no2": 24.25,
+      "so2": 4.3,
+      "o3": 13.21,
+      "co": 5.84
+    }
+  },
+  {
+    "ward_name": "SHASTRI NAGAR",
+    "aqi": 156.06,
+    "pollutants": {
+      "pm25": 154.08,
+      "pm10": 113.45,
+      "no2": 31.71,
+      "so2": 4.3,
+      "o3": 12.81,
+      "co": 6.41
+    }
+  },
+  {
+    "ward_name": "VISHNU GARDEN",
+    "aqi": 154.12,
+    "pollutants": {
+      "pm25": 153.54,
+      "pm10": 103.0,
+      "no2": 24.49,
+      "so2": 4.44,
+      "o3": 13.09,
+      "co": 6.14
+    }
+  },
+  {
+    "ward_name": "TUKHMIR PUR",
+    "aqi": 160.24,
+    "pollutants": {
+      "pm25": 160.05,
+      "pm10": 99.38,
+      "no2": 18.17,
+      "so2": 5.88,
+      "o3": 22.01,
+      "co": 15.12
+    }
+  },
+  {
+    "ward_name": "RAJ NAGAR",
+    "aqi": 169.89,
+    "pollutants": {
+      "pm25": 169.85,
+      "pm10": 105.13,
+      "no2": 35.91,
+      "so2": 9.54,
+      "o3": 12.15,
+      "co": 9.74
     }
   }
 ]
