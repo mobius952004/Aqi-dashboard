@@ -1,8 +1,8 @@
-export async function fetchWardAQI() {
-    const res = await fetch("/data/ward_aqi.json");
-    if (!res.ok) throw new Error("Failed to load ward AQI");
-    return res.json();
-  }
+export async function fetchLiveWardAQI() {
+  const res = await fetch("http://localhost:5000/api/wards");
+  if (!res.ok) throw new Error("Failed to fetch live AQI");
+  return res.json();
+}
   
   export async function fetchWardsGeoJSON() {
     const res = await fetch("/data/wards.geojson");

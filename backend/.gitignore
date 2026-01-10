@@ -2,6 +2,7 @@
 venv/
 __pycache__/
 *.py[cod]
+# data/
 
 # Node / React
 node_modules/
