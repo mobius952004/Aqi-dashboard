@@ -1,6 +1,8 @@
-import { MapContainer, TileLayer, GeoJSON } from "react-leaflet";
+import { MapContainer, TileLayer, GeoJSON, useMap } from "react-leaflet";
+import { useState } from "react";
 import { getAQIColor } from "../../constants/aqiColors";
 
+/* ------------------ Helpers ------------------ */
 function normalizeWardName(name) {
   if (!name) return "";
   return name
@@ -11,7 +13,27 @@ function normalizeWardName(name) {
     .trim();
 }
 
+/* ------------------ Interaction Toggle ------------------ */
+function MapInteractionController({ enabled }) {
+  const map = useMap();
+
+  if (enabled) {
+    map.scrollWheelZoom.enable();
+    map.dragging.enable();
+    map.doubleClickZoom.enable();
+  } else {
+    map.scrollWheelZoom.disable();
+    map.dragging.disable();
+    map.doubleClickZoom.disable();
+  }
+
+  return null;
+}
+
+/* ------------------ Main Component ------------------ */
 export default function PollutionMap({ wardsGeoJSON, wardAQIMap }) {
+  const [interactive, setInteractive] = useState(false);
+
   function styleFeature(feature) {
     const name =
       feature.properties.WARDNAME ||
@@ -20,7 +42,7 @@ export default function PollutionMap({ wardsGeoJSON, wardAQIMap }) {
       feature.properties.name ||
       "";
 
-    const ward = wardAQIMap[normalizeWardName(name)];
+    const ward = wardAQIMap?.[normalizeWardName(name)];
     const aqi = ward?.aqi;
 
     return {
@@ -39,7 +61,7 @@ export default function PollutionMap({ wardsGeoJSON, wardAQIMap }) {
       feature.properties.name ||
       "Unknown";
 
-    const ward = wardAQIMap[normalizeWardName(name)];
+    const ward = wardAQIMap?.[normalizeWardName(name)];
 
     layer.bindTooltip(
       `<strong>${name}</strong><br/>AQI: ${ward?.aqi ?? "N/A"}`,
@@ -47,28 +69,37 @@ export default function PollutionMap({ wardsGeoJSON, wardAQIMap }) {
     );
   }
 
-  console.log("GeoJSON:", wardsGeoJSON);
-  console.log("AQI map:", wardAQIMap);
-
-
   return (
-    <MapContainer
-      center={[28.6139, 77.2090]}
-      zoom={11}
-      className="h-full w-full z-0 rounded-4xl scroll-offset"
-    >
-      <TileLayer
-        attribution="© OpenStreetMap contributors"
-        url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
-      />
+    <div className="relative h-full w-full">
+      {/* Interaction Toggle Button */}
+      <button
+        onClick={() => setInteractive(!interactive)}
+        className="absolute top-3 right-3 z-1000 bg-gray-900 text-white px-4 py-2 rounded-lg shadow-md hover:bg-gray-800 transition"
+      >
+        {interactive ? "Disable Map Interaction" : "Enable Map Interaction"}
+      </button>
 
-      {wardsGeoJSON && (
-        <GeoJSON
-          data={wardsGeoJSON}
-          style={styleFeature}
-          onEachFeature={onEachWard}
+      <MapContainer
+        center={[28.6139, 77.2090]}
+        zoom={11}
+        className="h-full w-full rounded-4xl"
+        scrollWheelZoom={false} // important
+      >
+        <MapInteractionController enabled={interactive} />
+
+        <TileLayer
+          attribution="© OpenStreetMap contributors"
+          url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
         />
-      )}
-    </MapContainer>
+
+        {wardsGeoJSON && (
+          <GeoJSON
+            data={wardsGeoJSON}
+            style={styleFeature}
+            onEachFeature={onEachWard}
+          />
+        )}
+      </MapContainer>
+    </div>
   );
 }

@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import { fetchWardAQI, fetchWardsGeoJSON } from "../services/api";
+import { fetchLiveWardAQI, fetchWardsGeoJSON } from "../services/api";
 
 function normalizeWardName(name) {
   if (!name) return "";
@@ -20,7 +20,7 @@ export function useAQIData() {
     async function load() {
       try {
         const [aqiData, geojson] = await Promise.all([
-          fetchWardAQI(),
+          fetchLiveWardAQI(),
           fetchWardsGeoJSON()
         ]);
 
