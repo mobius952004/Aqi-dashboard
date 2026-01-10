@@ -18,8 +18,10 @@ const [wards, setWards] = useState([])
 
     const fetchAndUpdate = async () => {
       try {
-        await fetch("http://localhost:5000/api/update")
-
+        await fetch("http://localhost:5000/api/update", {
+          method: "POST",
+        })
+        
         const res = await fetch("http://localhost:5000/api/wards")
         const data = await res.json()
 
