@@ -27,7 +27,7 @@ export default function WardCard({ wardName, history }) {
 
 const sources = deriveSources(latestPollutants)
 const handleViewDetails = () => {
-    navigate(`/ward/${encodeURIComponent(wardName)}`, {
+    navigate(`/Aqi-dashboard/ward/${wardName}`, {
       state: {
         wardName,
         history,
