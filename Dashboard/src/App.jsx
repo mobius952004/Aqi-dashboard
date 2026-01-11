@@ -2,16 +2,22 @@ import Dashboard from "./pages/Dashboard"
 import bgimage from "./assets/Background.png"
 import { BrowserRouter, Routes, Route } from "react-router-dom"
 import WardDetails from "./pages/WardDetails"
+import { WardHistoryContext } from "./context/WardHistoryContext"
+import useWardHistory from "./hooks/useWardHistory"
+import { fetchLiveWardAQI } from "./services/Api"
 
 
 
 
 
 function App() {
+const historyByWard = useWardHistory(fetchLiveWardAQI)
 
 
   return (
     <>
+    <WardHistoryContext.Provider value={historyByWard}>
+
       <BrowserRouter>
        
 
@@ -32,6 +38,7 @@ function App() {
 
        
       </BrowserRouter>
+    </WardHistoryContext.Provider>
     </>
   )
 }

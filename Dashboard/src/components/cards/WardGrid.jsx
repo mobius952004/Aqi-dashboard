@@ -3,8 +3,9 @@
 import { useState } from "react"
 import WardCard from "./WardCard"
 import Pagination from "../pagination/Pagination"
-import useWardHistory from "../../hooks/useWardHistory"
-import { fetchLiveWardAQI } from "../../services/Api"
+// import useWardHistory from "../../hooks/useWardHistory"
+// import { fetchLiveWardAQI } from "../../services/Api"
+import { useWardHistoryContext } from "../../context/WardHistoryContext"
 
 const PAGE_SIZE = 6
 
@@ -12,7 +13,7 @@ export default function WardGrid({ wards }) {
   const [page, setPage] = useState(1)
 
   // 🔥 NEW: rolling time-series for all wards
-  const historyByWard = useWardHistory(fetchLiveWardAQI)
+  const historyByWard = useWardHistoryContext()
 
   const totalPages = Math.ceil(wards?.length / PAGE_SIZE)
   const start = (page - 1) * PAGE_SIZE

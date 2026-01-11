@@ -3,7 +3,7 @@ import Sparkline from "./Sparkline"
 import { calculateTrend, calculatePercentTrend } from "../../services/Trend"
 import { getAQIStyle } from "../../constants/aqiConfig"
 import { deriveSources } from "../../services/sourceDerivation"
-import WardDetails from "../../pages/WardDetails"
+// import WardDetails from "../../pages/WardDetails"
 import { useNavigate } from "react-router-dom"
 
 export default function WardCard({ wardName, history }) {

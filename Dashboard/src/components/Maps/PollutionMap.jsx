@@ -87,7 +87,7 @@ export default function PollutionMap({ wardsGeoJSON, wardAQIMap }) {
   return (
     <div className="relative h-full w-full">
       {/* Controls Container */}
-      <div className="absolute top-3 right-3 z-[1000] flex flex-col gap-2">
+      <div className="absolute top-3 right-3 z-1000 flex flex-col gap-2">
         
         {/* Toggle Traffic Button */}
         <button
