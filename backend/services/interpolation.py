@@ -6,6 +6,10 @@ from scipy.spatial.distance import cdist
 
 from backend.config import DATA_DIR
 
+from datetime import datetime
+import pytz
+
+IST = pytz.timezone("Asia/Kolkata")
 
 # -----------------------------
 # IDW INTERPOLATION
@@ -35,6 +39,7 @@ def get_ward_name(ward):
             return str(ward[key]).strip()
     return "Unknown"
 
+computed_at = datetime.now(IST).isoformat()
 
 # -----------------------------
 # MAIN COMPUTATION
@@ -52,8 +57,10 @@ def compute_ward_pollution(stations):
         result = {
             "ward_name": ward_name,
             "aqi": None,
-            "pollutants": {}
+            "pollutants": {},
+            "computed_at": computed_at
         }
+
 
         # -------- AQI --------
         aqi_points = [
