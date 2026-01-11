@@ -40,7 +40,7 @@ export default function Dashboard() {
     fetchAndUpdate()
 
     // Polling
-    const interval = setInterval(fetchAndUpdate, 60_000)
+    const interval = setInterval(fetchAndUpdate, 60_000*10)
 
     return () => {
       isMounted = false

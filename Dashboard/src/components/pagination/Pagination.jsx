@@ -32,7 +32,7 @@ export default function Pagination({ page, total, onChange }) {
           onClick={() => onChange(p)}
           className={`px-3 py-2 rounded ${
             p === page
-              ? "bg-blue-600 text-white"
+              ? "bg-amber-200 text-white"
               : "bg-gray-200"
           }`}
         >
