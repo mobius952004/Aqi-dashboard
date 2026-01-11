@@ -2,26 +2,33 @@ import requests
 import json
 import os
 import time
+from datetime import datetime
 
 from backend.config import WAQI_TOKEN, DELHI_BBOX, DATA_DIR
 
 MAP_URL = "https://api.waqi.info/map/bounds/"
 FEED_URL = "https://api.waqi.info/feed/@{}"
 
-
 def fetch_station_details(uid):
-    """Fetch pollutant data for a single station."""
     try:
         r = requests.get(
             FEED_URL.format(uid),
             params={"token": WAQI_TOKEN},
-            timeout=10
+            timeout=15
         )
         data = r.json()
+
         if data.get("status") != "ok":
             return {}
 
-        iaqi = data["data"].get("iaqi", {})
+        station_data = data.get("data", {})
+        iaqi = station_data.get("iaqi", {})
+        time_info = station_data.get("time", {})
+
+        timestamp = None
+        if "s" in time_info:
+            # Example: "2026-01-10 12:00:00"
+            timestamp = time_info["s"]
 
         def get_val(k):
             try:
@@ -30,17 +37,19 @@ def fetch_station_details(uid):
                 return None
 
         return {
-            "pm25": get_val("pm25"),
-            "pm10": get_val("pm10"),
-            "no2": get_val("no2"),
-            "so2": get_val("so2"),
-            "o3":  get_val("o3"),
-            "co":  get_val("co"),
+            "timestamp": timestamp,
+            "pollutants": {
+                "pm25": get_val("pm25"),
+                "pm10": get_val("pm10"),
+                "no2": get_val("no2"),
+                "so2": get_val("so2"),
+                "o3":  get_val("o3"),
+                "co":  get_val("co"),
+            }
         }
 
-    except Exception:
+    except requests.exceptions.RequestException:
         return {}
-
 
 def fetch_station_aqi():
     params = {
@@ -63,18 +72,15 @@ def fetch_station_aqi():
         if uid is None:
             continue
 
-        pollutants = fetch_station_details(uid)
+        details = fetch_station_details(uid)
 
         station = {
             "uid": uid,
             "lat": s["lat"],
             "lon": s["lon"],
-            "aqi": (
-                int(s["aqi"])
-                if isinstance(s.get("aqi"), (int, str)) and str(s["aqi"]).isdigit()
-                else None
-            ),
-            "pollutants": pollutants
+            "aqi": int(s["aqi"]) if str(s.get("aqi")).isdigit() else None,
+            "timestamp": details.get("timestamp"),
+            "pollutants": details.get("pollutants", {})
         }
 
         stations.append(station)
