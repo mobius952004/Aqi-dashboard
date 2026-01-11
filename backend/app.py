@@ -7,6 +7,7 @@ import time
 
 from backend.services.aqi_fetcher import fetch_station_aqi
 from backend.services.interpolation import compute_ward_pollution
+from backend.services.inference import run_stgcn_inference
 from backend.config import DATA_DIR
 
 app = Flask(__name__)
@@ -46,6 +47,14 @@ def get_wards():
     with open(path, "r", encoding="utf-8") as f:
         return jsonify(json.load(f))
 
+@app.route("/api/gcn")
+def get_gcn():
+    path = os.path.join(DATA_DIR, "gcn_output.json")
+    if not os.path.exists(path):
+        return {"error": "gcn_output.json not found"}, 404
+
+    with open(path, "r", encoding="utf-8") as f:
+        return jsonify(json.load(f))
 
 def update_ward_data():
     print("[INFO] Running scheduled ward update")
@@ -56,12 +65,16 @@ def update_ward_data():
     # Step 2: Interpolate ward pollution
     ward_data = compute_ward_pollution(stations)
 
+    #Step 3: Run GCN inference
+    gcn_data = run_stgcn_inference()
+
     print("[INFO] Ward update completed")
 
     return {
         "message": "Pollution data updated successfully",
         "stations": len(stations),
-        "wards": len(ward_data)
+        "wards": len(ward_data),
+        "gcn" : len(gcn_data)
     }
     
 def scheduler ():
