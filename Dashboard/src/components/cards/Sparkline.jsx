@@ -16,7 +16,7 @@ export default function Sparkline({ data, trend }) {
     "#9ca3af"
 
   return (
-    <svg viewBox="0 0 100 40" className="w-20 h-8">
+    <svg viewBox="0 0 120 40" className="w-full h-10">
       <polyline
         fill="none"
         stroke={color}

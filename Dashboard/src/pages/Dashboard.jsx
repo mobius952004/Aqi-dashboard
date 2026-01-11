@@ -1,7 +1,7 @@
 import Navbar from "../components/layout/Navbar";
 import PollutionMap from "../components/Maps/PollutionMap";
 import WardGrid from "../components/cards/WardGrid";
-import AQITrendChart from "../components/charts/AQITrendChart";
+// import AQITrendChart from "../components/charts/AQITrendChart";
 import { useAQIData } from "../hooks/useAQIData";
 import WardTable from "../components/Tables/WardTable";
 import { useState } from "react";
@@ -15,38 +15,7 @@ export default function Dashboard() {
   const [lastUpdated, setLastUpdated] = useState(null)
   const { wardsGeoJSON, wardAQIMap, loading } = useAQIData(wards);
 
-  // useEffect(() => {
-  //   let isMounted = true
 
-  //   const fetchAndUpdate = async () => {
-  //     try {
-  //       await fetch("http://localhost:5000/api/update", {
-  //         method: "POST",
-  //       })
-        
-  //       const data = await fetchLiveWardAQI()
-        
-
-  //       if (isMounted) {
-  //         setWards(data)
-  //         setLastUpdated(new Date())
-  //       }
-  //     } catch (err) {
-  //       console.error(err)
-  //     }
-  //   }
-
-  //   // Initial load
-  //   fetchAndUpdate()
-
-  //   // Polling
-  //   const interval = setInterval(fetchAndUpdate, 60_000)
-
-  //   return () => {
-  //     isMounted = false
-  //     clearInterval(interval)
-  //   }
-  // }, [])
   useEffect(() => {
   let isMounted = true
 
@@ -99,9 +68,9 @@ export default function Dashboard() {
           <WardGrid wards={wards} />
         </section>
 
-        <section id="charts" className=" py-12">
+        {/* <section id="charts" className=" py-12">
           <AQITrendChart wards={wards} />
-        </section>
+        </section> */}
         <section id="table" className="">
         <WardTable wards={wards} />
       </section>

@@ -13,7 +13,7 @@ export default function WardGrid({ wards }) {
   const [page, setPage] = useState(1)
 
   // 🔥 NEW: rolling time-series for all wards
-  const historyByWard = useWardHistoryContext()
+  const {historyByWard} = useWardHistoryContext()
 
   const totalPages = Math.ceil(wards?.length / PAGE_SIZE)
   const start = (page - 1) * PAGE_SIZE
@@ -21,7 +21,7 @@ export default function WardGrid({ wards }) {
 
   return (
     <div>
-      <h2 className="text-2xl font-semibold mb-6">
+      <h2 className="text-2xl text-white font-semibold m-6">
         Ward-wise AQI Status
       </h2>
 

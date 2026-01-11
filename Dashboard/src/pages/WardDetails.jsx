@@ -11,10 +11,11 @@ export default function WardDetails() {
   // ✅ hooks first (rules-of-hooks compliant)
   const { wardName } = useParams()
   const navigate = useNavigate()
-  const historyByWard = useWardHistoryContext()
+  const {historyByWard , gcnData} = useWardHistoryContext()
 
   // history may not be ready yet
   const history = historyByWard?.[wardName]
+//   const gcnPrediction = gcnData?.[ward_Name]
 
   /* ------------------ LOADING SKELETON ------------------ */
   if (!history) {
@@ -54,6 +55,19 @@ export default function WardDetails() {
 
   // ✅ mitigation derived from sources
   const actions = getMitigationActions(sources)
+
+
+//    const gcnaqiArr = gcnPrediction?.aqi
+//   const gcnlatestAQI = gcnaqiArr?.at(-1)?.value
+//   const gcnaqiPctTrend = calculatePercentTrend(gcnaqiArr, 10)
+//   const gcnaqiStyle = getAQIStyle(gcnlatestAQI)
+
+//   const gcnlatestPollutants = Object?.fromEntries(
+//     Object?.entries(gcnPrediction?.pollutants)?.map(([k, arr]) => [
+//       k,
+//       arr?.at(-1)?.value
+//     ])
+//   )
 
   /* ------------------ UI ------------------ */
 
@@ -101,6 +115,39 @@ export default function WardDetails() {
             )}
           </div>
         </div>
+{/* for gcn  */}
+{/* <div className="flex items-center gap-6">
+          <div className={`px-5 py-3 rounded-lg ${gcnaqiStyle.bg}`}>
+            <div className="text-3xl font-bold text-white">
+              {gcnlatestAQI}
+            </div>
+            <div className="text-sm text-white">
+              {gcnaqiStyle.label}
+            </div>
+          </div>
+
+          <div className="text-sm">
+            <p className="text-gray-500">AQI trend ()</p>
+            {gcnaqiPctTrend !== null ? (
+              <p
+                className={
+                  gcnaqiPctTrend > 0
+                    ? "text-red-500"
+                    : gcnaqiPctTrend < 0
+                    ? "text-green-500"
+                    : "text-gray-400"
+                }
+              >
+                {gcnaqiPctTrend > 0 ? "↑" : gcnaqiPctTrend < 0 ? "↓" : "→"}{" "}
+                {Math.abs(gcnaqiPctTrend)}%
+              </p>
+            ) : (
+              <p className="text-gray-400">Collecting data…</p>
+            )}
+          </div>
+        </div> */}
+
+
       </section>
 
       {/* CURRENT POLLUTANTS */}
@@ -120,6 +167,23 @@ export default function WardDetails() {
           ))}
         </div>
       </section>
+{/* CURRENT POLLUTANTS -GCN*/}
+        {/* <section>
+        <h2 className="text-lg font-semibold mb-3">
+          Current Pollutant Levels-AI-BASED
+        </h2>
+
+        <div className="grid grid-cols-2 sm:grid-cols-3 gap-4 text-sm">
+          {Object.entries(gcnlatestPollutants).map(([key, value]) => (
+            <div key={key} className="bg-white rounded shadow p-3">
+              <p className="text-gray-500 uppercase text-xs mb-1">{key}</p>
+              <p className="font-semibold">
+                {value} <span className="text-xs text-gray-400">µg/m³</span>
+              </p>
+            </div>
+          ))}
+        </div>
+      </section> */}
 
       {/* POLLUTANT TRENDS */}
       <section>

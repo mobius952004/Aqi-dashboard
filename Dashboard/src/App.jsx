@@ -4,22 +4,30 @@ import { BrowserRouter, Routes, Route } from "react-router-dom"
 import WardDetails from "./pages/WardDetails"
 import { WardHistoryContext } from "./context/WardHistoryContext"
 import useWardHistory from "./hooks/useWardHistory"
-import { fetchLiveWardAQI } from "./services/Api"
+import { fetchGcnWardAQI, fetchLiveWardAQI } from "./services/Api"
+import { useEffect, useState } from "react"
 
 
 
 
 
 function App() {
-const historyByWard = useWardHistory(fetchLiveWardAQI)
+  const [gcnData, setGcnData] = useState(null)
+  const historyByWard = useWardHistory(fetchLiveWardAQI)
+  useEffect(() => {
+    fetchGcnWardAQI()
+      .then(setGcnData)
+      .catch(console.error)
+  }, [])
+
 
 
   return (
     <>
-    <WardHistoryContext.Provider value={historyByWard}>
+      <WardHistoryContext.Provider value={{ historyByWard, gcnData }}>
 
-      <BrowserRouter>
-       
+        <BrowserRouter>
+
 
           <div
             className="min-h-screen bg-cover bg-center bg-no-repeat bg-fixed"
@@ -27,18 +35,18 @@ const historyByWard = useWardHistory(fetchLiveWardAQI)
           >
 
             <div className="min-h-screen bg-black/40">
-            <Routes>
+              <Routes>
 
-              <Route path="/Aqi-dashboard" element={<Dashboard />} />
-              <Route path="/Aqi-dashboard/ward/:wardName" element={<WardDetails />} />
-            </Routes>
+                <Route path="/Aqi-dashboard" element={<Dashboard />} />
+                <Route path="/Aqi-dashboard/ward/:wardName" element={<WardDetails />} />
+              </Routes>
             </div>
           </div>
 
 
-       
-      </BrowserRouter>
-    </WardHistoryContext.Provider>
+
+        </BrowserRouter>
+      </WardHistoryContext.Provider>
     </>
   )
 }
