@@ -23,7 +23,7 @@ export default function WardCard({ wardName, history }) {
   // }
 
   return (
-    <div className="bg-amber-100/60 rounded-xl p-4 shadow-md">
+    <div className="bg-amber-100/80 rounded-xl p-4 shadow-md">
 
       {/* Ward name */}
       <h3 className="text-sm font-semibold mb-3">
