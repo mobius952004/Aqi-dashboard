@@ -65,7 +65,7 @@ export default function Dashboard() {
             />
           )}
           
-            <AQILegend className="bg-amber-100 m-5 p-5 scroll-offset"/>
+            <AQILegend className=" m-5 p-5 scroll-offset"/>
           
         </section>
 
@@ -73,10 +73,10 @@ export default function Dashboard() {
           <WardGrid wards={wards} />
         </section>
 
-        <section id="charts" className="bg-gray-600 py-12">
+        <section id="charts" className=" py-12">
           <AQITrendChart wards={wards} />
         </section>
-        <section id="table" className="bg-blue-300">
+        <section id="table" className="">
         <WardTable wards={wards} />
       </section>
       <button onClick={() => window.scrollTo(0,0)}>↑</button>
