@@ -2,8 +2,12 @@
 import Sparkline from "./Sparkline"
 import { calculateTrend, calculatePercentTrend } from "../../services/Trend"
 import { getAQIStyle } from "../../constants/aqiConfig"
+import { deriveSources } from "../../services/sourceDerivation"
+import WardDetails from "../../pages/WardDetails"
+import { useNavigate } from "react-router-dom"
 
 export default function WardCard({ wardName, history }) {
+  const navigate=useNavigate()
   const aqiArr = history.aqi
   const latestAQI = aqiArr.at(-1)?.value
   const aqiTrend = calculateTrend(aqiArr, 10)
@@ -11,16 +15,29 @@ export default function WardCard({ wardName, history }) {
   const aqiPctTrend = calculatePercentTrend(aqiArr, 10)
   const showAQITrend = aqiPctTrend !== null
 
-  // wardMeta = {
-  //   sources: [
-  //     "Vehicular emissions",
-  //     "Road dust",
-  //     "Construction activity"
-  //   ],
-  //   area_km2: 4.2,
-  //   population: 185000,
-  //   dominant_pollutant: "PM2.5"
-  // }
+
+  const latestPollutants = Object.fromEntries(
+  Object.entries(history.pollutants).map(([k, arr]) => [
+    k,
+    arr.at(-1)?.value
+  ])
+
+)
+
+
+const sources = deriveSources(latestPollutants)
+const handleViewDetails = () => {
+    navigate(`/ward/${encodeURIComponent(wardName)}`, {
+      state: {
+        wardName,
+        history,
+        latestPollutants,
+        sources
+      }
+    })
+  }
+
+
 
   return (
     <div className="bg-amber-100/80 rounded-xl p-4 shadow-md">
@@ -100,14 +117,14 @@ export default function WardCard({ wardName, history }) {
       </div>
 
       {/* CTA */}
-      {/* {wardMeta?.sources?.length > 0 && (
+      {sources?.length > 0 && (
         <div className="mt-3 mb-3">
           <p className="text-xs text-gray-500 mb-1">
             Key contributing sources
           </p>
 
           <ul className="flex flex-wrap gap-1">
-            {wardMeta.sources.slice(0, 3).map((src, i) => (
+            {sources.slice(0, 3).map((src, i) => (
               <li
                 key={i}
                 className="text-xs px-2 py-0.5 rounded-full
@@ -117,8 +134,8 @@ export default function WardCard({ wardName, history }) {
               </li>
             ))}
           </ul>
-        </div> */}
-      {/* )} */}
+        </div>) }
+      
 
       {/* {wardMeta && (
   <div className="flex justify-between text-xs text-gray-500 mb-3">
@@ -131,6 +148,7 @@ export default function WardCard({ wardName, history }) {
   </div>
 )} */}
       <button
+        onClick={handleViewDetails}
         className="w-full py-2 text-sm rounded-md
                    bg-gray-900 text-white hover:bg-gray-800"
       >
