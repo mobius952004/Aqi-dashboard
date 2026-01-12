@@ -115,6 +115,7 @@ export default function WardCard({ wardName, history }) {
             {showTrend && (
               <>
                 {pctTrend > 0 ? "↑" : pctTrend < 0 ? "↓" : "→"}
+                {"  "}
                 {Math.abs(pctTrend)}%
               </>
             )}
