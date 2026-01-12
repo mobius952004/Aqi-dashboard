@@ -6,6 +6,7 @@ import { WardHistoryContext } from "./context/WardHistoryContext"
 import useWardHistory from "./hooks/useWardHistory"
 import { fetchGcnWardAQI, fetchLiveWardAQI } from "./services/Api"
 import { useEffect, useState } from "react"
+import { normalizeWardName } from "./services/WardKey"
 
 
 
@@ -14,11 +15,22 @@ import { useEffect, useState } from "react"
 function App() {
   const [gcnData, setGcnData] = useState(null)
   const historyByWard = useWardHistory(fetchLiveWardAQI)
+
+
   useEffect(() => {
     fetchGcnWardAQI()
-      .then(setGcnData)
+      .then(raw => {
+        const byWard = Object.fromEntries(
+          raw.map(w => [
+            normalizeWardName(w.ward_name),
+            w
+          ])
+        )
+        setGcnData(byWard)
+      })
       .catch(console.error)
   }, [])
+
 
 
 

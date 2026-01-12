@@ -95,8 +95,8 @@ export default function WardCard({ wardName, history }) {
   <div className="grid grid-cols-2 gap-x-4 gap-y-2 text-xs mb-4">
     {Object.entries(history.pollutants).map(([key, arr]) => {
       const latest = arr.at(-1)?.value
-      const trend = calculateTrend(arr, 60)
-      const pctTrend = calculatePercentTrend(arr, 60)
+      const trend = calculateTrend(arr, 30)
+      const pctTrend = calculatePercentTrend(arr, 30)
       const showTrend = pctTrend !== null
 
       return (

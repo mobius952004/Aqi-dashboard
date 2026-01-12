@@ -7,7 +7,7 @@ import WardTable from "../components/Tables/WardTable";
 import { useState } from "react";
 import { useEffect } from "react";
 import AQILegend from "../components/layout/AqiLegendUI";
-import { fetchLiveWardAQI } from "../services/api";
+import { fetchLiveWardAQI } from "../services/Api";
 
 
 export default function Dashboard() {

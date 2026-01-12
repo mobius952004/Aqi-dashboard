@@ -1,5 +1,5 @@
 import { useEffect, useMemo, useState } from "react";
-import { fetchWardsGeoJSON } from "../services/api";
+import { fetchWardsGeoJSON } from "../services/Api";
 
 function normalizeWardName(name) {
   if (!name) return "";
