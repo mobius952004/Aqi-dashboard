@@ -1,5 +1,5 @@
 import Navbar from "../components/layout/Navbar";
-import PollutionMap from "../components/Maps/PollutionMap";
+import PollutionMap from "../components/maps/PollutionMap";
 import WardGrid from "../components/cards/WardGrid";
 // import AQITrendChart from "../components/charts/AQITrendChart";
 import { useAQIData } from "../hooks/useAQIData";
@@ -13,8 +13,12 @@ import { fetchLiveWardAQI } from "../services/api";
 export default function Dashboard() {
   const [wards, setWards] = useState([])
   const [lastUpdated, setLastUpdated] = useState(null)
-  const { wardsGeoJSON, wardAQIMap, loading } = useAQIData(wards);
+  const { wardsGeoJSON, wardAQIMap, loading: geoLoading } = useAQIData(wards);
 
+  const dataReady =
+    !geoLoading &&
+    wards.length > 0 &&
+    Object.keys(wardAQIMap).length > 0;
 
   useEffect(() => {
   let isMounted = true
@@ -49,16 +53,17 @@ export default function Dashboard() {
 
       <main className="pt-16">
         <section id="map" className="h-[80vh] mx-50 mt-10 border-black border-4 rounded-4xl scroll-offset">
-          {loading ? (
-            <div className="h-full flex rounded-4xl items-center justify-center">
-              Loading pollution map…
-            </div>
-          ) : (
-            <PollutionMap
-              wardsGeoJSON={wardsGeoJSON}
-              wardAQIMap={wardAQIMap}
-            />
-          )}
+        {!dataReady ? (
+  <div className="h-full flex items-center justify-center">
+    Loading pollution map…
+  </div>
+) : (
+  <PollutionMap
+    key={lastUpdated}
+    wardsGeoJSON={wardsGeoJSON}
+    wardAQIMap={wardAQIMap}
+  />
+)}
           
             <AQILegend className=" m-5 p-5 scroll-offset"/>
           

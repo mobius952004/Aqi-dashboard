@@ -1,48 +1,3 @@
-// import { useEffect, useState } from "react";
-// import { fetchLiveWardAQI, fetchWardsGeoJSON } from "../services/api";
-
-// function normalizeWardName(name) {
-//   if (!name) return "";
-//   return name
-//     .toLowerCase()
-//     .replace(/-/g, " ")
-//     .replace(/\s+/g, " ")
-//     .replace(/[^\w\s]/g, "")
-//     .trim();
-// }
-
-// export function useAQIData() {
-//   const [wardsGeoJSON, setWardsGeoJSON] = useState(null);
-//   const [wardAQIMap, setWardAQIMap] = useState({});
-//   const [loading, setLoading] = useState(true);
-
-//   useEffect(() => {
-//     async function load() {
-//       try {
-//         const [aqiData, geojson] = await Promise.all([
-//           fetchLiveWardAQI(),
-//           fetchWardsGeoJSON()
-//         ]);
-
-//         const map = {};
-//         aqiData.forEach(w => {
-//           map[normalizeWardName(w.ward_name)] = w;
-//         });
-
-//         setWardAQIMap(map);
-//         setWardsGeoJSON(geojson);
-//       } catch (err) {
-//         console.error("AQI data load failed:", err);
-//       } finally {
-//         setLoading(false);
-//       }
-//     }
-
-//     load();
-//   }, []);
-
-//   return { wardsGeoJSON, wardAQIMap, loading };
-// }
 import { useEffect, useMemo, useState } from "react";
 import { fetchWardsGeoJSON } from "../services/api";
 
@@ -54,6 +9,8 @@ function normalizeWardName(name) {
     .replace(/\s+/g, " ")
     .replace(/[^\w\s]/g, "")
     .trim();
+
+
 }
 
 export function useAQIData(liveWards = []) {
@@ -71,7 +28,15 @@ export function useAQIData(liveWards = []) {
   const wardAQIMap = useMemo(() => {
     const map = {};
     liveWards.forEach(w => {
-      map[normalizeWardName(w.ward_name)] = w;
+      const rawName =
+        w.ward_name ||
+        w.ward ||
+        w.name;
+  
+      if (!rawName) return;
+  
+      map[normalizeWardName(rawName)] = w;
+      // console.log(w)
     });
     return map;
   }, [liveWards]);

@@ -72,12 +72,7 @@ export default function PollutionMap({ wardsGeoJSON, wardAQIMap }) {
         <strong class="text-lg block mb-1">${name}</strong>
         <span class="${ward?.aqi > 300 ? 'text-red-600 font-bold' : ''}">
           AQI: ${ward?.aqi ?? "N/A"}
-        </span>
-        ${
-          ward?.traffic_score
-            ? `<br/><span class="text-blue-600">🚗 Congestion: ${ward.traffic_score}</span>`
-            : ""
-        }
+
       </div>
     `;
 
